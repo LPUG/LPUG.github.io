@@ -12,6 +12,7 @@
         {% for href, title in [
           ['/blog', 'Blog'],
           ['/projects', 'Projects'],
+          ['/archive', 'Archive'],
           ['/about', 'About']
         ] %}
           <li{% if this.is_child_of(href) %} class="active"{% endif
