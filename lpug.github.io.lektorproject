@@ -1,2 +1,4 @@
 [project]
 name = lpug.github.io
+[servers.ghpages]
+target = master+https://LPUG/lpug.github.io
