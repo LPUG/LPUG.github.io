@@ -1,4 +1,5 @@
 [project]
 name = lpug.github.io
-[servers.master]
-target = https://github.com/LPUG/lpug.github.io.git
+
+[servers.ghpages-https]
+target = ghpages+https://LPUG/LPUG.github.io

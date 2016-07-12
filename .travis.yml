@@ -1,6 +1,6 @@
 language: python
 python: 2.7
-install: "pip install Lektor"
+install: "pip install git+https://github.com/lektor/lektor#egg=Lektor"
 script: "lektor build"
 cache:
   directories:
@@ -8,6 +8,6 @@ cache:
     - $HOME/.cache/lektor/builds
 deploy:
    provider: script
-   script: "lektor deploy master"
+   script: "lektor deploy ghpages-https"
    on:
      branch: content
