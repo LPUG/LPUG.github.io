@@ -35,8 +35,6 @@ h3 {
 footer {
   border-top: 1px solid #333;
   padding: 1em 0;
-  display: flex;
-  justify-content: center;
 }
 
 div.base-container {
@@ -117,6 +115,7 @@ iframe.osmap{
   width: 90%;
   height: 500px;
 }
+img.footer-logo {}
 
 @media(min-width: 600px) {
   .base-font-size {
