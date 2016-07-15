@@ -1,6 +1,6 @@
 # Leipzig Python User Group Website
 
-[![Build Status](https://travis-ci.org/LPUG/lpug.github.io.svg?branch=master)](https://travis-ci.org/LPUG/lpug.github.io)
+[![Build Status](https://travis-ci.org/LPUG/LPUG.github.io.svg?branch=content)](https://travis-ci.org/LPUG/LPUG.github.io)
 
 ## how to run
 ```
