@@ -1,28 +1,84 @@
 body {
-    font-family: 'Verdana', sans-serif;
-    margin: 50px 25px;
+/*    font-family: "Droid Sans", Futura, Helvetica, sans-serif; */
+  font-family: 'Lato', serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+  font-family: 'Roboto Slab', serif;
+}
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+}
+h1.title {
+  text-align: center;
+}
+h2 {
+  font-size: 2.2em;
+}
+h3 {
+  font-size: 1.8em;
+}
+
+.base-font-size {
+  font-size: 16px;
+}
+
+footer {
+  border-top: 1px solid #333;
+  padding-top: 1em;
+  display: flex;
+  justify-content: center;
+}
+
+div.base-container {
+  max-width: 100%;
+  padding: 0 1.6em;
+}
+
+pre,code {
+  font-family: "Roboto Mono", monospace;
+}
+
+code {
+  border-radius: 5px;
 }
 
 a {
-    color: #2a99b6;
+  text-decoration: none;
+  color: #5699cd;
 }
-
 a:hover {
-    color: #33bbdf;
+  box-shadow: 0 3px 0px 0 #5699cd;
+  transition: box-shadow 200ms ease-in;
 }
 
-header, footer, div.page {
-    width: 760px;
-    margin: 0 auto;
-    background: #daeef3;
-    padding: 20px 30px;
+.navbar {
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-transform: uppercase;
+}
+li.active a {
+  pointer-events: none;
+  color: #aaa;
+  box-shadow: 0 3px 0px 0 #fee672;
 }
 
-header h1 {
-    color: #169bbd;
-    margin: 0;
-    font-weight: normal;
-    font-size: 42px;
+ul.navbar li {
+  padding: 0 0 1em 0;
+}
+ul.navbar li:last-child {
+  padding: 0;
 }
 
 header nav ul {
@@ -33,10 +89,68 @@ header nav ul {
 
 header nav ul li {
     display: inline;
-    margin: 0 8px 0 0;
     padding: 0;
 }
 
 div.page {
-    background: #f1fbfe;
+  padding: 2.71em 0;
+}
+
+div.page img {
+  max-width: 100%;
+  height: auto;
+}
+div.page ul {
+  padding: 0;
+}
+.meta {
+  color: #777;
+  padding-bottom: 1em;
+  margin: 0;
+}
+.post-title {
+  padding: .6em 0 .3em 0;
+  margin: 0;
+}
+
+@media(min-width: 600px) {
+  .base-font-size {
+    font-size: 20px;
+  }
+
+  div.base-container {
+    min-width: 550px;
+    max-width: 80%;
+  }
+
+  .navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  ul.navbar li {
+    padding: 0;
+  }
+}
+
+@media(min-width: 1000px) {
+  .base-font-size {
+    font-size: 24px;
+  }
+
+  div.base-container {
+    min-width: 900px;
+    max-width: 60%;
+  }
+
+  .navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  ul.navbar li {
+    padding: 0;
+  }
 }
