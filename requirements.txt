@@ -1,1 +1,1 @@
-lektor==2.3
+-e git+https://github.com/lektor/lektor.git#egg=lektor
