@@ -37,6 +37,11 @@ table {
   margin: 0 auto;
 }
 
+thead {
+  background-color: #F5F5F5;
+  text-align: left;
+}
+
 footer {
   border-top: 1px solid #333;
   padding: 1em 0;
