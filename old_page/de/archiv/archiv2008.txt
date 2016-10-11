@@ -1,0 +1,161 @@
+restindex
+    crumb: Archiv 2008
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2008
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2008
+========================================
+
+
+Zweiundzwanzigster Stammtisch am 08. Januar 2008
+-------------------------------------------------
+
+Auch diesmal konnten auch wir einige neue Besucher begrüßen. 
+Mike Müller hielt einen Vortrag über die Nutzung von Python
+für ein gekoppeltes Simulationsmodell. Aus der folgenden Betrachtung
+des Quelltextes entspann sich eine interessante Diskussion zum
+Schreibstil von Programmen. PEP8_ wurde auch den Teilnehmern, die
+erst mit Python beginnen vorgestellt. Aber auch die, die Python
+schon länger nutzen, konnten etwas Neues dazulernen. 
+
+Der nächste Stammtisch findet am 12. Februar 2008 statt.
+
+Maik Derstappen wird einen Vortrag über Plone halten.
+
+.. _PEP8: http://www.python.org/dev/peps/pep-0008
+
+Dreiundzwanzigster Stammtisch am 12. Februar 2008
+-------------------------------------------------
+
+Maik Derstappen hat einen interessanten und ausführlichen
+Vortrag über Plone gehalten. Der Stammtisch war gut besucht
+und wir konnten wieder Gäste aus Dresden begrüßen.
+
+Wir haben unseren Auftritt auf den `Chemnitzer Linux-Tagen`_
+geplant und Aufgaben für die Postererstellung verteilt. 
+
+.. _`Chemnitzer Linux-Tagen`: http://chemnitzer.linux-tage.de/2008
+
+Vierundzwanzigster Stammtisch am 11. März 2008
+-------------------------------------------------
+
+Wir haben über unseren erfolgreichen Stand auf den  `Chemnitzer Linux-Tagen`_
+und einige interessante Vorträge gesprochen.
+
+Der nächste Stammtisch findet am 08. April 2008 statt.
+
+Fünfundzwanzigster Stammtisch am 8. April 2008
+-------------------------------------------------
+
+Es gab interessante Diskussionen zu unterschiedlichen Themen.
+
+Der nächste Stammtisch findet am 13. Mai 2008 statt.
+
+
+Sechsundzwanzigster Stammtisch am 13. Mai 2008
+-------------------------------------------------
+
+Christian Theune hielt einen interessanten Vortrag
+über Grok_. Seine praktische Vorführung zeigte sehr schön,
+wie man ein neues Grok-Projekt aufbaut.
+Es gab viele Fragen von Teilnehmern, die mit Hilfe
+der Beispielanwendung erläutert wurden.  
+
+.. _Grok: http://grok.zope.org
+
+Der nächste Stammtisch findet am 10. Juni 2008 statt.
+Markus Zapke-Gründemann wird in einem Vortrag über ein
+Programm zum Umwandeln von CSV-Dateien in XML-Dateien
+vorstellen.
+
+
+Siebenundzwanzigster Stammtisch am 10. Juni 2008
+------------------------------------------------
+
+Markus Zapke-Gründemann hat einem Vortrag über ein
+Programm zum Umwandeln von CSV-Dateien in XML-Dateien
+vorgestellt. Es entspann sich eine interessante Diskussion
+über den Quelltext.
+
+Der nächste Stammtisch findet am 8. Juli 2008 statt.
+
+
+
+Achtundzwanzigster Stammtisch am 8. Juli 2008
+------------------------------------------------
+
+Obwohl das Treffen paralell zur EuroPython stattfand,
+nahmen doch einige Leute an der Diskussion teil.
+
+Der nächste Stammtisch findet am 12. August 2008 statt.
+
+
+Neunundzwanzigster Stammtisch am 12. August 2008
+------------------------------------------------
+
+Mike Müller hat matplotlib_ vorgestellt.
+
+Der nächste Stammtisch findet am 9. September 2008 statt.
+ 
+
+.. _matplotlib: http://matplotlib.sourceforge.net/
+
+
+
+Dreißigster Stammtisch am 9. September 2008
+------------------------------------------------
+
+Wir haben uns mit einem Programmierwettbewerb des Linux-Magazins
+beschäftigt und die Python-Lösung gemeinsam verbessert.
+
+Der nächste Stammtisch findet am 14. Oktober statt. 
+
+Einunddreißigster Stammtisch am 14. Oktober 2008
+------------------------------------------------
+
+Die Frage ob doctest mit Unicode umgehen kann,  hat uns intensiv beschäftigt.
+Nach längere Suche haben wir erkannt, dass auch Doc-Strings
+ganz normale Python-Strings sind und deshalb darin enthaltene Backslashes
+entweder entwertet werden müssen oder der gesamte Doc-String als Raw-String
+definiert werden muss. Gruppenintellegenz funktioniert.
+
+Der nächste Stammtisch findet am 11. November statt.
+
+Zweiunddreißigster Stammtisch am 11. November 2008
+--------------------------------------------------
+
+Der `Programmierwettbwerb des LINUX Magazines`_ hat uns eine Menge
+Diskussionsstoff geliefert. Python war die häufigste Sprache bei den
+eingesendeten Lösungen. Auch Zeilenanzahl und Laufzeiten der Pythonprogramme
+brauchen sich vor Lösungen in anderen Sprachen nicht zu verstecken.
+Auch der Vergleich mit Perl, Ocaml, Haskell oder Ruby war äußerst interessant.  
+
+Der nächste Stammtisch findet am 9. Dezember mit dem Thema
+"Generatoren in Python als unixartige Pipelines" statt.
+
+.. _`Programmierwettbwerb des LINUX Magazines`: http://www.linux-magazin.de/heft_abo/ausgaben/2008/12/vom_thron_gestuerzt
+
+
+
+Dreiunddreißigster Stammtisch am 9. Dezember 2008
+-------------------------------------------------
+
+Wir haben uns mit dem Thema "Generatoren in Python als unixartige Pipelines"
+beschäftigt. Durch das Hintereinanderschalten von Generatoren entsteht ein
+ganz eigener Programmierstil. Zeitweise hatten wir den Eindruck eine andere
+Sprache als Python zu nutzen. Richtig angewendet, können Generatoren besonders
+für große Datenmengen Vorteile bringen. 
+  
+
+Der nächste Stammtisch findet am 13. Januar statt.
+
+
+
+.. |br| raw:: htm
+
+   <br/>
+

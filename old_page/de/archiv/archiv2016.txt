@@ -1,0 +1,263 @@
+restindex
+    crumb: Archiv 2016
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2016
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2016
+========================================
+
+
+Einhundertdreizehntes Treffen am 12. Januar 2016
+------------------------------------------------
+
+Diesmal gab es eine Vorstellung eines interessanten Python-Paketes:
+  
+| Mike Müller
+
+**Datenanalyse mit pandas - Python satt Excel**
+
+pandas_ ist ein leistungsfähiges Python-Paket für die Datenanalyse.
+Der Vortrag stellte die wichtigsten Merkmale dieser, vor allem im
+wissenschaftlichen Umfeld genutzten Bibliothek, kurz vor.
+Eine Beispiel-IPython-Notebook-Session zeigte wie wenige Zeilen Python
+und pandas auch komplexere Bearbeitungsschritte umsetzen.
+pandas ist für viele typische Excel-Aufgaben geeignet und bietet eine
+gute Alternative für die Arbeit mit Tabellenkalkulationsprogrammen. 
+
+Wie immer entspann sich eine interessante Diskussion mit vielen Fragen.
+Dabei kamen viele interessante Aspekte von pandas zur Sprache.
+
+Das nächste Treffen ist am 9. Februar 2016. 
+
+.. _pandas: http://pandas.pydata.org/
+
+
+Einhundertvierzehntes Treffen am 9. Februar 2016
+------------------------------------------------
+
+Wir hatten wieder einen Vortrag. Diesmal wurde es wissenschaftlich. 
+Die Beschreibung ist auf Englisch, da Anne den Vortrag schon mal auf
+der EuroSciPy 2015 getestet hat. Der Vortrag war aber auf Deutsch.
+
+| Dr. Anne Weber
+
+**Modelling complex geochemical processes – 
+A PyQt-based GUI improves the scientific workflow**     
+
+Description
++++++++++++
+
+A PyQt based GUI was developed to enhance the accessibility of complex scientific water quality models. With the help of the GUI a non-scientific audience can simulate scenarios for in-situ removal of dissolved iron from groundwater. I will also focus on how the special design of a GUI and the data handling behind can structure complex processes, guide the user and minimize runtime errors.
+
+
+Motivation
+++++++++++
+
+In hydrology the application of numerical simulation software is mostly restricted to scientists or specialized engineers. This is due to the general approach of the software to potentially represent as much 'reality' as possible and consequently also due to the complexity of processes they cover. In an engineer's business, however, there are well-defined tasks which increasingly depend on the application of such scientific simulation software.
+
+Scientific background
++++++++++++++++++++++
+
+Groundwater is one of the major resources for drinking water, but usually needs to be treated before supply. Often dissolved metals, such as iron or manganese, need to be removed. In-situ metal removal (MR) represents a cost-effective alternative to above-ground treatment of drinking water. Though due to complex geochemical processes and its inaccessibility it is more difficult to design and monitor. Today this technique is often applied in a rather empiric way and prognostic calculations for future applications are rarely found. Target of the present work was to develop a graphical user interface (GUI) that supports the individual design of in-situ MR reactors, depending on the site-specific hydraulic and chemical conditions.
+Approach
+
+PyQt [1], the Python binding to the mighty Qt framework for programming GUIs, was used to develop a purpose-built graphical user interface: FeNariO. FeNariO enables the user to:
+
+* adapt a predefined scenario for in-situ removal of iron from groundwater,
+* run the scientific groundwater simulation software Modflow [2] for 
+  groundwater flow, PhreeqC [3] for chemical equilibration, and Pht3d [4] 
+  for reactive transport, and finally
+* extract or plot results.
+
+Besides to the practical outcome, I will focus on my experiences, how complex processes can be handled employing the intrinsic capabilities of a graphical user interface, as:
+
+* the graphical layout (e.g. structuring the problem, data visualization),
+* predefined user interaction (e.g. directed data input, minimization of
+  erroneous user input).
+
+Conclusions
++++++++++++
+
+FeNariO is one example of how to increase the software accessibility to a broader, non-scientific audience. Having a well-defined modelling task which needs to be solved for many individual cases, purpose designed GUIs are one way to ease a future modelling workflow. As many scientists are already using Python as a programming language, it is obvious to have a glance at PyQt or PySide when developing these GUIs.
+
+References
+++++++++++
+
+[1] https://wiki.python.org/moin/PyQt
+
+[2] http://water.usgs.gov/ogw/modflow/MODFLOW.html
+
+
+
+
+Das nächste Treffen ist am 8. März 2016. 
+
+
+Einhundertfünfzehntes Treffen am 8. März 2016
+---------------------------------------------
+
+Es gab wieder einen Vortrag:
+
+| Mike Müller
+
+**Conda - Oder wenn die Installation einfach funktioniert**     
+
+Der Paket-Installer conda_ kommt aus dem wissenschaftlichen Python-Umfeld.
+Er bietet gegenüber pip und virtuelenv eine Reihe von Vorteilen.
+Insbesondere die Installation von Python-Paketen, die Erweiterungen in C
+und/oder Fortran mit vielen Abhängigkeiten enthalten wird mit conda
+oft viel einfacher.
+Das Anlegen von voneinander isolierten Umgebungen für verschiedene 
+Python-Versionen funktioniert reibungslos.
+
+Der Vortrag stellt die Grundfunktionalität von conda vor.
+Neben der Installation zeigen Beispiele wie sich schnell deklarativ
+Pakete bauen lassen.
+
+.. _conda: http://conda.pydata.org/docs/
+ 
+Das nächste Treffen ist am 12. April 2016. 
+
+Wie immer gab es eine interessante Diskussion. Für viele Zuhörer
+war conda völlig neu. Nach den Reaktionen zu urteilen werden es
+viele dieser Zuhörer ausprobieren.
+
+Einhundertsechzehntes Treffen am 12. April 2016
+-----------------------------------------------
+
+Wir hatten einen interessanten Vortrag:
+
+| Markus Zapke-Gründemann
+
+
+**Django Projekte als Python Pakete deployen**
+
+Python hat mächtige, vielseitige und schnelle Packaging Werkzeuge: ``setuptools``, ``pip`` und ``wheel``. Warum nicht diese Werkzeuge benutzen, um ein Django Projekt zu packen und zu deployen anstatt komplette Git Repositories auf Server zu pushen?
+
+In diesem Vortrag wirst du lernen, wie ein Django Projekt strukturiert werden sollte, damit daraus ein Python Paket werden kann. Du wirst mehr über die Vorteile erfahren, die dies für Entwicklung und Deployment bringt, aber auch lernen welche Fallstricke es zu vermeiden gilt.
+
+Über den Referenten
++++++++++++++++++++
+
+Markus Zapke-Gründemann ist ein engagierter Open Source Softwareentwickler. Als er vor mehr als fünfzehn Jahren zu Programmieren begann, war Open Source Software und ihre Community die einzige Lernquelle, die er zur Verfügung hatte. Ohne sie wäre er niemals geworden, was er heute ist. Das ist einer der Hauptgründe für seine Beteiligung an Open Source: Etwas zurück geben und die Community wachsen lassen.
+
+Heutzutage liegt sein primärer Fokus auf der Entwicklung von Web Applikationen mit Django. Er legt großen Wert auf Tests und Dokumentation sowie auf die Nutzung von Automatisierungs-Technologien.
+
+Er ist Eigentümer der Firma `transcode <http://www.transcode.de/>`_ , die Python, Django und Ember.js Softwareentwicklung sowie auch Django Schulungen anbietet. Des weiteren ist er Vorstandsmitglied im `Deutschen Django Verein e.V. <http://www.django-de.org/>`_ , aktiver Unterstützer von `Django Girls <https://djangogirls.org/>`_  und einer der Lab Leads der `Open Knowledge Labs Leipzig <http://codefor.de/leipzig/>`_ .
+
+Einhundertsiebzehntes Treffen am 10. Mai 2016
+-----------------------------------------------
+
+Wir hatten wieder ein Open-Space-Treffen.
+Ein Thema war di Nutzung von OpenCV mit Python.
+Mit ein paar Zeilen Python-Quelltext lassen sich interessante Anwendungen umsetzen.
+Von der einfachen Farbmanipulation von Fotos bis hin zu komplexen Verfahren
+wie Gesichtserkennung reicht die Palette der Möglichkeiten.
+Es gab reichlich Fragen und eine lebhaft Diskussion dazu.
+
+
+Einhundertachtzehntes Treffen am 14. Juni 2016
+----------------------------------------------
+
+Es gab einen Vortrag:
+
+
+| Mike Müller
+
+**PyLint & Co. - Werkzeuge für besseren Code**   
+
+Python hat mit PEP8_ einen offiziellen Style Guide.   
+Viele Open Source Projekte wenden diesen an.
+Es ist äußerst empfehlenswert eigene Projekte ebenfalls PEP8-konform
+zu entwickeln. Zum Glück gibt es zahlreiche Werkzeuge, die die Kontrolle der 
+Einhaltung der Formatierungsvorschläge von PEP8 automatisch überprüfen.
+Der Vortrag stellt einige dieser Werkzeuge vor und demonstriert deren
+Anwendung. Helfer wie PyLint_ können noch einiges mehr als die
+Formatierung zu überprüfen. Mit statischer Quelltextanalyse weisen sie
+auf potentielle Fehler und Unsauberkeiten hin. Der Vortrag gibt einen
+kleinen Einblick in die zahlreichen Möglichkeiten von PyLint und
+zeigt Beispiele für die Anpassung der Konfiguration an die Bedürfnisse
+eigener Projekte.
+
+Wir immer hatten wir in lebhaft Diskussion über den Vortrag und
+eine Reihe andere Python-Themen.
+
+.. _PEP8: https://www.python.org/dev/peps/pep-0008/
+.. _PyLint: https://www.pylint.org/
+
+
+Einhundertneunzehntes Treffen am 12. Juli 2016
+----------------------------------------------
+
+Unser Thema war:
+
+**Die neue Website der Leipzig Python User Group**
+
+Bisher hatten wir keine eigene Website sondern haben `diese Präsenz`_
+bei der Python Academy. Das hat zur Folge, dass inhaltlich Änderungen
+nur die  Python Academy vornehmen kann.
+
+Wir wollen das ändern und eine eigene Site bauen, die mehrere
+Gruppen-Mitglieder verwalten können. Bei diesem Treffen Ideen gesammelt
+und verschiedene Systeme analysiert. Die Wahl ist auf Lektor_ gefallen.
+In einer produktiven Atmosphäre ging die Arbeit gut voran.
+Das Skelett der LPUG-Site_ steht. Der Inhalt und CSS kommen Schritt für Schritt.
+Auch Travis CI ist eingerichtet.
+Ideen und Anregungen sind als Issues_ willkommen.
+
+
+.. _`diese Präsenz`: http://www.python-academy.de/User-Group/index.html
+.. _Lektor: https://github.com/lektor/lektor/
+.. _LPUG-Site: https://lpug.github.io/ 
+.. _Issues: https://github.com/LPUG/LPUG.github.io/issues
+
+Einhundertzwanzigstes Treffen am 9. August 2016
+-----------------------------------------------
+
+Es gab einen Vortrag:
+
+| Andreas Linz
+
+**Rust - A safe systems programming language**
+
+Rust ist eine Systemprogrammiersprache deren Ziel es ist
+Speichersicherheit zu garantieren aber gleichzeitig dem Programmierer
+volle Kontrolle überlässt.
+Dabei vereint Rust die Vorteile aus Sprachen wie C (unmanaged) und Java
+(managed memory).
+Ausserdem bietet Rust Hochsprachenfeatures wie Iteratoren (*list
+comprehensions*), pattern-matching, Polymorphismus, Typinferenz und
+vieles mehr.
+Im Vortrag werde ich Anhand einfacher Beispiele die Sprachbesonderheiten
+demonstrieren, zeigen wie man ein einfaches Projekt erstellt und ein
+Beispiel dafür geben wie man Rust aus Python aufrufen kann.
+
+Eine gesamte Programmiersprache in einem Vortag vorzustellen ist
+ein Herausforderung.
+Andreas hat das gut gemeistert und viele Beispiele gezeigt.
+Vielleicht schreiben wir in naher Zukunft Erweiterungen in Rust
+statt in C.
+
+Einhunderteinundzwanzigstes Treffen am 13. September 2016
+---------------------------------------------------------
+
+Unser Thema war diesmal:
+
+**Neue Features in Python 3.6**
+
+Wir haben uns Python 3.6.0b1 angeschaut.
+Diese Version_ biete einiges Neues. Neben den formatierten String-Literals
+haben wir uns mit den sortierten Dictionaries beschäftigt und diese
+ausgiebig ausprobiert.
+
+.. _Version: https://www.python.org/downloads/release/python-360b1/
+
+
+.. |br| raw:: html
+
+   <br/>
+

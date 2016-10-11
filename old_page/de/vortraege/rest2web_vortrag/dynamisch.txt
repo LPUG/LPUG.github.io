@@ -1,0 +1,18 @@
+restindex
+    crumb: Dynamisch?
+    format: rest
+    page-title: rest2web - Dynamischer oder statisch ?
+    include: Yes
+/restindex
+
+
+============================
+Dynamischer oder statisch ?
+============================
+
+* die meisten Webframeworks erzeugen Seiten dynamisch
+* für viele Anwendungen reichen statische Seiten, die nicht ständig geändert werden müssen
+* z.B. Manuals, Artikel u.ä.
+* statische Webseiten
+* Kombination mit dynamischen Inhalten ist immer möglich
+* Hosting ist sehr einfach und preisgünstig zu haben

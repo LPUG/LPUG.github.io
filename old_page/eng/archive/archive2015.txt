@@ -1,0 +1,362 @@
+
+restindex
+    crumb: Archive 2015
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2015
+    template-encoding: utf8
+    encoding: utf8
+    output-encoding: utf8
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2015
+========================================
+
+One Hundredth First Meeting, Tuesday January 13, 2015
+-----------------------------------------------------
+
+We started into the new year with a talk:
+
+| *Mike Müller*
+| **Metaclasses in 30 Minutes**
+
+For many users metaclasses are probably one of the most opaque
+topics in Python.
+This talk attempts to answer the questions "What are metaclasses?"
+and "What are they good for?".
+
+Metaclasses provide an interesting approach to buidl tools for
+code analyses. Using metaclasses in production should be the
+exception, not the rule and done only after seriously considering all
+other options.
+
+We had a lively discussion about this topic.
+It turns out that metaclasses are not that difficult after all.
+The slides_ provide more details.
+
+.. _slides:  http://www.python-academy.de/User-Group/vortraege/meta/meta.slides.html
+
+The next meeting will be on February 10, 2015.
+
+
+One Hundredth Second Meeting, Tuesday February 10, 2015
+-------------------------------------------------------
+
+This time we ha "reversed" talk:
+
+| *Jan Zelmer*
+| **Teach me Inheritance**
+
+Jan briefly presented his problem.
+The participants explained to him how how his problem could be solved with
+inheritance. This was a very interactive process.
+Jan developed his program according to the instructions form the audience.
+A few days before the talk, he posted_ the problem description and explained_
+details. The result_ looks good.
+
+
+.. _posted: http://starship.python.net/pipermail/python-leipzig/2015-February/000655.html
+
+.. _explained: http://starship.python.net/pipermail/python-leipzig/2015-February/000656.html
+
+.. _result: https://github.com/NeuroanatomyAndConnectivity/RandomAxonalGrowthModel
+
+
+The next meeting will be on March 10, 2015.
+
+One Hundredth Third Meeting, Tuesday March 10, 2015
+---------------------------------------------------
+
+We prepared our both at the local Linux fest "Chemnitzer Linuxtage"
+
+We setup our Raspberry Pi. Not it has the newest OS and blinks furiously.
+We figured out details such as which links and IDEs to recommend.
+
+
+The next meeting will be on April 14, 2015.
+
+
+One Hundredth Fourth Meeting, Tuesday April 14, 2015
+----------------------------------------------------
+
+We had a presentation:
+
+| *Maik Derstappen*
+| **Plone 5 is Coming - Nicer, Leaner, Faster!**
+
+It gave preview on the new version of the professional open source
+content management system (CMS). A very important new features is WCMS, which
+provide a better user interface. Further the new resource registry improves
+the functionality of Plone.
+
+
+The next meeting will be on May 12, 2015.
+
+
+One Hundredth Fifth Meeting, Tuesday May 12, 2015
+----------------------------------------------------
+
+Again, we ha a very interesting presentation:
+
+
+
+| *Markus Zapke-Gründemann and René Muhl*
+| **Lightweight REST with durga**
+
+durga_ is a lightweight and simple to use REST client.
+It makes resources available as Python objects.
+It allows to use schema to validate the JSON data that it sends to and
+receives from a REST server.
+durga supports Python 2 and 3 as well as PyPy.
+
+
+.. _durga: https://github.com/transcode-de/durga
+
+During the extend discussion, we went deep inside the source code.
+There were many questions and suggestions.
+A few days later, it even resulted in pull request from other user group
+members.
+Overall a very worthwhile event.
+
+
+The next meeting will be on June 9, 2015.
+
+One Hundredth Sixth Meeting, June 9, 2015
+-----------------------------------------
+
+Our talk this time:
+
+| *Mike Müller*
+| **Mochi - A New Approach to Functional Python Programming**
+|
+
+Python has partial support for functional programming.
+Mochi_ is a Python-like functional language that compiles to Python 3 and
+PyPy 3 bytecode. It can use Python libraries and can be used from Python.
+
+Mochi adds several functional features.
+For example:
+
+* tail recursion optimization
+* no re-assignments in function definitions
+* persistent data structures
+* pattern matching
+* algebraic data types
+* a pipeline operator
+* better anonymous functions
+* Erlang-style actors
+* Lisp-style macros
+* many useful builtin functions
+
+This presentation gave an overview of Mochi and demonstrated how to use
+in an IPython Notebook. You can keep  using all these great existing Python
+libraries.
+
+We had a lively discussion.
+Mochi is still a young and is missing quite a bit of documentation.
+Nevertheless, it incorporates many very interesting   
+
+The next meeting will be on July 14, 2015.
+
+.. _Mochi: https://github.com/i2y/mochi
+
+
+
+**Attention**: We will meet one hour earlier than usual and at a different venue:
+ 
+| Cityhochhaus
+| gateprotect GmbH
+| Augustusplatz 9
+| Leipzig
+
+
+|br|
+
+Please talk to the receptionist and ask for the Python User Group in the
+12th floor. Follow the signs.
+
+Our talk this time:
+
+| Arnold Krille
+
+**Full Stack with Python: How Bash, C, Python, Ruby and Javascript
+work together**
+
+
+One Hundredth Seventh Meeting, July 14, 2015
+--------------------------------------------
+
+This was our first meting at the new venue:
+
+| Cityhochhaus
+| gateprotect GmbH
+| Augustusplatz 9
+|
+
+This means we have bigger room for our meetings with an ver increasing number of 
+participants. 
+
+We had an interesting 
+Damit haben wir einen größeren Raum für die Treffen mit immer mehr Teilnehmern.
+Es gab einen Interessanten Vortrag über die Projekte von gateprotect, der über
+in reines Python-Thema weit hinaus ging.
+
+| Arnold Krille
+
+**Full Stack with Python: How Bash, C, Python, Ruby and Javascript
+work together**
+
+Das nächste Treffen ist am 11. August 2015.
+
+
+
+Einhundertachtes Treffen am 11. August 2015
+--------------------------------------------
+
+Wir waren wieder im Cityhochhaus und es gab wider einen Vortrag:
+
+| Mike Müller
+
+**Pythonprogramme beschleunigen - Eine Fallstudie**
+
+Dieser Vortrag hat ein aktuelles Projekt vorgestellt in dem der Import und
+die Umwandlung größerer Text-Dateien nötig sind. Je nach Lösungsweg ergaben
+sich sehr lange Laufzeiten oder ein enormer Speicherbedarf. Beispiele zeigten
+einige Möglichkeiten, die Python bietet, um den geeigneten Kompromiss aus Laufzeit
+und Speicherverbrauch zu erreichen. 
+
+Es gab eine lebhafte Diskussion mit vielen Alternativvorschlägen zu den vorgestellten
+Lösungsansätzen.
+
+Das nächste Treffen ist am 8. September 2015.
+
+Einhundertneuntes Treffen am 8. September 2015
+----------------------------------------------
+
+Der Vortrag:
+
+| Mike Müller
+
+**Threads mit Python im praktischen Einsatz**
+
+hat demonstriert, dass Threads trotz des GIL Python-Programme schneller
+machen können.
+Der Vortrag hat ein Projekt vorgestellt, in dem ein Python-Programm
+viele tausend externe Prozesse startet. Dabei ist ein Thread jeweils
+für das Erzeugen der Eingabe-Dateien, das Ausführen des Programms und
+das Auslesen der Ergebnis-Dateien verantwortlich.
+Auf einem Mehrkernrechner helfen die Threads die Laufzeit des Programms
+signifikant zu verringern. 
+
+Wie immer gab es zahlreiche Fragen und es entwickelte sich eine
+interessante Diskussion über Threads.
+
+Das nächste Treffen ist am 13. Oktober 2015.  
+
+
+Einhundertzehntes Treffen am 13. Oktober 2015
+---------------------------------------------
+
+Im Vortrag ging es um das Testen:
+
+| Simon Jacobi
+
+**Property-Based Testing mit hypothesis**
+
+
+Der Vortrag hat hypothesis_ vorgestellt. Diese Python-Bibliothek erzeugt Unit-Tests,
+die insbesondere Grenzfälle gut abdecken. Der Ansatz wird oft Property-Based Testing
+genannt.
+
+Eine Property ist eine allgemeine Gesetzmäßigkeit, der eine bestimmte Funktion folgen soll.
+Beispiele:
+
+* ``x + y == y + x`` - Kommutativität
+* ``sorted(sorted(elems)) == sorted(elems)`` - Idempotenz
+* ``f(text, n)`` - resultiert für keinen ``str`` ``text`` und keinen positiven 
+  ``int`` ``n`` in einer Exception
+
+hypothesis generiert anhand einer Spezifikation zufällige Inputs, mit denen diese 
+Properties überprüft werden.
+
+Der Vortag ist als IPython Notebook_ verfügbar.
+
+
+.. _hypothesis: https://hypothesis.readthedocs.org/en/latest/
+.. _Notebook: https://github.com/sjakobi/property-based-testing-mit-hypothesis/blob/master/Hypothesis.ipynb
+
+Das nächste Treffen ist am 10. November 2015.  
+
+Einhundertelftes Treffen am 10. November 2015
+---------------------------------------------
+
+Wir hatten wieder in guten Vortrag:
+
+| Martin Czygan
+
+**Komplexe Batch-Pipelines mit Luigi**
+
+Luigi_ ist eine Python-Bibliothek, die bei der Erstellung komplexer
+Batch-Pipelines hilfreich ist. Sie übernimmt dependency resolution,
+workflow management, Visualisierung etc.
+
+Der Vortrag hat die Features der Bibliothek vorgestellt. Der Code eines
+existierenden Projektes hat gezeigt was Luigi alles kann.
+
+.. _Luigi: https://pypi.python.org/pypi/luigi
+
+Das nächste Treffen ist am 8. Dezember 2015.  
+
+
+
+
+One Hundredth Twelfes Meeting, December 8, 2015
+------------------------------------------------
+
+
+Our topic this time:
+
+
+**Open Space**
+
+As compared to a presentation, an `Open Space`_ has no pre-set content.
+If you took part in a BarCamp_ or an Unconference_ before, you will know what it
+is all about. Please bring interesting topics with you that your are
+knowledgeable about. We can do also the other way around: Please bring your
+interesting Python questions. Of course, there is no guarantee that you
+will get an exhausting answer. The PythonCamp_ in Cologne has many years of
+tradition. I addition, the PyUnConf_ in Hamburg took place twice already. 
+Both events are great and always offer lots of deep Python content.
+We will work with the same concepts just and order of magnitude smaller.  
+
+One topic waour booth at the Chemnitzer Linux-Tagen (CLT_).
+
+
+
+.. _`Open Space`: https://en.wikipedia.org/wiki/Open_Space_Technology
+.. _BarCamp: https://en.wikipedia.org/wiki/BarCamp
+.. _Unconference: https://en.wikipedia.org/wiki/Unconference
+.. _PythonCamp: https://www.barcamptools.eu/pycamp201604
+.. _PyUnConf: http://www.pyunconf.de/
+.. _CLT: https://chemnitzer.linux-tage.de/2016/de
+
+
+
+
+.. |mike| raw:: html
+
+  Mike M&uuml;ller
+
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+
+.. |fuer| raw:: html
+
+  f&uuml;r
+
+.. |br| raw:: html
+
+   <br/>

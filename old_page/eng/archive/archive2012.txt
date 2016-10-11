@@ -1,0 +1,163 @@
+restindex
+    crumb: Archive 2012
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2012
+    include: Yes
+    encoding: cp1252
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2012
+========================================
+
+Sixty Ninth Meeting, Tuesday January 10, 2012
+-----------------------------------------------
+
+Again we had a Python newbie attending who went home with a lot of new
+information about Python. We will again exhibit at Chemnitzer Linux Tage.
+We went through the questions we received last time and started to develop a
+concept for our booth. 
+ 
+The next meeting will be on February 14, 2012.
+
+Seventieth Meeting, Tuesday February 14, 2012
+---------------------------------------------
+
+We started the project
+`Python macht Schule <https://bitbucket.org/PySV/python_macht_schule>`_.
+Last year |markus| in collaboration with the bookstore Lehmanns successfully
+offered a Python course for kids. The last session was in December at Python
+Academy.   
+
+We would like to continue this project. As the first step we need appropriate
+teaching material. Therefore we developed a 
+`first outline <https://bitbucket.org/PySV/python_macht_schule/wiki/Home>`_.
+
+Since the material is under an Open Source license (cc-by, 3cBSD), it will be
+available for any purpose. The content is designed for kids and teenagers.
+We would like to use the material for course here in Leipzig but also encourage
+the use elsewhere. We would like to get teachers from different schools involved
+as disseminators.
+
+The next meeting will be on March 20, 2012.
+
+
+Seventy First Meeting, Tuesday March 20, 2012
+---------------------------------------------
+
+We evaluated our booth at the Linux Fest Chemnitzer Linux-Tage.
+This year there were three Python related booths. One tutorial and several talks
+about Python topics were presented.
+
+We continued the work on our project
+`Python macht Schule <https://bitbucket.org/PySV/python_macht_schule>`_
+and distributed the work for single chapters.
+
+The next meeting will be on April 10, 2012.
+
+Seventy Second Meeting, Tuesday April 10, 2012
+----------------------------------------------
+
+We discussed different topics such what possibilities Python offers to
+communicate with Hardware. Another topic was GUI programming, especially
+animation of text.
+
+The next meeting will be on May 8, 2012.
+
+Seventy Third Meeting, Tuesday May 8, 2012
+---------------------------------------------
+
+Mike Müller will talked about matplotlib_. This library allows to create 
+2D Plots of high quality with only a few lines of Python.
+The presentation demonstrated the basic principles with examples and
+the possibilities to create animations and videos with matplotlib.
+
+.. _matplotlib: http://matplotlib.sourceforge.net/
+
+
+The next meeting will be on June 12, 2012.
+
+Seventy Fourth Meeting, Tuesday June 12, 2012
+---------------------------------------------
+
+We had a guest from the Munich Python User Group and the winner of
+a Python coding contest. The discussion explored what happened in the
+Python community at conferences. We also talk about ``else`` statement
+at unusual places and why is good for. 
+
+The next meeting will be on July 10, 2012.
+
+
+Seventy Fifth Meeting, Tuesday July 10, 2012
+--------------------------------------------
+
+Andreas Bunkahle presented about Python und OpenCV.
+
+OpenCV is a very powerful and fast library for image processing and machine
+vision. The version 2.1 is stable works reliably with Python 2.6. Examples
+of usage include face and pattern recognition as well as webcam control
+or morphing among many other possibilities. 
+
+The slides with source code are `available <http://www.bunkahle.com/links.cgi?num=0088>`_.
+The source code is written and tested for version 2.1. Adjust the syntax for higher
+OpenCV versions.
+
+The next meeting will be on September 11, 2012. August is summer break.
+
+Seventy Sixth Meeting, Tuesday September 11, 2012
+-------------------------------------------------
+
+Mike Müller reported about `EuroSciPy <http://www.euroscipy.org>`_.
+The with edition of this conference took place in Brussels, Belgium. More
+than 200 attendees enjoyed two days of tutorials and two days with
+talks. Again, the conference covered a amazingly wide variety of scientific topics.
+
+Mike presented his talk
+`No GIL - Parallel Python Programming with Cython and OpenMP <http://www.euroscipy.org/talk/6857>`_. 
+Cython allows to work with NumPy Arrays based on the commonly used OpenMP
+technology for multicore, parallel programming. This allows to to temporally turn off the
+Global Interpreter Lock (GIL).
+
+The next meeting will be on November 13, 2012. The meeting in October will be
+replaced by the PyCon DE 2012 conference.
+
+
+Seventy Seventh Meeting, Tuesday November 13, 2012
+--------------------------------------------------
+
+We evaluated `PyCon DE 2012 <https://2012.de.pycon.org/>`_.
+The conference was full success and, after two years in Leipzig, moves on
+to `Cologne in 2013 <https://2013.de.pycon.org/>`_
+
+A few of us took part in the Code Retreat of PyCon DE 2012.
+We presented our impressions and did a bit of programming about
+the "Game of Life".
+
+The next meeting will be on December 11, 2012.
+
+Seventy Eighth Meeting, Tuesday December 11, 2012
+--------------------------------------------------
+
+We had a barcamp-like session about concurrency and parallel programming.
+Stefan Schwarzer presented parts of his `talk <https://2012.de.pycon.org/programm/schedule/sessions/29/>`_
+at PyCon DE 2012.
+
+The next meeting will be on January 8, 2013.
+
+
+
+
+.. |mike| raw:: html
+
+  Mike M&uuml;ller
+  
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+  
+.. |fuer| raw:: html
+
+  f&uuml;r
+  
+  

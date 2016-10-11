@@ -1,0 +1,253 @@
+restindex
+    crumb: Archiv 2010
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2010
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2010
+========================================
+
+
+
+
+Sechsundvierzigster Stammtisch am 12. Januar 2010
+-------------------------------------------------
+
+Markus Zapke-Gründemann hat die Module xml.sax_ und
+xml.sax.handler_ vorgestellt, mit denen sich schnell große
+Mengen an XML-Daten verarbeiten lassen.
+Der interessante Vortrag hat die Philosophie des ereignisorientierten
+(SAX) parsen gut vermittelt. Es gab eine ausführliche Erläuterung
+des Beispielprogramms.
+
+Das nächste Treffen ist am 9. Februar.
+Stefan Schwarzer wird seinen Vortrag für die `Chemnitzer Linux Tage`_
+mit dem Titel "Robustere Python-Programme" halten.
+
+
+.. _xml.sax: http://docs.python.org/library/xml.sax.html
+.. _xml.sax.handler: http://docs.python.org/library/xml.sax.handler.html
+
+
+
+Siebenundvierzigster Stammtisch am 9. Februar 2010
+--------------------------------------------------
+
+Stefan Schwarzer hat seinen Vortrag für die `Chemnitzer Linux Tage`_
+mit dem Titel `Robustere Python-Programme`_ gehalten.
+Es gab einigen Hinweise von den Zuschauern.
+Weiterhin haben wir über unseren Stand für die `Chemnitzer Linux Tage`_
+gesprochen und dessen Gestaltung geplant.
+
+
+Das nächste Treffen ist am 9. März.
+Mike Müller wird über die `PyCon 2010`_ berichten.
+
+.. _`Chemnitzer Linux Tage`: http://chemnitzer.linux-tage.de/2010
+.. _`Robustere Python-Programme`: http://chemnitzer.linux-tage.de/2010/vortraege/detail.html?idx=368
+.. _`PyCon 2010`: http://us.pycon.org
+
+Achtundvierzigster Stammtisch am 9. März 2010
+--------------------------------------------------
+
+Mike Müller hat das Geschehen auf der `PyCon 2010`_ zusammengefasst.
+Schwerpunkte waren z.B. die unterschiedlichen Implementierungen von Python
+wie CPython, Jython, IronPython und PyPy, Webentwicklung, Migration
+zu Python 3.x und Testen.
+
+Das nächste Treffen ist am 13. April.
+Wir werden unseren Stand auf der Veranstaltung `Chemnitzer Linux Tage`_
+auswerten und Verbesserungen für nächstes Jahr planen.
+
+
+Neunundvierzigster Stammtisch am 13. April 2010
+--------------------------------------------------
+
+Wir konnten wieder zwei neue Teilnehmer begrüßen. Diesmal sogar
+aus dem doch etwas weiter entfernten Jena.
+Es gab eine lebhafte Diskussion über verschiedene Themen.
+Wir haben besprochen, welche Poster bzw. andere Materialien wir
+für Messen und Konferenzen erstellen könnten.
+Inspiriert vom `Kölner BarCamp`_ haben wir erste Pläne für ein
+BarCamp in Leipzig geschmiedet. Die regelmäßigen Teilnehmer
+an den User Group Treffen in Leipzig und in Berlin sowie an Python
+Interessierte in Dresden, Chemnitz, Jena und anderen Städten,
+von denen aus Leipzig in zwei Stunden erreicht werden kann, sollten
+schon ausreichen, um eine sinnvolle Teilnehmerzahl
+zusammenzubekommen.
+
+
+
+Das nächste Treffen ist am 11. Mai.
+Julian Moritz wird einen Vortrag über CouchDB_ halten.
+
+.. _CouchDB: http://couchdb.apache.org
+.. _`Kölner BarCamp`: http://wiki.python-forum.de/PythonBarCamp
+
+
+
+Fünfzigster Stammtisch am 11. Mai 2010
+--------------------------------------------------
+
+Julian Moritz einen interessanten Vortrag über CouchDB_ gehalten.
+Die Konzepte JSON, HTTP, kein Schema und Parallelität sowie die
+Nutzung des Map-Reduce-Ansatzes zur Abfrage bestimmen das
+Arbeiten mit CouchDB. Es gab viele Fragen insbesondere natürlich zur
+Nutzung mit Python. Diesmal waren wir 13 Leute unter denen auch
+wieder drei Neu-Teilnehmer waren.
+
+Das nächste Treffen ist am 1. Juni. Das ist eine Woche früher
+als unser planmäßiger zweiter Dienstag im Monat.
+
+Einundfünfzigster Stammtisch am 1. Juni 2010
+--------------------------------------------------
+
+Christina Theune von gocept_ hat einen sehr interessanten Vortrag über die
+ZODB_ gehalten. Neben einigen Demos zur Anwendung gab es reichlich
+Hintergrundinformationen vom Mitentwickler an der ZODB.
+Das es sich bei der ZODB um eine echte Objektdatenbank und keine
+"relationale Datenbank mit Objekt-Vorhang" handelt ist sicher allen
+deutlich geworden.
+
+Das nächste Treffen ist am 13. Juli.
+
+.. _gocept: http://www.gocept.com
+.. _ZODB: http://zodb.org/
+
+
+
+Zweiundfünfzigster Stammtisch am  13. Juli. 2010
+--------------------------------------------------
+
+Mike Müller hat über die EuroSciPy_ in Paris berichtet.
+Die Teilnehmerzahl hat sich seit der letzten Konferenz 2009
+in Leipzig mehr als verdreifacht. Das zeigt das wachsende
+Interesse an der Nutzung von Python für wissenschaftliche
+und technische Zwecke.
+
+Nach zwei Tagen Tutorials für Beginner und Fortgeschrittene
+mit Themen wie die Nutzung von NumPy, Scipy, Matplotlib,
+Mayavi  oder Versionskontrolle, Testen und Erweiterung in andere
+Sprachen, gab es zwei Tage interessante Vorträge.
+Die Themen reichten vom Mathematik, über Physik und Biologie
+bis hin zu GIS und Software-Werkzeugen für die wissenschaftliche
+Arbeit.
+
+
+Das nächste Treffen ist am 10. August 2010.
+
+
+.. _EuroSciPy: http://www.euroscipy.org
+
+
+Dreiundfünfzigster Stammtisch am 10. August 2010
+------------------------------------------------
+
+Nach Kurzberichten über die EuroPython_ von Stefan Schwarzer 
+und die OSCON_ von Mike Müller hielt Markus Zapke-Gründemann
+einen Vortrag über `distribute, pip und virtualenv`_.
+Es gab eine anregende Diskussion zu diesem für alle Teilnehmer
+interessanten Thema.  
+
+
+Das nächste Treffen ist am 21. September 2010. Das ist eine
+Woche später als der planmäßige zweite Dienstag im Monat, der
+sich mit der DZUG-Tagung_ in Dresden überschneidet.
+
+
+
+..  _`distribute, pip und virtualenv`: http://www.slideshare.net/streetcleaner/arbeiten-mit-distribute-pip-und-virtualenv
+.. _EuroPython: http://www.europython.eu
+.. _OSCON: http://oscon.com
+.. _DZUG-Tagung: http://www.zope.de/tagung/Dresden_2010
+
+
+Vierundfünfzigster Stammtisch am 21. September 2010
+---------------------------------------------------
+
+Das Treffen fand eine Woche später als der planmäßige
+zweiten Dienstag im Monat statt, da viele uns auf der DZUG-Tagung_
+in Dresden waren.
+Stefan Schwarzer stellte die Unified Modeling Language (UML)
+vor. Der `interessante Vortrag`_ fand reges Interesse und ging nahtlos
+in eine Diskussion über, aus der noch viele neue Aspekte hervorgingen.
+Ein Klassendiagramm_ mit VioletUML zeigt beispielhaft die Anwendung
+der UML.
+
+Weiterhin haben wir über das Thema PyConDe, die deutsche Python-Konferenz,
+diskutiert und die Beratung auf der DZUG-Tagung ausgewertet.
+
+Das nächste Treffen ist am 12. Oktober 2010.
+Markus Zapke-Gründemann wird über "Celery - Eine asynchrone Task
+Queue (nicht nur) für Django" sprechen. 
+
+.. _`interessante Vortrag`: ../vortraege/uml.html
+.. _`Klassendiagramm`: ../vortraege/violet_uml_example.png
+
+
+Fünfundfünfzigster Stammtisch am 12. Oktober 2010
+-------------------------------------------------
+
+Markus Zapke-Gründemann hat "Celery - Eine asynchrone Task
+Queue (nicht nur) für Django" vorgestellt. Die Folien sind
+als PDF_ oder über scribd_ verfügbar. Die Möglichkeiten von
+Celery für die parallele und zeitgesteuerte Ausführung von
+Aufgaben wurden gut deutlich. Als Beispiel diente ein
+Spam-Filter in Django, der das potenziell zeitaufwendige
+Filtern asynchron an einen anderen Dienst weitergibt.
+Für den Nutzer bleibt die Webanwendung in der Zwischenzeit
+weiterhin verfügbar.
+
+Danach haben wir über die PyConDe 2011 gesprochen.
+Wir sind zu dem Schluss gekommen, das Leipzig als Austragungsort
+sinnvoll wäre. Wir werden ein Bewerbungsdokument
+zusammenstellen.
+
+Das nächste Treffen ist am 9. November 2010.
+Wir werden einen Sprint zu python.de-Webseite veranstalten.
+Damit wollen wir den Inhalt und den Aufbau der Seite wesentlich
+verbessern.
+
+.. _PDF: ../vortraege/celery.pdf
+.. _scribd: http://www.scribd.com/doc/39203296/Celery-Eine-asynchrone-Task-Queue-nicht-nur-fur-Django
+
+
+Sechsundfünfzigster Stammtisch am 9. November 2010
+--------------------------------------------------
+
+Wir haben in einen Sprint zu python.de-Webseite, um Informationen zu Python im
+deutschsprachigen Raum zusammengetragen.
+Wir nutzen dazu das auf Python basierende CMS Plone. Es ist jeder herzlich
+eingeladen sich mit einzubringen. Das Portal ist vorläufig unter
+http://python.inqbus.de verfügbar und sollte dann später unter python.de
+erreichbar sein. Jeder der einen Zugang haben möchte, kann sich dort selbst
+registrieren und per E-Mail an Maik Derstappen (maik [Punkt] derstappen
+[AT] derstappen-it [Punkt] de) gerne weitere Berechtigungen erhalten.
+
+Das nächste Treffen ist am 14. Dezember 2010.
+
+Siebenundfünfzigster Stammtisch am 14. Dezember 2010
+----------------------------------------------------
+
+Wir haben uns mit unserm Auftritt auf den Chemnitzer Linuxtagen 2011
+beschäftigt. Wir werden unser Poster verbessern. Auch werden wir
+alle Stände mit Python-Bezug (Python, Django, Zope) zusammen legen
+und so Synergieeffekte schaffen.
+
+Ein weiteres Thema war eine Fallstudie mit Vergleich eines Programms in C++
+und eines Programms in Python, das die gleiche Aufgabe mit ca. einem Drittel
+der Progrmmzeilen erledigt. Natürlich ist der Quelltext in Python wesentlich
+besser lesbar. 
+
+ 
+
+
+Das nächste Treffen ist am 11. Januar 2011.
+
+.. |br| raw:: htm
+
+   <br/>
+

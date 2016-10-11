@@ -1,0 +1,234 @@
+restindex
+    crumb: Archiv 2006
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2006
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2006
+========================================
+
+Erster Stammtisch am 14.02.2006
+---------------------------------
+
+Am 14.02.2006. um 20:00 Uhr fand der erste Stammtisch
+im Schulungszentrum der Python Academy statt.
+|br|
+Die Leipzig Python User Group ist damit gegründet.
+Regelmäßige Treffen am zweiten Dienstag im Monat wurden vereinbart.
+Als Treffpunkt stehen die Räume der Python Academy zur Verfügung.
+|br|
+Es wurde ein Vortrag gehalten:
+
+Mike Müller "Parallelisierung von Pythonanwendungen mit Python Remote
+Objects (PYRO)"
+Der Vortrag ist als PDF-Datei_ verfügbar.
+|br|
+In der noch kleinen Gruppe gab es reichlich Diskussionsstoff,
+der auch nach vier Stunden noch nicht erschöpft war.
+
+Beim nächsten Treffen wird Stefan Schwarzer einen Vortrag halten.
+
+Das zweite Treffen wurde für den 16.03.2006 vereinbart.
+
+.. _PDF-Datei: ../vortraege/pyro_tutorial.pdf
+
+|br|
+
+
+Zweiter Stammtisch am 16.03.2006
+---------------------------------
+
+Das zweite Treffen fand am 16.03.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+
+|br|
+Da der reguläre Termin, zweiter Dienstag im Monat,
+gerade auf den vorletzten Tag
+der CeBIT fiel (14.03.2006), haben wir uns entschieden,
+den Termin um zwei Tage zu verschieben.
+
+|br|
+Stefan Schwarzer hat einen sehr interessanten Vortrag über
+die Anwendung des Web-Frameworks
+CherryPy gehalten. Der Vortrag ist selbst mit CherryPy
+erstellt und ist unter
+http://www.sschwarzer.com/talks/cherrypy zu sehen.
+
+|br|
+Die Anwendergruppe hat ein paar neue Mitglieder bekommen,
+die intensiv an der regen
+Diskussion teilgenommen haben. Selbst nach fünf Stunden
+gab es noch so viel zu besprechen,
+dass wir bereits Diskussionsthemen für das nächste Treffen haben.
+
+|br|
+Dieses wird am 11.04.2006 um 20.00 Uhr am gleichen Ort stattfinden. Geplant war,
+dass Andreas Kaiser über wxPython und wax spricht. Da er nicht teilnehmen kann,
+wird Mike Müller über rest2web (http://www.voidspace.org.uk/python/rest2web/) sprechen.
+
+
+Dritter Stammtisch am 11.04.2006
+---------------------------------
+
+Das dritte Treffen fand am 11.04.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+Mike Müller sprach über `"rest2web - dynamische Erstellung statischer Webseiten"`_.
+Der Vortrag ist mit rest2web erstellt.
+|br|
+Es sind wieder zwei neue Interessenten zu uns gestoßen, die rege an der Diskussion
+teilgenommen haben die wieder bis weit nach Mitternacht dauerten.
+|br|
+Das nächste Treffen findet am 09.05.2006 zur gleichen Zeit am gleichen Ort statt.
+Diesmal ist Andreas Kaiser mit einem Vortrag über wxPython und wax eingeplant.
+|br|
+Nachtrag: Der Vortrag wird von Ralf Muschall gehalten und stellt Tkinter vor.
+
+.. _`"rest2web - dynamische Erstellung statischer Webseiten"`: ../vortraege/rest2web_vortrag/index.html
+
+Vierter Stammtisch am 09.05.2006
+---------------------------------
+
+Das vierte Treffen fand am 09.05.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+Ralf Muschall hielt einen `Vortrag über Tkinter`_ und gab einen Überblick über dessen Anwendung.
+|br|
+Wir konnten wieder einen neuen Interessenten begrüßen. Die Diskussion war wieder
+sehr interessant. Ein Thema Linguistik von natürlichen und Programmiersprachen.
+Eine ad hoc Vorführung von IPython_ war besonders für unseren "Neuzugang" interessant.
+|br|
+Das nächste Treffen findet am 13.06.2006 zur gleichen Zeit am gleichen Ort statt.
+Diesmal ist Andreas Kaiser mit einem Vortrag über wxPython und wax eingeplant.
+
+.. _`Vortrag über Tkinter`: ../vortraege/tkinter/Tkinter.html
+.. _IPython: http://ipython.scipy.org/
+
+Fünfter Stammtisch am 13.06.2006
+---------------------------------
+
+Das fünfte Treffen fand am 13.06.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+
+Stefan Schwarzer hat seinen sehr interessanten Vortrag `Speed up your Python code`_
+als Generalprobe für die EuroPython gehalten. Deshalb war der Vortrag auch in englisch.
+Es gab eine lebhafte Diskussion sowohl über den Inhalt des Vortrages aber auch über
+die Form und die Umsetzung. Das Ganze hat sowohl für die Zuhöhrenden als auch den Vortragende viel gebracht.
+Die Diskussion rund um Python haben wieder gut in den nächsten Tag hinein gereicht.
+
+Das nächste Treffen findet am 11.07.2006 um 20:00 Uhr wieder an gleicher Stelle statt.
+Mike Müller wird seinen EuroPython-Vortrag "Python Academy – Teaching Python in Germany" halten.
+
+
+.. _`Speed up your Python code`: ../vortraege/optimization_talk.pdf
+
+
+Sechster Stammtisch am 11.07.2006
+---------------------------------
+
+Das sechste Treffen fand am 11.07.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+
+Mike Müller hat seinen EuroPython-Vortrag `Python Academy - Teaching Python in Germany`_ gehalten.
+Deshalb war der Vortrag auch in englisch.
+
+Die vor einer Woche stattgefundene EuroPython_ gab genug Diskussionsstoff.
+Besonders interessant für die Stammtischteilnehmer waren die Vorträge zu Versionsverwaltungssystemen
+(`Bazaar NG`_ und Mercurial_). Die Diskussion zu Vor- und Nachteilen unterschiedlicher Systeme
+war intensiv und brachte neue Einblicke in das Thema.
+
+Das nächste Treffen findet am 08.08.2006 um 20:00 Uhr wieder an gleicher Stelle statt. Stefan
+Schwarzer wird sein Programm ftputil_ vorstellen.
+
+Hinweis: Der Stammtischtermin wurde auf den 16.08. verschoben.
+
+Siebenter Stammtisch am 16.08.2006
+-----------------------------------
+
+Das siebente Treffen fand am 16.08.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+Stefan Schwarzer hat in einem sehr interessanten Vortrag_
+sein Python-Modul ftputil_ vorgestellt.
+Es bietet eine nutzerfreundliche Schnittstelle zu
+FTP-Client-Funktionalität, die sich an den eingebauten
+Modulen ``os``, ``os.path``
+und ``shutil`` orientiert. Somit lassen sich Dateien
+und Verzeichnisse auf FTP-Server fast wie solche
+im lokalen Dateisystem behandeln.
+
+Workshop am 08.09.2006
+----------------------
+
+Unser Workshop_ hat den regelmäßigen Stammtisch im September ersetzt.
+
+.. _Workshop: ../../workshop/index.html
+
+
+Achter Stammtisch am 10.10.2006
+-----------------------------------
+
+Das achte Treffen fand am 10.10.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+Mike Müller hat seinen Vortrag "Python - der stille Erfolg einer
+Programmiersprache" als *Generalprobe* gehalten. Dieser Vortag
+wird am 16. Oktober 2006 in der Fachbuchhandlung Lehmanns in
+Leipzig die Programmiersprache Python vorstellen.
+
+Wir konnten eine neue Stammtischbesucherin begrüßen.
+Sie ist die *erste* Frau bei unseren Treffen.
+
+Der nächste Stammtisch findet am 14. November statt. 
+Ein Vortragsthema steht noch nicht fest, wird aber hier
+so bald wie möglich bekannt gegeben. 
+
+Neunter Stammtisch am 14.11.2006
+-----------------------------------
+
+Das neunte Treffen fand am 14.11.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+Wir hatten eine offene Diskussionsrunde über Python.
+Unter anderem haben wir uns mit mit großen Zahlen und Ihre Berechnung in Python beschäftigt.
+
+Der nächste Stammtisch findet am 12. Dezember statt. Es wird eine kleine Weihnachtsfeier geben.
+
+Zehnter Stammtisch am 12.12.2006
+-----------------------------------
+
+Das zehnte Treffen fand am 12.12.2006 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+Bei weihnachtlicher Stimmung haben wir uns mit der Endredaktion des Tagungsbandes für den
+Workshop am 8. September 2006 beschäftigt.
+Ein weiterer Diskussionspunkt war Python in wissenschaftlichen Anwendungen. 
+
+Der nächste Stammtisch findet am 9. Januar 2007 statt. Das Thema wird noch bekannt gegeben.
+
+
+.. _`Bazaar NG`: http://indico.cern.ch/materialDisplay.py?contribId=50&amp;sessionId=24&amp;materialId=slides&amp;confId=44
+
+.. _Mercurial: http://indico.cern.ch/materialDisplay.py?contribId=29&amp;sessionId=49&amp;materialId=slides&amp;confId=44
+
+.. _`Python Academy - Teaching Python in Germany`: ../vortraege/python_academy.pdf
+
+.. _EuroPython: http://www.europython.org
+
+.. _ftputil: http://ftputil.sschwarzer.net/
+
+.. _Vortrag: http://www.sschwarzer.net/download/ftputil_lpug.pdf
+
+.. _Trac: http://trac.edgewall.org/
+
+.. _Pyrex: http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex
+
+.. |br| raw:: html
+
+   <br/>
+

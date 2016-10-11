@@ -1,0 +1,65 @@
+restindex
+    crumb: User Group Archive
+    format: rest
+    page-title: Leipzig Python User Group - Archiv
+    include: Yes
+    section-pages: , archiv2006, archiv2007, archiv2008, archiv2009, archiv2010, archiv2011, archiv2012
+/restindex
+
+
+======================================
+Leipzig Python User Group - Archiv
+======================================
+
+|br|
+`Archiv 2016`_
+|br|
+|br|
+`Archiv 2015`_
+|br|
+|br|
+`Archiv 2014`_
+|br|
+|br|
+`Archiv 2013`_
+|br|
+|br|
+`Archiv 2012`_
+|br|
+|br|
+`Archiv 2011`_
+|br|
+|br|
+`Archiv 2010`_
+|br|
+|br|
+`Archiv 2009`_
+|br|
+|br|
+`Archiv 2008`_
+|br|
+|br|
+`Archiv 2007`_
+|br|
+|br|
+`Archiv 2006`_
+
+
+
+
+.. _`Archiv 2006`: archiv2006.html
+.. _`Archiv 2007`: archiv2007.html
+.. _`Archiv 2008`: archiv2008.html
+.. _`Archiv 2009`: archiv2009.html
+.. _`Archiv 2010`: archiv2010.html
+.. _`Archiv 2011`: archiv2011.html
+.. _`Archiv 2012`: archiv2012.html
+.. _`Archiv 2013`: archiv2013.html
+.. _`Archiv 2014`: archiv2014.html
+.. _`Archiv 2015`: archiv2015.html
+.. _`Archiv 2016`: archiv2016.html
+
+.. |br| raw:: html
+
+   <br/>
+

@@ -1,0 +1,23 @@
+restindex
+    crumb: Einleitung
+    format: rest
+    page-title: rest2web - Einleitung
+    include: Yes
+/restindex
+
+uservalues
+    navigation: Yes
+/uservalues
+
+
+==========
+Einleitung
+==========
+
+* von Fuzzyman (Michael Foord)
+* http://www.voidspace.org.uk/python/rest2web/index.html
+* BSD-Lizenz
+* Erstellung statischer Webseiten mit docutils und Python
+* besonders geeignet für Sites mit hierarchischen Inhalten
+* basiert auf Verzeichnis- und  Dateistruktur im Dateisystem
+

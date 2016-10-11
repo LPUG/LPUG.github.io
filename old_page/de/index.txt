@@ -1,0 +1,91 @@
+restindex
+    crumb: User Group
+    format: rest
+    page-title: Leipzig Python User Group
+    include: Yes
+    section-pages: , kalender, archiv/index
+/restindex
+
+
+An English version of this announcement can be found here_.
+
+
+=============================
+Leipzig Python User Group
+=============================
+
+
+Treffen am 11. Oktober 19:00 Uhr
+--------------------------------------
+
+Wir treffen uns am 11. Oktober um 19:00 Uhr wieder im  Basislager_.
+
+
+Unser Thema ist diesmal:
+
+**Die neue Website unserer User Group**
+
+Wir wollen weiter an unserer Website_ arbeiten.
+Das Grundgerüst steht. Diesmal wollen wir die ersten Inhalte einstellen.
+Als Werkzeug kommt Lector_ zum Einsatz.
+
+
+.. _Website: https://lpug.github.io/
+.. _Lector: https://github.com/msuozzo/Lector
+
+.. .. |br|
+.. Für das leibliche Wohl wird gesorgt.
+.. Zur besseren Planung bitten wir um eine kurze Anmeldung per E-Mail
+.. an info@python-academy.de.
+.. .. |br|
+
+
+|br|
+An den Treffen der Python-Anwendergruppe kann jeder teilnehmen,
+der Interesse an Python hat,
+die Sprache bereits nutzt oder nutzen möchte.
+|br|
+Die Arbeitssprache des Treffens ist Deutsch. Englisch sprechende
+Python-Enthusiasten
+sind trotzdem herzlich eingeladen. Wir übersetzen gern.
+|br|
+|br|
+
+Die Termine für unsere nächsten geplanten Treffen stehen im Kalender_.
+Es ist normaler Weise immer der zweite Dienstag im Monat.
+
+|br|
+Aktuelle Informationen zu Treffen gibt es auch auf unserer Mailingliste_.
+
+|br|
+
+Wer nicht in der Nähe von Leipzig wohnt, sich aber trotzdem mit
+Python-Enthusiasten treffen möchte, findet auf der  `PySV-Community-Seite`_
+eine Liste von Nutzergruppentreffen in Deutschland.
+
+Treffpunkt
+++++++++++
+
+| Basislager Coworking Space
+| Peterssteinweg 14-16
+| 04107 Leipzig
+|
+| Raum: Mount Everest, 4. Etage
+
+
+.. _Basislager: http://basislager.co/
+
+.. _here: http://www.python-academy.com/user-group/index.html
+.. _Anfahrt: /Schulungszentrum/anfahrt.html
+.. _Workshops: ../workshop/index.html
+.. _Trac: http://trac.edgewall.org
+.. _Kalender: kalender.html
+.. _`PySV-Community-Seite`: http://python-verband.org/community
+.. _Mailingliste: http://starship.python.net/mailman/listinfo/python-leipzig
+
+
+.. |br| raw:: html
+
+   <br/>
+
+

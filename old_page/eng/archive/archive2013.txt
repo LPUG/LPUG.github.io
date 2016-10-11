@@ -1,0 +1,215 @@
+restindex
+    crumb: Archive 2013
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2013
+    template-encoding: utf8
+    encoding: utf8
+    output-encoding: utf8
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2013
+========================================
+
+
+Seventy Ninth Meeting, Tuesday January 8, 2013
+-----------------------------------------------
+
+We started the new year with a discussion about recent events in
+he Python community. Furthermore, we planned our booth at the at
+`Chemnitzer Linux Tage 2013 <http://chemnitzer.linux-tage.de/2013/>`_.
+
+We will intensify our work on our project
+`Python macht Schule <https://bitbucket.org/PySV/python_macht_schule>`_
+and discussed a few design principles.
+
+The next meeting will be on February 12, 2013.
+
+Eightieth Meeting, Tuesday February 12, 2013
+--------------------------------------------
+
+Mike Müller talked about `IPython <http://ipython.org/>`_ and especially the
+new IPython notebook using an interactive style. IPython is a greatly enhanced
+alternative to the interactive Python prompt. The notebook allows to create interactive
+documents in a browser with markdown, Python code and matplotlib graphics. Even though
+IPython is traditionally only widely used among scientists, it offers interesting
+opportunities for all Python users.
+
+We discussed advantages and disadvantages of using the notebook. It looks
+like it can be especially useful for system administration. The user has
+to take care of security susses by herself.
+
+This meeting marks the seventh university of our User Group.
+
+The next meeting will be on March 12, 2013.
+
+
+Eighty first Meeting, Tuesday March 12, 2013
+--------------------------------------------
+
+This meeting was at a different venue, the `BIC <http://www.bic-leipzig.de/>`_
+at Karl-Heine-Straße in Leipzig. In addition to many common faces, several new
+people interested in Python showed up. Max Brauer gave a talk about development
+with curses in Python and common problems are associated with it.
+The following discussion covered a variety of topics.
+
+The next meeting will be on April 9, 2013.
+
+Eighty second Meeting, Tuesday April 9, 2013
+--------------------------------------------
+
+Mike Müller reported about PyCon US, the largest Python conference that
+brings 2500 people together. Two days with 32 tutorials and three days
+with six parallel talks plus many other event before, after and in parallel
+are really impressive. Being in the heart of Silicon Valley, many sponsors
+were present. And most of them looked for Python developers.
+The motto really nils it:
+"You come for the features but stay for the community."
+
+The next meeting will be on May 14, 2013.
+
+
+Eighty third Meeting, Tuesday May 14, 2013
+------------------------------------------
+
+We had a few new participants. Accordingly, there were many questions about
+Python and how to solve certain problems with it. This shows quickly that a
+Python solutions exists for nearly all tasks that can be solved with software.
+And in most cases it works well. After three hours, everybody took something
+newly learned home.
+The first-timers much more though.
+
+The next meeting will be on June 11, 2013.
+
+Eighty fourth Meeting, Tuesday June 11, 2013
+---------------------------------------------
+
+We had two talks at this meeting.
+
+Martin Czygan introduced Pandas_ and showed how easy it is to
+analyze data with Python. Pandas is an important tool for Big Data and
+High Performance Computing.
+The basic data structures ``Series`` and ``DataFrame`` offer man possibilities
+to group, sort and analyze data by all kinds of criteria. Especially the
+simple handling of missing values in data makes Pandas a very effective tool.
+Another amazing feature is the creation of plots with sensible default
+formatting with line of code.
+
+Stefan Schwarzer reported about his experiences porting the library ftputil_
+from Python 2 to Python 3.He decided to go with a single code base for
+Python 2.6, 2.7 and 3.3. The unicode-only strings are, as expected by far the
+biggest problem. Stefan presented good solutions for all problems.
+
+The next meeting will be on July 9, 2013.
+
+.. _Pandas: http://pandas.pydata.org/
+
+.. _ftputil: http://ftputil.sschwarzer.net/trac
+
+
+Eighty fifth Meeting, Tuesday July 9, 2013
+---------------------------------------------
+
+|mike| gave a talk about the "Use of meta-programming for everyday use".
+
+Meta-programming can be complicated but can be really useful.
+After a short overview over the technical aspect especially meta-classes
+the talked focused on what to with it. 
+
+Because writing of frameworks and development of domain-specific languages
+is not part of the daily work of many programmers, this legitimate use
+cases were not the topic of this talk. It presented some techniques that
+are useful to investigate, with relatively little effort, what is going in
+existing applications. Examples are the counting the number of classes defined,
+how many times methods are allowed and how long it took to execute them as
+well as checking for existence and length of doc strings. There seems to be
+no limit for creative uses.
+
+The next meeting will be on August 13, 2013.
+
+Eighty sixth Meeting, Tuesday August 13, 2013
+---------------------------------------------
+
+We tackled two small problems. First, with the help of Pandas_, we re-wrote
+a program that analyses car acceleration data. Only three lines, one for
+reading the data, one for the needed calculations, and one for the plot
+solved the problem. The previous solution had several dozens of lines of
+Python.
+
+After this, we developed a small parser for a file with geometric data
+about point coordinates and triangles and quadrilaterals constisting of
+these points. Storing the data in dictionaries turned out to be most efficient
+solution.
+ 
+Everybody learned something new. We will use this kind of collaborative
+programming more often in the future.
+ 
+The next meeting will be on September 10, 2013.
+
+
+
+
+Eighty seventh Meeting, Tuesday September 10, 2013
+--------------------------------------------------
+
+This we had a look at the source of `PyTables <http://www.pytables.org>`_.
+PyTables offers access to files in the `HDF5-Format <http://www.hdfgroup.org/HDF5/>`_. 
+The project has some features that makes it interesting for us:
+
+* The code base is pretty big. How to organize larger projects efficiently?
+* The underlying C library for HDF5 access is wrapped with `Cython <http://cython.org/>`_.
+  This makes a good example for the use of Cython.
+* There are many tests. The call ``tables.test()`` executes about 5400 tests.
+  We like to get an overview over the tests.
+* The last release of PyTables is PEP8 compliant. For backward compatibility reasons
+  it still supports the old ``mixedCase`` naming. We will look at this approach.  
+* PyTables is now available for Python 3. We will investigate the porting strategy.
+ 
+The next meeting will be on October 8, 2013.
+
+Eighty eighth Meeting, Tuesday October 8, 2013
+----------------------------------------------
+
+Topics included computer art and map-reduce as well as astronomy
+software. Map-reduce is an interesting topic and we plan to talk more 
+about it in future meetings.
+
+Another topic was which approach should be used for new projects with
+strong performance requirements Cython or PyPy. Conclusion: It depends
+on the concrete project.
+
+The next meeting will be on November 12, 2013.
+
+Eighty eighth Meeting, Tuesday November 12, 2013
+------------------------------------------------
+
+Our topic for this meeting was **Functional Programming Python Style**.
+We analyzed this `interesting Blog entry <http://maryrosecook.com/post/a-practical-introduction-to-functional-programming>`_ and discused alternative solutions. Conclusion: Even functional programming is pythonic.
+
+The next meeting will be on December 10, 2013.
+
+Ninetieth Meeting, Tuesday December 10, 2013
+--------------------------------------------
+
+We had several rather different topics. We talked about virtualenv and
+about the possibilities to `convert <http://emilics.com/blog/article/python_time.html>`_ different representation of time objects in Python. 
+
+Other topics were  `fuzzy logic <http://pyfuzzy.sourceforge.net>`_ as well as `shell injection <http://empybit.com/what-is-shell-injection-and-how-to-avoid-it/>`_
+
+
+The next meeting will be on January 14, 2014.
+
+.. |mike| raw:: html
+
+  Mike M&uuml;ller
+
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+
+.. |fuer| raw:: html
+
+  f&uuml;r
+

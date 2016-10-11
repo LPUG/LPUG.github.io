@@ -1,0 +1,241 @@
+﻿restindex
+    crumb: Archive 2009
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2009
+    include: Yes
+    encoding: cp1252
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2009
+========================================
+ 
+
+Thirty Forth Meeting, Tuesday January 13, 2009
+-------------------------------------------------
+
+We had divers topics. We will have a booth at Chemnitzer Linux-Tage
+again. Furthermore, we talked about web development and version control.
+ 
+
+The next meeting will be on Tuesday, February 10, 2009.
+
+
+Thirty Fifth Meeting, Tuesday February 10, 2009
+-------------------------------------------------
+
+Stefan Schwarzer introduced the `doctest-module`_.
+He used his  `LinuxUser article from December 2008`_
+for this. It is amazing how simple testing can be.
+We prepared our poster for the `Chemnitzer Linux-Tage`_ on
+March 14th and 15th 2009.
+
+The next meeting will be on Tuesday, March 10, 2009.
+Julian Moritz will talk about *Possibilities of natural
+language processing of websites using Django*.
+Stefan Schwarzer will present about Mercurial_.
+ 
+The next meeting will be on Tuesday, March 10, 2009.
+  
+.. _`doctest-module`: http://docs.python.org/library/doctest.html
+.. _`LinuxUser article from December 2008`: http://www.linux-community.de/Internal/Artikel/Print-Artikel/LinuxUser/2008/12/Check-inklusive
+.. _`Chemnitzer Linux-Tage`: http://chemnitzer.linux-tage.de/2009/info
+.. _Mercurial: http://www.selenic.com/mercurial/wiki
+
+Thirty Sixth Meeting, Tuesday March 10, 2009
+-------------------------------------------------
+
+Julian Moritz talked about `Possibilities of natural
+language processing with Django`_. We got some interesting
+inside into a field that was new to all of us.
+
+Stefan Schwarzer rehearsed his `Presentation about Mercurial`_ for the
+`Chemnitzer Linux-Tage`_. We gave some useful tips for improving
+his presentation.
+
+We planned our booth at `Chemnitzer Linux-Tage`_.
+
+The next meeting will be on Tuesday, April, 2009.
+This is one week earlier than our usual second Tuesday of the month
+due to Easter vacations. 
+
+.. _`Possibilities of natural language processing with Django`: http://www.python-academy.de/User-Group/vortraege/django-asv.pdf
+
+.. _`Presentation about Mercurial`: http://sschwarzer.com/download/mercurial_clt2009.pdf
+.. _`Chemnitzer Linux-Tage`: http://chemnitzer.linux-tage.de/2009/info
+
+
+Thirty Seventh Meeting, Tuesday April 7, 2009
+-------------------------------------------------
+
+This meeting was one week before the regular second Tuesday of the month
+because of the Easter vacation.
+
+There were three new visitors.
+
+We evaluated our presentation at  `Chemnitzer Linux-Tage`_ and came up
+with some resolutions for the meeting next year.
+
+One topic of the discussion was PyCon 2009.
+
+
+The next meeting will be on Tuesday, May 12, 2009.
+
+Thirty Eighth Meeting, Tuesday May 12, 2009
+-------------------------------------------------
+
+Markus |markus| gave an interesting talk about the
+EuroDjangoCon_ that took part in Prague, Czech Republic
+from 4 - 8 May, 2009. The slides_ of his presentation
+give a short overview of most of the talks.
+
+For more details, you can look at the slides of the actual presentations_
+and mindmaps_ summarizing their content.
+
+
+The next meeting will be on Tuesday, June 9, 2009.
+
+.. _EuroDjangoCon: http://euro.djangocon.org/
+
+.. _slides: http://lectures.streetcleaner.org/EuroDjangoCon09.pdf
+.. _presentations: http://eurodjangocon.pbworks.com/Presentations
+.. _mindmaps: http://www.flickr.com/photos/dibau_naum_h/tags/eurodjangocon/ 
+
+
+
+Thirty Ninth Meeting, Tuesday June 9, 2009
+-------------------------------------------------
+
+Kai Diefenbach (iqplusplus_ Erfurt) gave an interesting presentation about
+LFS, the Lightning Fast Shop. LFS_ is an online shop based on
+Python_, Django_ and jQuery_ released under the BSD licence.
+
+First he gave an overview of LFS: used technologies, development
+status, planned releases,  existing and future features.
+Then he showed a live demo of the shop.
+There were many, interested questions and we had an intensive
+discussion.
+
+
+The next meeting will be on Tuesday, July 14, 2009.
+
+
+.. _iqplusplus: http://iqpp.de/
+.. _LFS: http://www.getlfs.com/
+.. _Python: http://www.python.org/
+.. _Django: http://www.djangoproject.com/
+.. _jQuery: http://jquery.com/
+
+
+Fortieth Meeting, Tuesday July 14, 2009
+-------------------------------------------------
+
+Stefan Schwarzer talked about `EuroPython 2009`_.
+This was the biggest EuroPython so far: 450 attendees,
+There were 15 tutorials (4 parallel at a time) and 80 presentations
+(6 parallel at a time). Obviously, the organizers did not
+expect that many people since the venue was really crowed.
+
+There were a bunch of interesting keynotes. 
+The focus of the scheduled presentations was mainly on web development
+Python implementations, testing, and community.
+There was open space besides the scheduled talks (called unconference).
+The next EuroPython will be again in Birmingham. The EuroPython 2011
+might be in Germany.
+
+As always, we had interesting discussions.
+This time we talked mainly about Python as replacement or addition
+to shell scripts.
+
+
+The next meeting will be on Tuesday, August 11, 2009.
+
+
+.. _`EuroPython 2009`: http://www.europython.eu
+
+
+
+Forty First Meeting, Tuesday August 11, 2009
+-------------------------------------------------
+
+We talked about `EuroSciPy 2009`_. Three of us attended
+the conference. There were many interesting talks about the
+use of Python for science.
+
+The next meeting will be on Tuesday,  September 8, 2009.
+|markus| will present about the `Micro Web Framework Bottle`_. 
+
+
+.. _`EuroSciPy 2009`: http://www.euroscipy.org
+.. _`Micro Web Framework Bottle`: http://bottle.paws.de/page/start
+
+
+
+Forty Second Meeting, Tuesday September 8, 2009
+-------------------------------------------------
+
+|markus| gave a talk about the `Micro Web Framework Bottle`_.
+It is very useful for simple applications or prototypes. His presentation_
+is a goo introduction to the topic.
+
+Stefan Schwarzer presented results for performance measurements
+with Python, NumPy and extensions in Fortran. This trigger a lively
+discussion.   
+
+The next meeting will be on Tuesday,  October 13, 2009.
+
+
+.. _presentation: http://www.slideshare.net/streetcleaner/bottle-python-web-microframework
+
+
+Forty Third Meeting, Tuesday Oktober 13, 2009
+-----------------------------------------------
+
+We had a few new people showing up. Since most of them hadn't done a lot
+with Python a lively discussion over the advantages of Python developed.
+Python basics were explained with interactive examples.
+
+
+The next meeting will be on Tuesday,  November 10, 2009.
+There will be reports from the RuPy conference.
+
+
+Forty Forth Meeting, Tuesday November 10, 2009
+----------------------------------------------
+
+Unfortunately, none of the RuPy attendees made to the meeting
+Therefore, we didn't have their reports.
+We made do with the slides of presentations from RuPy we found
+online. After all, we learned some interesting things about
+PyPy.
+
+The next meeting will be December 1. This one week earlier
+than the usual second Tuesday of the month. Christmas shows
+its presence.
+
+Forty Fifth Meeting, Tuesday December 1, 2009
+---------------------------------------------
+
+This time we got the reports from the RuPy attendees
+originally scheduled for last meeting.
+It seems to have been a really interesting
+conference. Python and Ruby have enough in common to make
+such a conference work.
+ 
+The next meeting will be January 12, 2010.
+Markus |markus| will introduce the modules xml.sax_ and
+xml.sax.handler_. They are useful for fast processing of large amounts
+of XML data.
+
+.. _xml.sax: http://docs.python.org/library/xml.sax.html
+.. _xml.sax.handler: http://docs.python.org/library/xml.sax.handler.html 
+
+
+
+
+.. |markus| raw:: html
+
+  Zapke-Gr&uuml;ndemann
+  
+

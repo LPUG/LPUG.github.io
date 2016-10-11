@@ -1,0 +1,26 @@
+restindex
+    crumb: Restindex
+    format: rest
+    page-title: rest2web - Restindex
+    include: Yes
+/restindex
+
+
+==================================
+Restindex - Metadaten ganz einfach
+==================================
+
+* macht Datei zur rest2web-Datei
+* Datei ohne diesen wird ignoriert
+
+::
+
+  restindex
+    crumb: Restindex
+    format: rest
+    page-title: rest2web - Restindex
+    include: Yes
+  /restindex
+
+* insgesamt 22 Schlüsselworte möglich
+* Vorgabewerte sind sehr sinnvoll

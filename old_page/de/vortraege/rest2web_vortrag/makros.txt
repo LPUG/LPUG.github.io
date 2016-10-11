@@ -1,0 +1,16 @@
+restindex
+    crumb: Makros
+    format: rest
+    page-title: rest2web - Makros
+    include: Yes
+/restindex
+
+
+=============================================
+Makros - Text ersetzen
+=============================================
+
+* Kurzversion von Text oder HTML
+* Akronyme, Smilies, Inkludieren, Quelltext einfärben
+* ``{cl}acronym;LPUG;Leipzig Python User Group{cr}``
+* in ReST mit ``raw html`` einbinden

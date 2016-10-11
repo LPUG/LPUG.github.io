@@ -1,0 +1,254 @@
+﻿restindex
+    crumb: Archive 2010
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2010
+    include: Yes
+    encoding: cp1252
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2010
+========================================
+ 
+
+
+
+Forty Sixth Meeting, Tuesday January 12, 2010
+---------------------------------------------
+
+|markus| introduced the modules xml.sax_ and
+xml.sax.handler_. They are useful for fast processing of large amounts
+of XML data.
+It was an interesting talk about the method of event-oriented parsing
+with SAX. We enjoyed an exhaustive explanation of the sample program.
+
+
+The next meeting will be February 9, 2010.
+Stefan Schwarzer will rehearse his presentation for the
+`Chemnitzer Linux Tage`_ titled "Robustere Python-Programme"
+(More Robust Python Programs).
+
+
+.. _xml.sax: http://docs.python.org/library/xml.sax.html
+.. _xml.sax.handler: http://docs.python.org/library/xml.sax.handler.html
+.. _`Chemnitzer Linux Tage`: http://chemnitzer.linux-tage.de/2010
+
+
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+
+
+Forty Seventh Meeting, Tuesday February 9, 2010
+-----------------------------------------------
+  
+Stefan Schwarzer rehearsed his talk for the `Chemnitzer Linux Tage`_
+titled `Robustere Python-Programme`_ (More Robust Python Programs).
+There was some constructive feedback.
+Furthermore, we talked about planned our booth at the Linux-Fest
+`Chemnitzer Linux Tage`_ .
+
+The next meeting will be March 9, 2010.
+|Mike| will talk about `PyCon 2010`_.
+
+.. _`Chemnitzer Linux Tage`: http://chemnitzer.linux-tage.de/2010
+.. _`Robustere Python-Programme`: http://chemnitzer.linux-tage.de/2010/vortraege/detail.html?idx=368
+.. _`PyCon 2010`: http://us.pycon.org
+
+
+
+
+Forty Eighth Meeting, Tuesday March 9, 2010
+----------------------------------------------
+
+|Mike| summarized what happened at `PyCon 2010`_.
+The focus was on topics such as different Python implementations such as
+CPython, Jython, IronPython, and PyPy, web development, migration
+to Python 3.x, and testing.
+
+The next meeting will be April 13, 2010.
+We will evaluate our booth at the Linux Fest `Chemnitzer Linux Tage`_
+and plan improvements for next year.
+
+.. |Mike| raw:: html
+
+    Mike M&uuml;ller
+
+Forty Ninth Meeting, Tuesday April 13, 2010
+----------------------------------------------
+
+Again, there were two new participants. They came from
+around Jena, a city about one hour away.
+We intensively discussed several topics.
+We talked about how to make posters and other materials to
+present our user group at trade fairs and conferences.
+We did some early stage planning for a bar camp in Leipzig.
+This was inspired by the `bar camp by the user group in cologne`_.
+We should get a decent number of people together. Just counting
+the regular user group goers in Leipzig and Berlin and
+some people we know would likely come from cities within
+2-hour-traveling distance makes it worthwhile.
+
+
+The next meeting will be May 11, 2010.
+Julian Moritz will give a talk about CouchDB_.
+
+.. _CouchDB: http://couchdb.apache.org
+.. _`bar camp by the user group in cologne`: http://wiki.python-forum.de/PythonBarCamp
+
+
+
+Fiftieth Meeting, Tuesday May 11, 2010
+--------------------------------------
+
+Julian Moritz gave an interesting talk about CouchDB_.
+Important concept when working with CouchDB are JSON, HTTP,
+no schema and parallelism as well as using the map-reduce
+approach for queries. He had to answer many questions of course
+focusing on the use of CouchDB with Python. This time 13 people
+showed up. Again we had three newcomers.
+
+The next meeting will be June 1, 2010.
+Please not. This one week earlier than our regular second Tuesday
+of the month.
+
+Fifty First Meeting, Tuesday June 1, 2010
+-----------------------------------------
+
+Christina Theune  of gocept_ gave a very interesting talk about the
+ZODB_. The co-developer of ZODB povided plenty of background information
+besides demos about the usage. It became very clear that the ZODB is a
+real object database not just a "relational database with an object
+curtain".
+
+
+The next meeting will be July 13, 2010.
+
+
+.. _gocept: http://www.gocept.com
+.. _ZODB: http://zodb.org/
+
+
+Fifty Second Meeting, Tuesday July 13,2010
+------------------------------------------
+
+|mike| talked about the EuroSciPy_ conference in Paris.
+The number of attendees has more than tripled since the last
+conference 2009 in Leipzig, Germany.
+This shows the increasing interest in Python for
+scientific an technical purposes.
+
+There were two days filled with tutorials for beginners as well
+as advanced users about the usage of NumPy, Scipy, Matplotlib,
+Mayavi  or version control, testing and extensions in other languages.
+The following two days were packed with interesting talks
+about Python in diverse fields such as mathematics, physics and
+biology as well as GIS and software tools for the scientific work flow.
+
+The next meeting will be on August 10, 2010.
+
+.. _EuroSciPy: http://www.euroscipy.org
+
+
+
+Fifty Third Meeting, Tuesday August 10, 2010
+--------------------------------------------
+
+Stefan Schwarzer gave a short report about EuroPython_ and
+|mike| summarized OSCON_.
+|markus| gave a talk about `distribute, pip and virtualenv`_.
+We had a lively discussion about this topic that was
+interesting for everybody.
+
+
+The next meeting will be on September 21, 2010.
+This is one week later than the usual second Tuesday of the month
+because of an overlap with the DZUG-conference_ in Dresden.
+
+.. _`distribute, pip and virtualenv`: http://www.slideshare.net/streetcleaner/arbeiten-mit-distribute-pip-und-virtualenv
+.. _OSCON: http://oscon.com
+.. _EuroPython: http://www.europython.eu
+.. _DZUG-conference: http://www.zope.de/tagung/Dresden_2010
+
+Fifty Forth Meeting, Tuesday September 21, 2010
+-----------------------------------------------
+
+We met one week later than the usual second Tuesday of the month
+because of an overlap with the DZUG-conference_ in Dresden.
+
+Stefan Schwarzer talked about the Unified Modeling Language (UML).
+The `interesting presentation`_ ignited a fruitful discussion that
+covered even more aspects of UML.
+A `class diagram`_ with VioletUML demonstrates the how the UML can be applied.
+
+In addition, we talked about PyConDe, the German Python conference, and
+the meeting about this topic at the DZUG-conference.
+
+The next meeting will be on Oktober 12, 2010.
+|markus| will talk about "Celery - Eine asynchrone Task
+Queue (nicht nur) |fuer| Django".
+
+.. _`interesting presentation`: http://www.python-academy.de/User-Group/vortraege/uml.html
+.. _`class diagram`: http://www.python-academy.de/User-Group/vortraege/violet_uml_example.png
+
+
+Fifty Fifth Meeting, Tuesday October 12, 2010
+-----------------------------------------------
+
+|markus| gave the talk "Celery - Eine asynchrone Task
+Queue (nicht nur) für Django". The slides are available as PDF_ 
+or at scribd_. He nicely explained the possibilities for parallel
+and cron tasks of Celery. A spam filter in Django for blog entries
+served as an example. The potentially time consuming filtering
+is asynchronously handed over to an external service. The user
+interface of the web application stays reactive during this time.  
+
+Then we talked about PyConDe 2011. We concluded that Leipzig
+would be a good location for it. We are going to submit an
+application.
+
+The next meeting will be on November 9, 2010.
+We will have a sprint to improve the content and setup of the python.de
+web site.
+
+.. _PDF: http://www.python-academy.de/User-Group/vortraege/celery.pdf
+.. _scribd: http://www.scribd.com/doc/39203296/Celery-Eine-asynchrone-Task-Queue-nicht-nur-fur-Django
+
+
+Fifty Sixth Meeting, Tuesday November 9, 2010
+---------------------------------------------
+
+We had a sprint to improve the python.de website with information about
+Python in German speaking countries. We use the Python-based CMS Plone.
+Everybody is invited to contribute. The portal can be reached at its temporary
+location http://python.inqbus.de  and will evntually move to python.de.
+You can register yourself to get write access. If you think you need more
+user rights please e-mail Maik Derstappen (maik [_DOT_] derstappen [_AT_]
+derstappen-it [_DOT_] de).
+
+The next meeting will be on December 14, 2010.
+
+
+Fifty Seventh Meeting, Tuesday December 14, 2010
+------------------------------------------------
+
+We prepared our booth presentation at Chemnitzer Linuxtage 2011.
+We will improve our poster. Furthermore, we will put all Python-related
+booths (Python, Django, Zope) together to utilize synergy effects.
+
+Another topic was a case study comparing a C++ with a Python program both
+solving the same problem. The Python program needs only one third of the lines
+and is much easier to read an understand.
+ 
+The next meeting will be on January 11, 2011.
+
+
+.. |mike| raw:: html
+
+  Mike M&uuml;ller
+  
+.. |fuer| raw:: html
+
+  f&uuml;r
+

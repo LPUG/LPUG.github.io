@@ -1,0 +1,15 @@
+restindex
+    crumb: Plugins
+    format: rest
+    page-title: rest2web - Plugins
+    include: Yes
+/restindex
+
+
+=============================================
+Plugins - rest2web erweitern
+=============================================
+
+* eigene Funktionalität einbauen
+* ``Plugin`` in eigenem Modul muss von ``PluginClass`` erben
+* Methoden ``start``, ``end``, und ``page`` können definiert werden

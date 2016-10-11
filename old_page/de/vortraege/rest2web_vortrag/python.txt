@@ -1,0 +1,32 @@
+restindex
+    crumb: Python
+    format: rest
+    page-title: rest2web - Python einbetten
+    include: Yes
+/restindex
+
+
+================
+Python einbetten
+================
+
+* überall in HTML kann Python erscheinen
+
+::
+
+  <#
+    for page in sidebar(indextree):
+        val = page['crumb']
+        link = page['target']
+        if page['target'] == thispage['target']:
+            print '<br /><a href="%s">&nbsp;&nbsp; %s</a>' % (link, val)
+        else:
+            print '<br /><a href="%s">%s</a>' % (link, val)
+   #>
+
+* erzeugt Navigation auf der linken Seite
+* ``sidebar`` ist eine Standardfunktion_
+* ``indextree`` ist eine von `rest2web zur Verfügung gestellte Variable`_
+
+.. _`rest2web zur Verfügung gestellte Variable`: variablen.html
+.. _Standardfunktion: funktionen.html

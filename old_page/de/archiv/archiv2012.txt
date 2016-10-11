@@ -1,0 +1,152 @@
+restindex
+    crumb: Archiv 2012
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2012
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2012
+========================================
+
+Neunundsechzigster Stammtisch am 10. Januar 2012
+--------------------------------------------------
+
+Wir konnten wieder einen Python-Neuling begrüßen, den wir mit reichlich
+Informationen zu Python versorgt haben.
+Wir werden auf den Chemnitzer Linux Tagen wieder einen Stand haben.
+Wir haben die Fragen von den letzten Linux-Tagen kurz ausgewertet und haben an
+der Konzeption unseres Standes gearbeitet.
+ 
+Das nächste Treffen ist am 14. Februar 2012.
+
+Siebzigster Stammtisch 14. Februar 2012
+---------------------------------------
+
+Wir haben das Projekt 
+`Python macht Schule <https://bitbucket.org/PySV/python_macht_schule>`_ ins
+Leben gerufen. Markus Zapke-Gründemann hat im letzten Jahr erfolgreich in
+Zusammenarbeit mit Lehmanns einen Python-Kurs für Kinder geleitet. Die letzte
+Veranstaltung fand im Dezember 2011 in der Python Academy statt.
+
+Wir wollen dieses Projekt weiterführen. Als ersten Schritt brauchen wir dazu
+geeignete Materialien. Wir haben deshalb einen
+`erste Gliederung  <https://bitbucket.org/PySV/python_macht_schule/wiki/Home>`_
+zusammengestellt. Da das Ganze unter einer Open-Source-Lizenz steht 
+(cc-by, 3cBSD), ist das Material für alle zugänglich und kann für alle Zwecke
+genutzt werden. Natürlich sind die Inhalte auf Kinder und Jugendliche
+zugeschnitten. Mit dem Material sollen dann Python-Kurse für Kinder hier in
+Leipzig aber auch in anderen Städten stattfinden. Wir möchten auch Lehrer
+von unterschiedlichen Schulen als Multiplikatoren einbeziehen.
+
+
+Einundsiebzigster Stammtisch 20. März 2012
+-------------------------------------------
+
+Wir haben unseren Stand auf den Chemnitzer Linux-Tagen ausgewertet. Dieses
+Jahr waren insgesamt drei "Python-Stände" vertreten. Es gab auch ein Tutorial
+und mehrere Vorträge über Python-Themen.
+
+Wir haben weiter an unserem Projekt
+`Python macht Schule <https://bitbucket.org/PySV/python_macht_schule>`_
+gearbeitet und Aufgaben zur Arbeit an den einzelnen Kapiteln verteilt.
+
+Das nächste Treffen ist am 10. April 2012.
+
+Zweiundsiebzigster Stammtisch 10. April 2012
+--------------------------------------------
+
+Diesmal ging es um verschiedene Themen. Neben den Möglichkeiten mit Python
+Hardware zu steuern, haben wir uns mit GUI-Programmierung und speziell mit
+Animation von Text beschäftigt.
+
+Das nächste Treffen ist am 8. Mai 2012.
+
+
+Dreiundsiebzigster Stammtisch 8. Mai 2012
+------------------------------------------
+
+Mike Müller hat matplotlib_ vorgestellt. Mit dieser Bibliothek lassen sich
+2D-Plots in hoher Qualität mit wenigen Zeilen Python erzeugen.
+Der Vortrag zeigte die grundlegende Wirkungsweise mit Beispielen und
+welche Möglichkeiten matpotlib für Animationen und Videos bietet.  
+
+.. _matplotlib: http://matplotlib.sourceforge.net/
+
+Das nächste Treffen ist am 12. Juni 2012.
+
+Vierundsiebzigster Stammtisch 12. Juni 2012
+-------------------------------------------
+
+Wir hatten eine Gast von der Münchner Python User Group und
+der Gewinner eine Python-Programmier-Wettbewerbs war ebenfalls.
+Nach eine Diskussion über die aktuellen Ereignisse in der
+Python-Community haben wir über die Nutzung von ``else`` an
+ungewöhnlichen Stellen und den Nutzen des Ganzen gesprochen. 
+
+Das nächste Treffen ist am 10. Juli 2012.
+
+
+Fünfundsiebzigster Stammtisch 10. Juli 2012
+-------------------------------------------
+
+Andreas Bunkahle hielt einen Vortrag zu Python und OpenCV.
+
+OpenCV ist eine sehr mächtige und schnelle Bibliothek für die Bildverarbeitung
+und maschinelles Sehen, die in der Version 2.1 mit Python 2.6 recht stabil und
+zuverlässig läuft. Gesichts- und Mustererkennung, Webcam-Ansteuerung und
+Morphing sind nur einige von vielen Möglichkeiten die OpenCV bietet.
+
+Die Folien mit Skripten und Dateien sind `verfügbar <http://www.bunkahle.com/links.cgi?num=0088>`_.
+Die Skripte sind für OpenCV Version 2.1 geschrieben und für diese Version getestet. Für
+höhere Versionen von OpenCV müssen die Skripte in der Syntax angepasst werden.
+
+Das nächste Treffen ist am 11. September 2012. Im August ist Sommerpause.
+
+Sechsundsiebzigster Stammtisch 11. September 2012
+-------------------------------------------------
+
+Mike Müller hat über die `EuroSciPy <http://www.euroscipy.org>`_ berichtet. 
+Die fünfte Ausgabe dieser Konferenz war in Brüssel. Über 200 Teilnehmer haben 
+zwei Tage mit Tutorials und zwei Tage mit Vorträgen erlebt. Es gab wieder eine
+Vielzahl von Themen zu Python und wissenschaftlichen Anwendungen.
+
+Mike Müller stellte seinen Vortrag
+`No GIL - Parallel Python Programming with Cython and OpenMP <http://www.euroscipy.org/talk/6857>`_
+vor. Mit Cython lässt sich die Berechnung mit  NumPy-Arrays mit Hilfe der verbreitete
+OpenMP-Technologie parallelisieren und so mehrere Rechenkern in einem Prozess
+gleichzeitig nutzen. Damit ist das GIL, also das Globale Interpreter Lock, nicht
+wirksam.
+
+Das nächste Treffen ist am 13. November 2012. Das Oktober-Treffen wird durch die
+PyCon DE 2012 ersetzt, die wir organisieren.
+
+
+Siebenundsiebzigster Stammtisch 13. November 2012
+-------------------------------------------------
+
+Wir haben die `PyCon DE 2012 <https://2012.de.pycon.org/>`_ ausgewertet.
+Die Konferenz war sehr erfolgreich und zieht nach zwei Jahren in
+Leipzig 2013 nach  `Köln <https://2013.de.pycon.org/>`_
+
+Einige von uns haben am Code Retreat der PyCon DE 2012 teilgenommen.
+Wir haben unsere Eindrücke und Ergebnisse präsentiert und ein
+wenig dazu programmiert. 
+
+Das nächste Treffen ist am 11. Dezember 2012. 
+
+Achtundsiebzigster Stammtisch 11. Dezember 2012
+------------------------------------------------
+
+Wir haben eine Diskussionsrunde zu Nebenläufigkeit
+und paralleler Programmierung nach Art eines Barcamps abgehalten.
+Stefan Schwarzer hat dazu aus seinem `Vortrag <https://2012.de.pycon.org/programm/schedule/sessions/29/>`_ für die PyCon DE 2012 geplaudert.
+
+
+Das nächste Treffen ist am 8. Januar 2013. 
+
+.. |br| raw:: html
+
+   <br/>
+

@@ -1,0 +1,32 @@
+restindex
+    crumb: ini
+    format: rest
+    page-title: rest2web - Konfiguration
+    include: Yes
+/restindex
+
+
+=============================
+Konfiguration einfach gemacht
+=============================
+
+* ini file format
+
+::
+
+  # psyco verwenden?
+  psyco = False
+  # nach Bearbeitung anhalten?
+  pause = False
+  # Quellverzeichnis
+  start_directory = '...\LPUG\rest2web\source'
+  # Zielverzeichnis
+  target_directory = '...\LPUG\rest2web\target'
+  # Verzeichnis gegen das verglichen wird (Vorgabewert: target_directory)
+  compare_directory = ''
+  # Datei für Protokoll
+  log_file = '...\LPUG\rest2web\log.txt'
+  # Datei mit Makros
+  macros = ''
+  # DEBUG.Modus einschalten ?
+  DEBUG = False

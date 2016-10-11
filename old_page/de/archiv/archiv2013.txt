@@ -1,0 +1,214 @@
+restindex
+    crumb: Archiv 2013
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2013
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2013
+========================================
+
+Neunundsiebzigster Stammtisch am 8. Januar 2013
+------------------------------------------------
+
+Wir haben das neue Jahr mit einer Diskussion über die aktuellen
+Ereignisse in der Python-Community begonnen. Ein weiteres Thema war die
+Planung unseres Standes auf den
+`Chemnitzer Linux Tagen 2013 <http://chemnitzer.linux-tage.de/2013/>`_.
+
+Wir werden die Arbeit an unserem Projekt
+`Python macht Schule <https://bitbucket.org/PySV/python_macht_schule>`_
+intensivieren und haben einige Prinzipen diskutiert.
+
+Das nächste Treffen ist am 12. Februar 2013.
+
+Achtzigster Stammtisch am  12. Februar 2013
+-------------------------------------------
+
+Mike Müller hat `IPython <http://ipython.org/>`_ und insbesondere
+das neue IPython-Notebook in einem interaktiven Vortrag vorgestellt.
+IPython bietet eine stark erweiterte Alternative zum
+interaktiven Python-Prompt. Mit dem neuen Notebook lassen sich im Browser
+interaktive Dokumente mit Markdown, Python-Code und Matplotlib-Grafiken anlegen.
+Obwohl IPython vor allem im wissenschaftlichen Umfeld verbreitet ist,
+bietet es interessante Möglichkeiten für alle Python-Nutzer.
+
+In der Diskussion haben wir die Vor- und Nachteile der Arbeit mit einem
+solchen Notebook besprochen. Besondre Vorteile bringt es z.B. für die
+System-Administration. Um Sicherheitsaspekte muss sich der Nutzer vollständig
+selbst kümmern.
+
+Das Treffen war übrigens der Jahrestag unseres siebenjährigen Bestehens als User
+Group.
+
+Das nächste Treffen ist am 12. März 2013.
+
+Einundachtzigster Stammtisch am 12. März 2013
+---------------------------------------------
+
+Diesmal trafen wir uns nicht in gewohnter Umgebung sondern im `BIC <http://www.bic-leipzig.de/>`_
+in der Karl-Heine-Straße. Es waren viele alte aber auch einige neue Gesichter zu sehen.
+Einleitend hielt Max Brauer einen Vortrag über das Entwickeln mit curses in
+Python und welche Probleme es dabei gibt. In den anschließenden Diskussionen und
+Unterhaltungen ging es um verschiedenste Themen.
+
+Das nächste Treffen ist am 9. April 2013.
+
+Zweiundachtzigster Stammtisch am 9. April 2013
+----------------------------------------------
+
+Mike Müller hat über die PyCon US, die mit 2500 Besuchern größte
+Python-Konferenz, berichtet. Zwei Tage mit 32 Tutorials und drei Tage mit
+jeweils sechs parallelen Vorträgen und viele andere Veranstaltungen parallel,
+davor und danach sind schon eindrucksvoll. Mitten im Silicon Valley
+waren natürlich auch viele Sponsoren präsent. Und fast alle Firmen haben
+Python-Entwickler gesucht. Das Motto:
+"You come for the features but stay for the community." trifft es wirklich
+gut.
+
+Das nächste Treffen ist am 14. Mai 2013.
+
+Dreiundachtzigster Stammtisch am 14. Mai 2013
+---------------------------------------------
+
+Wir konnten wieder einige neue Teilnehmer begrüßen. Dementsprechend hab es
+viele Fragen zu Python und wie sich bestimmte Aufgaben damit lösen lassen.
+Dabei wird schnell klar, dass es für fast alle Aufgaben, die sich mit Software
+lösen lassen eine Python-Lösung gibt, die in den meisten Fällen gut funktioniert.
+Nach drei Stunden Diskussion hat jeder etwas und die Erst-Besucher sehr viel
+Neues dazugelernt.
+
+Das nächste Treffen ist am 11. Juni 2013.
+
+Vierundachtzigster Stammtisch am 11. Juni 2013
+-----------------------------------------------
+
+Bei diesem Treffen hatten wir zwei Vorträge.
+
+Martin Czygan hat Pandas_ vorgestellt und uns gezeigt wie leicht sich
+große Datenmengen mit Python verarbeiten lassen. Pandas ist ein wichtiges
+Werkzeuge für Big Data und High Performance Computing.
+Die grundlegenden Datenstrukturen ``Series`` und ``DataFrame`` bieten
+viele Möglichkeiten Daten nach allem möglichen Kriterien zu gruppieren,
+sortieren und analysieren. Insbesondere die leichte Handhabung fehlender
+Daten macht Pandas zu einem effektiven Werkzeug. Auch die Erzeugung
+von aussagekräftigen Diagrammen mit sinnvollen Voreinstellungen mit nur
+einer Zeile Quelltext ist beeindruckend.
+
+Stefan Schwarzer hat über seine Erfahrung bei der Portierung der
+Bibliothek ftputil_ von Python 2 nach Python 3 berichtet. Er hat sich dafür
+entschieden mit einem Quelletxt Python 2.6, 2.7 und 3.3 zu unterstützen.
+Wir erwartet bei einem Programm, das Daten per FTP überträgt ist die
+Unicode-Problematik das größte Problem. Stefan hat funktionierende
+Lösungsansätze für alle Probleme gezeigt.
+
+Das nächste Treffen ist am 9. Juli 2013.
+
+.. _Pandas: http://pandas.pydata.org/
+
+.. _ftputil: http://ftputil.sschwarzer.net/trac
+
+
+Fünfundachtzigster Stammtisch am 9. Juli 2013
+-----------------------------------------------
+
+Mike Müller hat einen Vortrag über die "Nutzung von Meta-Programmierung 
+in der täglichen Praxis" gehalten.
+
+Meta-Programmierung ist nicht ganz einfach kann aber nützlich sein.
+Nach einem kurzen Überblick über die technische Seite insbesondere Meta-Kassen
+ging es darum was man damit sinnvoll tun kann.
+
+Da das Schreiben von Frameworks und Domain spezifischen Sprachen für viele
+Programmierer nicht zur täglichen Praxis gehört, sind diese, legitimen Anwendungen
+der Meta-Programmierung nicht gemeint. Der Vortrag hat ein paar Techniken vorgestellt,
+mit dem sich bestehende Anwendungen mit recht geringen Aufwand untersuchen lassen.
+Das Ermitteln der Anzahl der definierten Klassen oder wie oft welche Methoden aufgerufen
+wurden und wie lange ihre Ausführung gedauert hat sind ebenso möglich wie automatische
+Kontrolle des Vorhandenseins und Länge von Doc-Srings. Der Phantasie sind dabei fast keine
+Grenzen gesetzt.
+
+Das nächste Treffen ist am 13. August 2013.
+
+
+Sechsundachtzigster Stammtisch am 13. August 2013
+-------------------------------------------------
+
+Wir haben uns zwei kleinen Problemen angenommen. Mit Hilfe von Pandas_ haben
+wir ein Programm zur Auswertung von Beschleunigungsdaten von
+Autofahrten umgeschrieben. Mit nur drei Zeilen, einer zum Einlesen der
+Daten, einer zur Berechnung der Werte und einer für den Plot war das
+Problem, das vorher mehrere Dutzend Zeilen Python-Code zur Lösung brauchte, erledigt.
+
+Danach haben wir einen kleinen Parser für eine Datei mit geometrischen
+Informationen zu Punkt-Koordinaten und daraus bestehenden Dreiecken und
+Vierecken entwickelt. Das Speichern der Daten in Dictionarys ist die
+effizientes Methode dafür.  
+ 
+Alle Teilnehmer haben etwas Neues gelernt. Wir werden dieses Format der
+gemeinsamen Programmierung jetzt öfter nutzen.   
+
+Das nächste Treffen ist am 10. September 2013.
+
+Siebenundachtzigster Stammtisch am 10. September 2013
+-----------------------------------------------------
+
+Wir haben uns den Quelltext von `PyTables <http://www.pytables.org>`_
+ansehen. PyTables bietet Zugriff auf Dateien im 
+`HDF5-Format <http://www.hdfgroup.org/HDF5/>`_. Das Projekt bietet einige
+Besonderheiten, die es für uns interessant machen:
+
+* Die Code-Basis ist recht groß. Wie lassen sich größere Projekte
+  am Besten organisieren?
+* Die in C geschriebene HDF5-Bibliothek ist mit `Cython <http://cython.org/>`_
+  für Python zugänglich gemacht. Das ist ein schönes Beispiel für die Cython-Nutzung.
+* Es gibt viele Tests. Der Aufruf ``tables.test()`` führt ca. 5400 Test aus.
+  Wir wollen uns einen Überblick über die Tests verschaffen.
+* PyTables ist mit der letzten Release auf PEP8-Namenskonventionen umgestiegen.
+  Es bietet aber aus Rückwärtskompatibilitätsgründen auch die alte Namensgebung
+  in gemischter ``kleinGroß``-Schreibweise an. Der Lösungsansatz dafür soll uns beschäftigen.
+* PyTables ist nun auch für Python 3 verfügbar. Hier ist die Portierungsstrategie für
+  uns interessant.
+  
+Das nächste Treffen ist am 8. Oktober 2013.
+
+Achtundachtzigster Stammtisch am 8. Oktober 2013
+--------------------------------------------------
+
+Themen waren Computerkunst, Map-Reduce und Astronomiesoftware.
+Map-Reduce ist ein Interessantes Thema und wir planen uns damit aus Python-Sicht
+etwas näher zu beschäftigen.
+
+Ein weiteres Thema war die Nutzung PyPy oder Cython für neue Projekte mit hohen Anforderungen
+an schnelle Laufzeiten. Aus der Diskussion ergab sich, dass man um eine Einzelfallentscheidung
+wohl nicht herum kommt.
+
+Das nächste Treffen ist am 12. November 2013.
+
+
+Neunundachtzigster Stammtisch am 12. November 2013
+--------------------------------------------------
+
+Das Thema war diesmal **Funktionale Programmierung auf Python-Art**.
+Wir haben gemeinsam diesen `interessanten Blog-Beitrag <http://maryrosecook.com/post/a-practical-introduction-to-functional-programming>`_ analysiert und alternative Lösungsansätze diskutiert. Schlussfolgerung: Selbst die funktionale Programmierung ist *pythonic*.
+
+Das nächste Treffen ist am 10. Dezember 2013.
+
+Neunzigster Stammtisch am 10. Dezember 2013
+-------------------------------------------
+
+Die Themen waren diesmal recht unterschiedlich.
+Es ging um virtualenv und um die Möglichkeiten verschiedene Darstellungsformen von Zeitobjekte `umzuformen <http://emilics.com/blog/article/python_time.html>`_
+
+Auch `Fuzzy Logik <http://pyfuzzy.sourceforge.net>`_ war ein Thema so wie
+`Shell-Injection <http://empybit.com/what-is-shell-injection-and-how-to-avoid-it/>`_
+
+Das nächste Treffen ist am 14. Januar 2014.
+
+
+.. |br| raw:: html
+
+   <br/>
+

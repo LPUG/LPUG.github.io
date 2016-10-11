@@ -1,0 +1,163 @@
+﻿restindex
+    crumb: Archive 2008
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2008
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2008
+========================================
+ 
+Twenty Second Meeting, Tuesday January 8, 2008
+---------------------------------------------------------
+ 
+Again, a few new people showed up. Mike Mueller gave a presentation
+about the use of Python for a coupled simulation model.
+The following look at the model's source code triggered an
+interesting discussion about coding styles. The Python newbees were
+introduced to PEP8_. But also the ones that use Python for longer
+could learn something new.
+
+The next meeting will be on February 12th, 2008.
+
+Maik Derstappen will give a persentation about Plone.
+
+
+
+.. _PEP8: http://www.python.org/dev/peps/pep-0008
+
+Twenty Third Meeting, Tuesday February 12, 2008
+-------------------------------------------------
+
+Maik Derstappen gave an interesting and comprehensive talk
+about Plone. The meeting was well visited with people as far
+as from Dresden.
+
+We did some planing for our booth at `Chemnitzer Linux-Tage`_
+and assigned tasks for making the poster. 
+
+The next meeting will be on March 11, 2008.
+
+
+.. _`Chemnitzer Linux-Tage`: http://chemnitzer.linux-tage.de/2008
+
+
+Twenty Fourth Meeting, Tuesday March 11, 2008
+-------------------------------------------------
+
+We talked about our successful both at `Chemnitzer Linux-Tage`_
+and some interesting talks at this event.
+
+The next meeting will be on April 8, 2008.
+
+
+Twenty Fifth Meeting, Tuesday April 8, 2008
+-------------------------------------------------
+
+We had interesting discussions about different topics.
+
+The next meeting will be on May 13, 2008.
+
+
+Twenty Sixth Meeting, Tuesday May 13, 2008
+-------------------------------------------------
+
+Christian Theune gave an interesting talk about Grok_.
+He built a new Grok project from scratch and
+showed many of Grok's features.
+There were many questions that were answered with examples.
+  
+
+.. _Grok: http://grok.zope.org
+
+The next meeting will be on Tuesday, June 10, 2008. 
+Markus Zapke-Gründemann will give a talk about
+a program for conversion of csv to xml files.
+
+
+Twenty Seventh Meeting, Tuesday June 10, 2008
+-------------------------------------------------
+
+Markus Zapke-Gruendemann  gave a talk about
+a program for conversion of csv to xml files.
+There was a very interesting discussion about
+the source code of the program.
+
+The next meeting will be on Tuesday, July 8, 2008. 
+
+Twenty Eighth Meeting, Tuesday July 8, 2008
+-------------------------------------------------
+
+Even though the meeting was in parallel to the EuroPython
+we had quite a few people joining into the discussion.
+
+The next meeting will be Tuesday, August 12, 2008. 
+
+Twenty Nineth Meeting, Tuesday August 12, 2008
+-------------------------------------------------
+
+Mike Mueller talked about matplotlib_.
+
+The next meeting will be on Tuesday, September 9, 2008. 
+
+.. _matplotlib: http://matplotlib.sourceforge.net
+
+
+
+Thirtieth  Meeting, Tuesday September 9, 2008
+-------------------------------------------------
+
+We improved a solution for programming competition for the
+German Linux-Magazin.
+
+The next meeting will be on Tuesday, October 14, 2008. 
+
+
+Thirty First  Meeting, Tuesday October 14, 2008
+-------------------------------------------------
+
+The question if doctest works properly with unicode was the central point
+of our discussion. After an extensive search, we found out that
+doc strings are just ordinary Python strings. Therefore, contained
+back slashes have to be escaped or the whole doc string has to be a raw
+string.  Group intelligence at work.
+
+
+The next meeting will be on Tuesday, November 11, 2008. 
+
+
+Thirty Second  Meeting, Tuesday November 11, 2008
+-------------------------------------------------
+
+The `Programming competition of German LINUX Magazin`_ provided lots
+to talked about. Python was the most frequent language among the
+sent in solutions. Number of lines and run times favorably compare
+with the solutions in other languages. The comparison with languages
+such as Perl, Ocaml, Haskell or ruby was really interesting.
+ 
+
+The next meeting will be on Tuesday, December 11, 2008.
+The topic is "Generators in Python as unix-like pipelines".
+
+.. _`Programming competition of German LINUX Magazin`: http://www.linux-magazin.de/heft_abo/ausgaben/2008/12/vom_thron_gestuerzt
+
+
+Thirty Third  Meeting, Tuesday December 9, 2008
+-------------------------------------------------
+
+Our topic was "Generators in Python as unix-like pipelines". Chaining several
+generators yields a special programming style. At some point we had the
+impression to use a language different from Python. Used in the right way,
+generators can have advantages especially for large amounts of data.
+ 
+
+The next meeting will be on Tuesday, January 13, 2009.
+
+
+
+.. |br| raw:: html
+
+   <br/>
+

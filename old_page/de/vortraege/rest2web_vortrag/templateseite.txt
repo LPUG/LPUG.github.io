@@ -1,0 +1,29 @@
+restindex
+    crumb: Template
+    format: rest
+    page-title: rest2web - Template
+    include: Yes
+/restindex
+
+
+===========================
+Template - zentrales Design
+===========================
+
+* template.txt
+* HTML-Seite, die Layout beinhaltet
+* Inhalte werden mit speziellen Werten wie ``<% body %>`` eingefügt
+* meist reicht ein Template für die gesamte Site
+* für jede Seite ist aber ein eigenes Template möglich
+* ohne Vorgabe in Datei wird im aktuellen Verzeichnis und dann im übergeordneten Verzeichnis gesucht
+* spezielle Werte:
+
+``<% title %>``
+
+``<% final-encoding %>``
+
+``<% path_to_root %>``
+
+``<% body %>``
+
+``<% modtime %>``

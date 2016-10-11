@@ -1,0 +1,19 @@
+restindex
+    crumb: Indexseite
+    format: rest
+    page-title: rest2web - Index
+    include: Yes
+/restindex
+
+
+=============================
+Index - Wo alles beginnt
+=============================
+
+* index.txt
+* Verzeichnisse werden nur verarbeitet, wenn sie index.txt beinhalten
+* Seiteninhalt des Links zum Verzeichnis
+* ``index-file`` Schlüsselwort kann auf andere Datei verweisen
+* Schlüsselworte werden in restindex_ erläutert
+
+.. _restindex: restindexseite.html

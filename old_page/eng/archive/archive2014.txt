@@ -1,0 +1,231 @@
+
+restindex
+    crumb: Archive 2014
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2014
+    template-encoding: utf8
+    encoding: utf8
+    output-encoding: utf8
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2014
+========================================
+
+
+Ninety First Meeting, Tuesday January 14, 2014
+----------------------------------------------
+
+We prepared our both at Chemnitzer Linux Tage.
+We created some small Python programs on a Raspberry Pi, which we
+can present in Chemnitz.
+
+The next meeting will be on February 11, 2014.
+
+
+Ninety Second Meeting, Tuesday February 11, 2014
+------------------------------------------------
+
+We continued our booth preparation for Chemnitz. Unfortunately, the
+Raspberry Pi had some problems with the WiFi stick and crashed several times.
+
+The next meeting will be on March 11, 2014.
+
+Ninety Third Meeting, Tuesday March 11,  2014
+------------------------------------------------
+
+This time our topic was "Virtual Environments with conda and pip ".
+Virtual environment simplify installation and using of different Python
+versions as well as working with different versions of a library.
+In addition to the well known pip_, conda_ offers similar capabilities.
+The advantage of conda is its ability to install compiled Python extensions,
+whereas pip typically installs the source distribution. Following an extend
+discussion we also looked at  wheels_. Indeed, the installation of Python
+package has become much simpler.
+
+
+.. _pip: https://pypi.python.org/pypi/pip
+.. _conda: http://conda.pydata.org/docs/
+.. _wheels: http://pythonwheels.com/
+
+The next meeting will be on April 8, 2014.
+
+Ninety Fourth Meeting, Tuesday April 8,  2014
+------------------------------------------------
+
+We ha a presentation:
+
+| 
+| Manuel Jacob
+| **CFFI - Python mit C verbinden**    
+| 
+
+CFFI_ offer a solution for writing Python bindings for C libraries.
+
+Manuel introduced CFFI and its usage. Code samples of existing bindings
+showed how CFFI works.
+Together we wrote a binding for a C library.
+
+The next meeting will be on May 13, 2014.
+
+.. _CFFI: http://cffi.readthedocs.org
+
+
+Ninety Fifth Meeting, Tuesday May 13,  2014
+------------------------------------------------
+
+We had another talk:
+
+| 
+| Sven Richter
+| **Twisted - Ereignis-orientierte Netzwerkprogrammierung**    
+| 
+
+
+Twisted is an event-driven networking Python framework for easy
+programming of network server and client applications.
+
+Sven quickly introduced how Twisted works. He put more emphasis on the
+class Deferred. We had very lively discussion about advantage and
+disadvantages of Twisted.
+
+The next meeting will be on June 10, 2014.
+
+
+Ninety Sixth Meeting, Tuesday June 10,  2014
+------------------------------------------------
+
+This meeting featured a demonstration on how to write decorators:
+
+
+| 
+| Mike Müller
+| **Decorators - An Elegant Way to Extend Functions with Cross-Cutting Functionality**    
+| 
+
+Decorators allow to add functionality to a function without modifying
+the function body. This especially interesting for cross-cutting problems such
+as logging or run time measurements. 
+
+The implementation as a function that returns a function needs
+some time to get used to. The demonstration with live coding
+showed that is not that difficult as long as the programmer consequently
+applies a few simple principles. 
+
+Having our meeting outside, we enjoyed the nice weather. The BBQ supplied
+tasty energy sources for our involved topic.
+
+Due to the soccer world championship and the EuroPython conference, we have a summer break.
+The next meeting will be on September 9, 2014.
+
+Ninety Seventh Meeting, Tuesday September 9, 2014
+-------------------------------------------------
+
+This very well attended meeting started with a highly interesting talk:
+
+| Stefan Schwarzer
+| **Single Source for Python 2 and 3**    
+| 
+
+It is possible to use the same source code for Python 2 und 3 programs.
+This presentation showed how to do this with a stress on best practices
+based on real-world experience.
+
+The
+`slides <http://sschwarzer.com/download/python_2_3_europython2014.pdf>`_
+provide lots of tips how to writer modern Python code for Python 2 and 3.
+
+We also had a short talk about `Tryton <http://www.tryton.org>`_
+and the upcoming `Tryton Unconference <http://tul2014.tryton.org>`_ in Leipzig
+turning into a discussion about open source licensing.
+
+The next meeting will be on Oktober 14, 2014.
+
+Ninety Eighty Meeting, Tuesday October, 2014
+--------------------------------------------
+
+We had a very interesting, short presentation:
+
+| Arnold Krille
+| **Hacking bleach: turn the HTML Sanitizer from a Whitelist into Blacklist**    
+| 
+
+Python is very flexible. The presentation provides a nice example how to
+integrate new, originally not planned features into a Python tool.
+It only takes a little though to change the behavior without modifying
+the library code.
+
+Furthermore, we had short reports from EuroPython 2014 in Berlin, Germany
+and EuroSciPy 2014 in Cambridge, UK. These are two rather different but very
+interesting conferences. 
+
+Weiterhin hatten wir Kurzberichte von der EuroPython 2014 in Berlin und der
+EuroSciPy 2014 in Cambridge. Das sind zwei recht unterschiedliche, aber sehr
+interessante Konferenzen.
+  
+The next meeting will be on November 11, 2014.
+
+Ninety Ninth Meeting, Tuesday November 11, 2014
+-----------------------------------------------
+
+Again, the meeting was well attended and we use the available room to
+the last inch.
+
+We had a terrific presentation:  
+
+| Andreas Bunkahle
+| **Kivy and Python**
+|
+
+Kivy is a NUI (Natural User Interface) framework that works on many platforms
+such as Windows, OSX, Android, IOS und Linux.
+It provides everything that one needs to write a modern application.
+This includes multitouch, audio and video, camera input, graphics
+as well as Internet connection. 
+PyInstaller helps to create standalone commercial and non commercial applications.
+The talk uses a word learning application as an example to showcase how to
+use Kivy with Python. 
+
+Links for this topic:
+
+| The example word learning application VocMaster: http://www.abunkahle.de
+| An Introduction to Kivy for Mobile Programming (German): http://pythonmobile.blogspot.de/
+| The Kivy Website: http://www.kivy.org
+| OyCon videos about Kivy: http://pyvideo.org/search?models=videos.video&q=kivy
+
+The next meeting will be on December 12, 2014.
+
+
+One Hundredth Meeting, Tuesday December 12, 2014
+------------------------------------------------
+
+We celebrated our one hundredth Meeting right in time for the holidays.
+We met at a restaurant.
+We had short review of the user group history. We started in February 2006
+with a rather small group and needed a few meetings to grow the number of
+attendees. Based on our one-meeting-a-month rhythm, we would have had a
+maximum of 107 meetings. Five meetings were replaced by workshops, PyCon DE
+and EuroPython conference. We were involved in their organization.
+We chose to have a summer break instead of two meetings.
+
+We had engaging chats and a somewhat different atmosphere that during the
+other meetings that typically start off with a presentation. Everybody
+like it and our group was the last to leave the well-filled restaurant.   
+
+The next meeting will be on January 13, 2015.
+
+
+.. |mike| raw:: html
+
+  Mike M&uuml;ller
+
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+
+.. |fuer| raw:: html
+
+  f&uuml;r
+

@@ -1,0 +1,222 @@
+restindex
+    crumb: Archiv 2014
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2014
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2014
+========================================
+
+
+
+Einundneunzigstes Treffen am 14. Januar 2014
+--------------------------------------------
+
+Wir haben unseren Stand auf den Chemnitzer Linux Tagen vorbereitet.
+Wir haben mit Python auf dem Raspberry Pi gearbeitet. Das
+können wir in Chemnitz demonstrieren.
+
+Das nächste Treffen ist am 11. Februar 2014.
+
+Zweiundneunzigstes Treffen am 11. Februar 2014
+----------------------------------------------
+
+Wir haben unseren Stand auf den Chemnitzer Linux Tagen weiter vorbereitet.
+Leider mag der Raspberry Pi den WLAN-Stick nicht sonderlich uns stürzt
+immer ab.
+
+Das nächste Treffen ist am 11. März 2014.
+
+
+Dreiundneunzigstes Treffen am 11. März 2014
+-------------------------------------------
+
+Unser Thema war diesmal "Virtuelle Umgebungen mit conda und pip".
+Die Nutzung virtueller Umgebungen erleichtert die Installation und Nutzung
+verschiedener Versionen von Python und unterschiedlicher Versionen von
+Bibliotheken. Neben pip_ lässt sich conda_ gut dafür nutzen. Der Vorteil von
+conda ist die Installation von Binärpaketen, denn pip installiert
+immer die Quelltext-Variante. Nach ausgiebiger Diskussion haben wir uns
+wheels_ angeschaut. Die Installation von Python-Pakteten ist wirklich 
+viel einfacher geworden.   
+
+Das nächste Treffen ist am 8. April 2014.
+
+.. _pip: https://pypi.python.org/pypi/pip
+.. _conda: http://conda.pydata.org/docs/
+.. _wheels: http://pythonwheels.com/
+
+
+Vierundneunzigstes Treffen am 8. April 
+--------------------------------------
+
+Diesmal gab es einen Vortrag:
+
+| 
+| Manuel Jacob
+| **CFFI - Python mit C verbinden**    
+| 
+
+CFFI_ ist eine Möglichkeit, um Python-Bindings für C-Bibliotheken zu schreiben.
+
+Manuel hat CFFI und deren Funktionsweise vorgestellt. Code-Beispiele von bestehenden Bindings zeigten wie CFFI in der Praxis funktioniert.
+Im praktischen Teil haben wie ein Binding für eine C-Library geschrieben. 
+
+
+Das nächste Treffen ist am 13. Mai 2014.
+
+.. _CFFI: http://cffi.readthedocs.org
+
+
+Fünfundneunzigstes Treffen am 13. Mai 2014
+------------------------------------------
+
+Es gab wieder einen gut besuchten Vortrag:
+
+| 
+| Sven Richter
+| **Twisted - Ereignis-orientierte Netzwerkprogrammierung**    
+| 
+
+
+Twisted ist ein event-driven Netzwerk-Framework für Python zum einfachen Erstellen von Netzwerk Server- und Client-Programmen.
+
+Sven hat kurz die Funktionsweise von Twisted vorgestellt und ist etwas intensiver auf die Deferred Klasse eingegangen. Es gab eine sehr
+angeregte Diskussion über die Vor- und Nachteile von Twisted.
+
+Das nächste Treffen ist am 10. Juni 2014.
+
+
+Sechsundneunzigstes Treffen am 10. Juni 2014
+--------------------------------------------
+
+Diesmal gab eine Demonstration von mit Live-Coding von Dekoratoren:
+
+| 
+| Mike Müller
+| **Dekoratoren - Funktionen elegant mit Zusatzfunktionalität ausstatten**    
+| 
+
+Dekoratoren erlauben es Funktionen mit zusätzlicher Funktionalität auszurüsten
+ohne den Funktionskörper zu verändern. Das ist besonders für so genannte Querschnittsthemen wie Logging oder Laufzeitmessungen interessant. 
+
+Die Umsetzung als Funktionen, die Funktionen als Ergebnis zurück liefern
+ist etwas gewöhnungsbedürftig. Die Demonstration mit Live-Coding hat gezeigt,
+dass es praktisch gar nicht so schwierig ist, wenn der Programmierer ein paar
+einfache Prinzipien konsequent anwendet.
+
+Wir konnten das schöne Wetter im Freien genießen und haben die nötige
+Energie für das schwierige Thema aus Wohlschmeckendem vom Grill gewonnen.
+
+Wir machen wegen der Fußball-WM und der EuroPython eine Sommerpause.
+Das nächste Treffen ist am 9. September 2014.
+
+
+Siebenundneunzigstes Treffen am 9. September 2014
+-------------------------------------------------
+
+Das sehr gut besuchte Treffen begann mit einem äußerst interessanten
+Vortrag:
+
+| Stefan Schwarzer
+| **Python 2 und 3 mit dem selben Quelltext**    
+| 
+
+Ein Quelltext reicht aus, um Programme mit Python 3 und Python 2 laufen zu lassen.
+Dieser Vortrag hat gezeigt wie es geht und gab viele Hinweise aus der Praxis
+auf was besonders zu achten ist.
+Die 
+`Vortragsfolien <http://sschwarzer.com/download/python_2_3_europython2014.pdf>`_
+geben reichlich Tipps wie sich moderner Python-Code für Python 2 und 3
+schreiben lässt.
+
+Danach gab es noch einen kurzen Vortrag über `Tryton <http://www.tryton.org>`_
+und die anstehende `Tryton Unconference <http://tul2014.tryton.org>`_ in Leipzig
+mit anschließender Diskussion zum Thema Open-Spurce-Lizenzierung.
+
+Das nächste Treffen ist am 14. Oktober 2014.
+
+
+Achtundneunzigstes Treffen am 14. Oktober 2014
+----------------------------------------------
+
+Wir hatten in sehr interessanten, kurzen Vortrag:
+
+| Arnold Krille
+| **Hacking bleach: den HTML-sanitizer von der Whitelist zur Blacklist wandeln**    
+| 
+
+Python ist sehr flexibel. Der Vortrag gab ein schönes Beispiel dafür wie sich
+mit ein wenig Überlegung neue, ursprünglich so nicht geplante Funktionalität 
+in ein Python-Werkzeug integrieren lässt.
+
+Weiterhin hatten wir Kurzberichte von der EuroPython 2014 in Berlin und der
+EuroSciPy 2014 in Cambridge. Das sind zwei recht unterschiedliche, aber sehr
+interessante Konferenzen.
+  
+Das nächste Treffen ist am 11. November 2014.
+
+
+Neunundneunzigstes Treffen am 11. November 2014
+-----------------------------------------------
+
+Das Treffen war wieder gut besucht und wir haben die Raumkapzizät
+voll ausgeschöpft.
+
+Wir hatten einen tollen Vortrag:  
+
+| Andreas Bunkahle
+| **Kivy und Python**
+|
+
+
+Kivy ist ein NUI (Natural User Interface) Framework, dass auf vielen Plattformen wie
+Windows, OSX, Android, IOS und Linux funktioniert. Es hält alles bereit, was eine moderne Anwendung ausmacht.
+Dazu gehören Multitouch, Audio und Video, Kamera-Input, Grafik und Internetanbindung. 
+PyInstaller hilft eigenständige, kommerzielle und nicht-kommerzielle Anwendungen zu erstellen.
+Der Vortrag stellt anhand einer Vokabeltrainer-Anwendung die Nutzung von Kivy mit Python vor. 
+
+
+Links zum Thema:
+
+| Vokabelkasten VocMaster auf http://www.abunkahle.de
+| Eine Einführung in Kivy für mobile programming: http://pythonmobile.blogspot.de/
+| Die Webseite des Projekts incl. Downloads: http://www.kivy.org
+| Einige Pycon-Videos zu kivy finden sich auf http://pyvideo.org/search?models=videos.video&q=kivy
+
+Das nächste Treffen ist am 12. Dezember 2014.
+
+
+Hundertstes Treffen am 12. Dezember 2014
+----------------------------------------
+
+Pünktlich zum Jahresende und passend zur Weihnachtszeit konnte wir unser
+einhundertstes Treffen begehen. Aus diesem Anlass haben wir uns im Restaurant
+`Hotel Hiemann`_ getroffen.
+
+Wir hatten Gelegenheit noch einmal kurz die Entwicklung der User
+Group von ihrem ersten Treffen im Februar 2006 Revue passieren zu lassen. 
+Die ersten Treffen fanden in sehr kleinen Rahmen statt. Bei einem Treffen 
+im Monat wären maximal 107 Treffen möglichen gewesen. 
+Workshops, PyCon DE und EuroPython-Konferenzen haben fünf der Treffen ersetz.
+Wir waren an deren Organisation teilweise intensiv beteiligt.
+Zweimal haben wir eine Sommerpause der Veranstaltung vorgezogen.
+
+Es gab anregende Gespräche und eine etwas andere Atmosphäre als bei den
+anderen Treffen, die meist mit einen Vortrag begannen. Auf jeden Fall waren
+wir die letzten Gäste zu später Stunde im Restaurant. 
+
+
+
+.. _`Hotel Hiemann`: http://hotel-hiemann.de/
+ 
+
+Das nächste Treffen ist am 13. Januar 2015.
+
+.. |br| raw:: html
+
+   <br/>
+

@@ -1,0 +1,180 @@
+restindex
+    crumb: Archiv 2007
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2007
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2007
+========================================
+
+Elfter Stammtisch am 09.01.2007
+-----------------------------------
+
+Das elfte Treffen fand am 09.01.2007 um 20:00 Uhr
+im Schulungszentrum der Python Academy in Leipzig statt.
+|br|
+Stefan Schwarzer gab eine interessante Einführung in Trac_.
+Er hat das Trac-Projekt von ftputil_, das von ihm betrieben
+wird, als Beispiel genutzt. Die Vorführung der Möglichkeiten 
+n einem Produktionssystem war eindrucksvoll.
+Die Diskussion zum Vortrag wurde von einem Gedankenaustausch
+über das Verhältnis von Python zu anderen Programmiersprachen
+gefolgt. Dabei wurden sowohl Lisp als auch FORTRAN bedacht.  
+
+Der nächste Stammtisch findet am 13. Februar 2007 statt.
+Das Thema wird noch bekannt gegeben.
+
+Zwölfter Stammtisch am 13.02.2007
+-----------------------------------
+
+Unser Hauptthema war diesmal Pyrex_. Mit Pyrex wird das
+Schreiben von Pythonerweiterungen stark vereinfacht.
+Wir haben mit Pyrex eine Verringerung der Laufzeit um den
+Faktor zehn und mehr erreicht
+für numerisch anspruchsvolle Anwendungen erzielt.
+ 
+Der nächste Stammtisch findet am 13. März 2007 statt.
+Das Thema wird Python für wissenschaftliche Anwendungen sein.
+
+Dreizehnter Stammtisch am 13.03.2007
+------------------------------------
+
+Unser Hauptthema war diesmal Python für wissenschaftliche Anwendungen.
+Die besonderen Möglichkeiten von Python für das Verarbeiten von Eingaben
+stand im Mittelpunkt der Diskussion. Wir haben uns YAML_ und die Implementierung
+dieses Serilisationsformates in Python PyYAML_ angesehen.
+ 
+Der nächste Stammtisch findet am 10. April 2007 statt.
+
+
+Vierzehnter Stammtisch am 10.04.2007
+------------------------------------
+
+Wir konnten zwei neue Interessenten begrüßen. Es gab interessante Diskussionen.
+Wir sind uns einig: Django_ ist besser als PHP.
+
+Stefan Schwarzer hat seinen Vortrag `Speed up your Python code`_  auf Wunsch
+der Anwesenden nochmals gehalten.
+
+Der nächste Stammtisch findet am 8. Mai 2007 statt.
+
+Fünfzehnter Stammtisch am 08.05.2007
+------------------------------------
+
+Philippe Morath hielt einen sehr interessanten Vortrag 
+`Mobiltelefonprogrammierung mit Python - Python für die S60 Plattform`_.
+Nach einer Übersicht über Mobiltelefone und die S60-Plattform, stellte
+er Möglichkeiten der Mobiltelefonprogrammierung vor.
+Er zeigte wie Python S60 auf dem Mobiltelefon installiert und genutzt werden
+kann. Danach sprach er über die Nutzung von Python S60 im Emulator.
+Nach einfachen Beispielen für Anwendungen, gab er einen Überblick über die PyS60 API.
+
+Es gab eine anregende Diskussion über Anwendungsmöglickeiten. Die Lokalisierung
+von Mobiltelefonen war ein Diskussionsschwerpunkt.  
+
+Auch diesmal konnten wir zwei neue Besucher begrüßen, die sich rege an
+der Diskussion beteiligten.
+
+Der nächste Stammtisch findet am 12. Juni 2007 statt.
+
+Sechzehnter Stammtisch am 12.06.2007
+------------------------------------
+
+Wir konnten einen neuen Besucher begrüßen. Es gab eine interessante Diskussion
+zu unterschiedlichen Themen. Aus den Gesprächen wurde deutlich, dass Python
+im Web-Bereich immer mehr genutzt wird. Auch langjährige PHP-Anwender können
+sich, nach dem sie Python kennen nicht erklären, wie sie so lange ohne
+diese Sprache ausgekommen sind. Der Slogan "Python fits your brain" trifft dieses
+Phänomen recht gut.
+
+Der nächste Stammtisch findet am 10. Juli 2007 statt.
+Mike Müller wird seinen Vortrag `Parallelisierung von Pythonanwendungen mit Python Remote
+Objects (PYRO)`_ auf Wunsch einiger Gruppenmitglieder nochmals halten.
+
+Siebzehnter Stammtisch am 10.07.2007
+------------------------------------
+
+Mike Müller hielt seinen Vortrag `Parallelisierung von Pythonanwendungen
+mit Python Remote Objects (PYRO)`_ auf Wunsch einiger Gruppenmitglieder nochmals halten.
+Der Votrag hat gezeigt, dass verteiltes Rechnen nicht kompliziert sein muss.
+
+Die Diskussion drehte sich u.a. um den bevorstehenden Workshop_ am 7. September. 
+
+Der nächste Stammtisch findet am 14. August 2007 statt.
+
+Achtzehnter Stammtisch am 14.08.2007
+------------------------------------
+
+Wir haben den bevorstehenden Workshop_ am 7. September besprochen.
+Weitere Themen waren Vor- und Nachteile unterschiedlicher Web-Frameworks,
+Python-Veröffentlichungen in unterschiedlichen Zeitschriften und
+Stand aktueller Open-Source-Projekte der Teilnehmer.  
+
+Der nächste Stammtisch findet am 9. Oktober 2007 statt.
+Der Stammtisch im September fällt wegen zeitlicher Nähe zum Workshop_ aus.
+
+Neunzehnter Stammtisch am 9.10.2007
+------------------------------------
+
+Wir konnten einen neuen Besucher begrüßen.
+Hauptthemen waren diesmal Nevow und Twisted.
+Markus Zapke-Gründemann hat eine Beispielanwendung mit Nevow
+vorgestellt. Es entspann sich eine anregende Diskussion zu
+Nevow und wie eine Anwendung damit aufgebaut werden sollte.
+Die Fähigkeiten von Twisted wurden ebenfalls diskutiert.
+
+Der nächste Stammtisch findet am 13. November 2007 statt.
+Julian Moritz wird einen Vortrag mit Titel "Django - Ein- und Ausblicke" halten.
+
+
+Zwanzigster Stammtisch am 13. November 2007
+-------------------------------------------
+
+Der Vortrag von Julian Moritz über Django war gut besucht. Die interessante
+Präsentation gab einen guten Überblick über das Webframework. Es gab viele
+interessierte Fragen und eine intensive Diskussion über die verschiedensten
+Merkmale von Django.
+
+Der nächste Stammtisch findet am 11. Dezember 2007 statt. 
+
+Einundzwanzigster Stammtisch am 11. Dezember 2007
+-------------------------------------------------
+
+Auch diesmal konnten auch wir einige neue Besucher begrüßen. Durch Einladungen 
+über XING_ haben wir doch einige Interssenten erreicht.
+Es enspann sich eine interessante Diskussion, die neben dem natürlich immer
+aktuellen Thema Webanwendungen auch die Nutzung von Python für andere
+Bereiche umfasste. Wissenschaftliche Anwendungen wurden ebenso behandelt
+wie Werkzeuge zur Messung der Netzwerkperformance. 
+
+Der nächste Stammtisch findet am 8. Januar 2007 statt. 
+
+.. _XING: http://www.xing.com
+
+.. _Workshop: ../../workshop/index.html
+
+.. _`Parallelisierung von Pythonanwendungen mit Python Remote Objects (PYRO)`: ../vortraege/pyro_tutorial.pdf
+
+.. _`Speed up your Python code`: ../vortraege/optimization_talk.pdf
+
+.. _Django: http://www.djangoproject.com
+
+.. _ftputil: http://ftputil.sschwarzer.net
+
+.. _Trac: http://trac.edgewall.org
+
+.. _Pyrex: http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex
+
+.. _YAML: http://www.yaml.org
+
+.. _PyYAML: http://pyyaml.org
+
+.. _`Mobiltelefonprogrammierung mit Python - Python für die S60 Plattform`: ../vortraege/Mobile_programming_Python_S60.pdf
+
+.. |br| raw:: html
+
+   <br/>
+

@@ -1,0 +1,19 @@
+restindex
+    crumb: Variablen
+    format: rest
+    page-title: rest2web - Variablen
+    include: Yes
+/restindex
+
+
+=====================
+Variablen
+=====================
+
+* ``sections``: Informationen über alle Seiten im Verzeichnis
+* ``indextree``: Informationen über gesamte Site
+* ``thispage``: Eintrag in ``indextree``
+* alle sind Dictionairies, die wieder Dictionairies enthalten können
+* ``indexTree`` ist die Spitze des Baumes mit Verweisen nach unten
+* Schlüssel in ``indextree``: ``parent, sectionlist, sections, pages, subdir, target, section,link-title , crumb, page-description, thispage``
+

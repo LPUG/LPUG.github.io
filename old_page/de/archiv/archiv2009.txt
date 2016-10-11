@@ -1,0 +1,241 @@
+restindex
+    crumb: Archiv 2009
+    format: rest
+    page-title: Leipzig Python User Group - Archiv 2009
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archiv 2009
+========================================
+
+
+Vierunddreißigster Stammtisch am 13. Januar 2009
+-------------------------------------------------
+
+Wir haben uns mit diversen Themen beschäftigt.
+Wir werden wieder einen Stand auf den Chemnitzer Linux-Tagen
+haben. Weiterhin hatten wir eine Diskussion zur Webentwicklung
+und über Versionskontrolle.
+
+Der nächste Stammtisch findet am 10. Februar statt.
+
+
+Fünfunddreißigster Stammtisch am 10. Februar 2009
+-------------------------------------------------
+
+Stefan Schwarzer hat das `doctest-Modul`_ vorgestellt.
+Dabei hat er seinen `LinuxUser-Artikel der Ausgabe vom Dezember 2008`_
+einbezogen. Es ist schon erstaunlich wie einfach Testen sein
+kann.
+Wir haben unser Plakat für die `Chemnitzer Linux-Tagen`_ am 14./15. März
+2009 vorbereitet.
+
+Der nächste Stammtisch findet am 10. März statt.
+Julian Moritz wird über *Möglichkeiten der automatischen
+Sprachverarbeitung bei Webseiten am Beispiel von Django*
+berichten und Stefan Schwarzer wird uns Mercurial_ näher
+bringen.
+ 
+Der nächste Stammtisch findet am 10. März statt.
+  
+.. _`doctest-Modul`: http://docs.python.org/library/doctest.html
+.. _`LinuxUser-Artikel der Ausgabe vom Dezember 2008`: http://www.linux-community.de/Internal/Artikel/Print-Artikel/LinuxUser/2008/12/Check-inklusive
+.. _`Chemnitzer Linux-Tagen`: http://chemnitzer.linux-tage.de/2009/info
+.. _Mercurial: http://www.selenic.com/mercurial/wiki
+
+
+Sechsunddreißigster Stammtisch am 10. März 2009
+------------------------------------------------
+
+Julian Moritz hat über `Möglichkeiten der automatischen
+Sprachverarbeitung mit Django`_ berichtet. Das war ein interessanter
+Einblick in ein für alle Teilnehmer neues Gebiet.
+
+Stefan Schwarzer hat seinen `Vortrag über Mercurial`_ für die
+`Chemnitzer Linux-Tage`_ geprobt. Er konnte ein paar gute Tipps
+mitnehmen und seien Vortrag noch verbessern.
+
+Wir haben uns über unserer Auftreten auf den `Chemnitzer Linux-Tagen`_
+abgestimmt.
+
+Der nächste Stammtisch findet wegen der Osterferien eine Woche früher,
+also schon am ersten Dienstag im Monat, am 7. April statt.
+
+.. _`Möglichkeiten der automatischen Sprachverarbeitung mit Django`: ../vortraege/django-asv.pdf
+.. _`Vortrag über Mercurial`: http://sschwarzer.com/download/mercurial_clt2009.pdf
+.. _`Chemnitzer Linux-Tage`: http://chemnitzer.linux-tage.de/2009/info
+
+
+
+Siebenunddreißigster Stammtisch am 7. April 2009
+------------------------------------------------
+
+Dieses Treffen war wegen der Osterferien eine Woche früher als
+der planmäßige zweite Dienstag im Monat.
+
+Wir konnten drei neue Teilnehmer begrüßen. 
+ 
+Wir haben unseren Stand auf den `Chemnitzer Linux-Tagen`_ ausgewertet
+und gute Vorsätze für die Veranstaltung 2010 gefasst.
+
+In der Diskussion haben wir u.a. die PyCon 2009 analysiert.
+
+Das nächste Treffen findet am 12. Mai statt. 
+
+
+Achtunddreißigster Stammtisch am 12. Mai 2009
+------------------------------------------------
+
+Markus Zapke-Gründemann hat einen interessanten Vortrag über
+die EuroDjangoCon_, die vom 4. bis zum 9. Mai in Prag (Tschechische
+Republik) stattgefunden hat, gehalten. Die Vortragsfolien_ geben einen
+Überblick über seinen Bericht.
+
+Wer es genauer wissen möchte, kann die sich `Folien der Konferenzbeiträge`_
+oder Mindmaps_  zu den Vorträge ansehen.
+
+Das nächste Treffen findet am 9. Juni statt.
+
+.. _EuroDjangoCon: http://euro.djangocon.org/
+.. _Vortragsfolien: http://lectures.streetcleaner.org/EuroDjangoCon09.pdf
+.. _`Folien der Konferenzbeiträge`: http://eurodjangocon.pbworks.com/Presentations
+.. _Mindmaps: http://www.flickr.com/photos/dibau_naum_h/tags/eurodjangocon/ 
+
+
+
+Neununddreißigster Stammtisch am 9. Juni 2009
+------------------------------------------------
+
+Kai Diefenbach (iqplusplus_ Erfurt) hat einen interesanten Vortrag  zu LFS,
+dem Lightning Fast Shop gehalten. LFS_ ist ein Online-Shop basierend auf
+Python_, Django_ und jQuery_ veröffentlicht unter der BSD-Lizenz.
+
+Es gab einen Überblick über LFS: Verwendete Technologien,
+Entwicklungsstatus, bevorstehende Releases, vorhandene und geplante
+Features. Danach wurde der Shop im Einsatz vorgestellt.
+Es gab viele interessierte Fragen und eine lebhafte Diskussion.
+
+Das nächste Treffen findet am 14. Juli statt.
+
+.. _iqplusplus: http://iqpp.de/
+.. _LFS: http://www.getlfs.com/
+.. _Python: http://www.python.org/
+.. _Django: http://www.djangoproject.com/
+.. _jQuery: http://jquery.com/
+
+
+
+Vierzigster Stammtisch am 14. Juli 2009
+------------------------------------------------
+
+Stefan Schwarzer hat über die `EuroPython 2009`_ berichtet.
+Mit 450 Teilnehmern war es die bisher größte EuroPython.
+Es gab 15 Tutorials (jeweils 4 parallel) und 80 Vorträge
+(jeweils 6 parallel). Offensichtlich hat die große Zahl
+der Besucher die Veranstalter überrascht, den es war recht
+eng in den Vortragsräumen und im Tagungsgebäude.
+
+Es gab einige interessante Keynotes. Ansonsten waren die
+Schwerpunkte: Web-Entwicklung, Python-Implementierungen, Testen und
+Community. Neben den geplanten Vorträgen gab es offene Zeiten
+für nicht geplante Vorträge oder Diskussionen (Unkonferenzen).
+Die nächste EuroPython ist wieder in Birmingham. Die EuroPython 2011
+vielleicht in Deutschland.
+
+Wie immer gab es interessante Diskussionen. Diesmal war ein
+Schwerpunkt Python als Ersatz/Ergänzung zu Shell-Skripten. 
+
+Das nächste Treffen findet am 11. August statt
+
+
+.. _`EuroPython 2009`: http://www.europython.eu
+
+
+Einundvierzigster Stammtisch am 11. August 2009
+------------------------------------------------
+
+Wir haben uns über die `EuroSciPy 2009`_ ausgetauscht. Drei
+der Mitglieder haben an der Konferenz teilgenommen.
+Es gab viele interessante Vorträge
+über die Nutzung von Python im wissenschaftlichen Bereich.
+
+Das nächste Treffen findet am 8. September statt.
+Markus Zapke-Gründemann wird das `Micro Web Framework Bottle`_
+vorstellen. 
+
+
+.. _`EuroSciPy 2009`: http://www.euroscipy.org
+.. _`Micro Web Framework Bottle`: http://bottle.paws.de/page/start
+
+
+Zweiundvierzigster Stammtisch am 8. September 2009
+--------------------------------------------------
+
+Markus Zapke-Gründemann hat das `Micro Web Framework Bottle`_
+vorgestellt. Damit können in sehr kurzer Zeit einfache Anwendungen
+oder Prototypen entwickelt werden. Sein Vortrag_ ist eine
+gute Einführung in das Thema.
+
+Stefan Schwarzer hat interessante Ergebnisse von Geschwindigkeitstest
+mit Python, NumPy und Erweiterungen in Fortran vorgestellt. Das gab
+reichlich Diskussionsstoff.   
+
+Das nächste Treffen findet am 13. Oktober statt.
+
+.. _Vortrag: http://www.slideshare.net/streetcleaner/bottle-python-web-microframework
+
+
+Dreiundvierzigster Stammtisch am 13. Oktober 2009
+--------------------------------------------------
+
+Wir konnten wieder einige neue Besucher begrüßen. Da die meisten
+bisher wenig mit Python zu hatten, entspann sich eine rege Diskussion
+um die Vorteile von Python. Die Grundlagen der Sprache wurden mit
+Beispielen interaktiv erklärt. 
+
+
+Das nächste Treffen findet am 10. November statt.
+Es wird Berichte von der RuPy geben.
+
+
+Vierundvierzigster Stammtisch am 10. November 2009
+--------------------------------------------------
+
+Leider hat es keiner der RuPy-Besucher geschafft zu kommen,
+so dass wir keine Berichte von Teilnehmern hören konnten.
+Wir haben uns damit beholfen uns  die Folien von Vorträgen zu
+RuPy, die wir im Internet finden konnten näher anzusehen.
+So haben Interessantes über PyPy gelernt.
+
+Das nächste Treffen findet am 1. Dezember statt.
+Das ist eine Woche früher als der planmäßige 2. Dienstag
+im Monat. Weihnachten lässt grüßen. 
+
+
+
+Fünfundvierzigster Stammtisch am 1. Dezember 2009
+-------------------------------------------------
+
+Der für den letzten Stammtisch geplante Teilnehmerbericht
+über die RuPy wurde nachgeholt. Es war wirklich eine
+interessante Konferenz. Python und Ruby haben so viele
+Gemeinsamkeiten, dass eine solche Konferenz funktioniert. 
+
+
+Das nächste Treffen findet am 12. Januar 2010 statt.
+Markus Zapke-Gründemann wird die Module xml.sax_ und
+xml.sax.handler_ vorstellen, mit denen sich schnell große
+Mengen an XML-Daten verarbeiten lassen.
+
+
+.. _xml.sax: http://docs.python.org/library/xml.sax.html
+.. _xml.sax.handler: http://docs.python.org/library/xml.sax.handler.html 
+
+
+
+.. |br| raw:: htm
+
+   <br/>
+

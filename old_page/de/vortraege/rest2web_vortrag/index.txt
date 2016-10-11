@@ -1,0 +1,36 @@
+restindex
+    crumb: rest2web
+    format: rest
+    page-title: rest2web - dynamische Erstellung statischer Webseiten
+    include: Yes
+    section-pages: , einleitung, dynamisch, prinzip, dateisystem, ini, indexseite, templateseite, restindexseite, python, variablen, funktionen, makros, plugins 
+    tags: rest2web, docutils, Webseiten generieren, Python, Einführung, Vortrag, Tutorial, deutsch 
+    page-description: Ein Einführungsvortrag zu rest2web, dem Webseitengenerator auf der Basis von Docutils und Python
+    /description
+/restindex
+
+
+
+
+=====================================================
+rest2web - dynamische Erstellung statischer Webseiten
+=====================================================
+
+Treffen der Leipzig Python User Group am 11.04.2006
+----------------------------------------------------
+
+|br|
+|br|
+
+Ein Vortrag von Mike Müller
+
+Python Academy, Leipzig
+
+
+|br|
+|br|
+|br|
+
+.. |br| raw:: html
+
+   <br/>

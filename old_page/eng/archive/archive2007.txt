@@ -1,0 +1,183 @@
+﻿restindex
+    crumb: Archive 2007
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2007
+    include: Yes
+    encoding: utf-8
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2007
+========================================
+ 
+Eleventh Meeting, Tuesday January 9, 2007
+---------------------------------------------------------
+ 
+We met on January 9 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+Stefan Schwarzer gave his presentation about Trac_. He used the trac-site of ftputil_
+that was created and is maintained by him. 
+The demonstration at a life site was impressive. The discussion about
+the presentation was followed by an exchange of ideas about Python and its
+relation to other programming languages.  This covered both Lisp and FORTRAN and then some.
+
+The next meeting will be on February 13, 2007. The topic will be announced soon.
+
+
+Twelfth Meeting, February 13, 2007
+---------------------------------------------------------
+
+We met on February 13 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+We talked about Pyrex_ and its application to performance critical applications.
+We achieved run time improvements with Pyrex that exceed the factor of ten for
+codes that involve lots of numerical computations.
+
+The next meeting will be on March 13, 2007. The topic will be Python for scientific applications.
+
+Thirteens Meeting, March 13, 2007
+---------------------------------------------------------
+
+We met on March 13 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+This time our main topic was Python for scientific applications.
+The discussion focused on Python's abilities for data input.
+We looked at YAML_ and the implementation of the serialization formats in Python
+PyYAML_.
+
+
+The next meeting will be on April 10, 2007.
+
+Fourteens Meeting, April 10, 2007
+---------------------------------------------------------
+
+We could welcome two new people. We had interesting discussions.
+Our conlusion: Django_ is better than PHP.
+
+Stefan Schwarzer gave his presentation `Speed up your Python code`_ again,
+because we asked him to do so.
+
+
+The next meeting will be on May 8, 2007.
+
+
+Fifteens Meeting, May 5, 2007
+------------------------------
+
+Philippe Morath gave a very interesting talk about programming of mobile phones
+with Python on the S60 platform. Slides are available in German ( 
+`Mobiltelefonprogrammierung mit Python`_).
+First he gave an overview of mobile phones and the S60 platform as well as
+possibilties of programming mobile phones.
+He explained installation and use of Python S60 on a mobile phone. Next, he
+talked about using Python S60 in the emualtor.
+Finally, he showed simple examples for applications and gave an overview of
+the PyS60 API.
+
+There was a stimulative discussion about possibilties of application. Localization
+of mobile phones war one of the main discussion topics.
+
+Again, we could welcome to new attendants, who actively took part in the discussion.
+
+The next meeting will be on June 12, 2007.
+
+Sixteens Meeting, June 12, 2007
+------------------------------------
+
+We had a new attendant. There was an interesting discussion about
+different topics. Our impressions that Python is more and more widely
+used for web programming. Even long-time PHP-user can not explain how they
+could manage to work so long without Python. "Python fits your brain" describes
+it nicely.
+
+The next meeting will be on July 10, 2007.
+
+Mike Mueller will give his talk `Parallelisierung von Pythonanwendungen mit Python Remote
+Objects (PYRO)`_ (slides are in English).
+
+
+Seventeens Meeting, July 10, 2007
+------------------------------------
+
+Mike Mueller gave his talk `Parallelisierung von Pythonanwendungen mit Python Remote
+Objects (PYRO)`_ (slides are in English). The talk showed that distributed computation
+doesn't need to be complicated. 
+
+One of the topics of the disscusion was our workshop_ in September.
+
+Eighteens Meeting, August 14, 2007
+------------------------------------
+
+We talked about the workshop_ on September 7.
+Other topics included advantages and disadvantages of different
+web frameworks, Python publications in different magazines, and
+current Open Source projects of the participants.  
+
+
+The next meeting will be on October 9, 2007.
+The September meeting is replaced by the workshop_. 
+
+
+Nineteens Meeting, October 9, 2007
+------------------------------------
+
+We wellcomed a new attendee.
+Main topices were Nevow and Twisted.
+Markus Zapke-Gruendemann presented a example application with Nevow.
+This trigged a fruitful discussion about Nevow how to build a
+application with it. Furthermore, we discussed the capabilties
+of Twisted diskutiert.
+
+The next meeting will be on November 13, 2007.
+Julian Moritz will give a presentation titled "Django - Ein- und Ausblicke".
+
+
+Twenties Meeting, November 13, 2007
+------------------------------------
+
+Julian Moritz gave an interesting presentation about Django.
+The meeting was well attended. We had alively dicussion about features
+of Django often compared to other webframeworks.
+
+
+The next meeting will be on December 11, 2007.
+
+Twentyfirst Meeting, December 11, 2007
+----------------------------------------
+
+Again we could welcome new people. The invitaions through XING_
+work out nicely.
+An interesting discussion devleoped. In addition to ubiquitous web applications we
+also talked explicitly  about usage of Python in other fields. This included
+scientific applications as wells as network performance tools.  
+
+The next meeting will be on January 8, 2008.
+
+.. _XING: http://www.xing.com
+
+.. _workshop: http://www.python-academy.de/workshop/index.html
+
+.. _`Parallelisierung von Pythonanwendungen mit Python Remote Objects (PYRO)`: http://www.python-academy.de/User-Group/vortraege/pyro_tutorial.pdf
+
+.. _ftputil: http://www.sschwarzer.net/python/python_software.html
+
+.. _presentation: http://www.sschwarzer.net/download/ftputil_lpug.pdf
+
+.. _Trac: http://trac.edgewall.org/
+
+.. _Pyrex: http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex
+
+.. _YAML: http://www.yaml.org/
+
+.. _PyYAML: http://pyyaml.org/
+
+.. _`Speed up your Python code`: http://www.python-academy.de/User-Group/vortraege/optimization_talk.pdf
+
+.. _Django: http://www.djangoproject.com
+
+.. _`Mobiltelefonprogrammierung mit Python`:  http://www.python-academy.de/User-Group/vortraege/Mobile_programming_Python_S60.pdf
+
+
+
+.. |br| raw:: html
+
+   <br/>
+

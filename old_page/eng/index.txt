@@ -1,0 +1,119 @@
+restindex
+    crumb: User Group
+    format: rest
+    page-title: Leipzig Python User Group
+    include: Yes
+    section-pages: , calendar, archive/index
+/restindex
+
+
+Eine deutsche Version dieser Ankündigung finden Sie hier_.
+
+=========================
+Leipzig Python User Group
+=========================
+
+Next Meeting Tuesday, February 8, 2016, 19:00
+---------------------------------------------
+
+**Attention**: We will meet one hour earlier than usual and at a different venue:
+ 
+| Basislager Coworking Space
+| Peterssteinweg 14-16
+| 04107 Leipzig
+|
+| Raum: Mount Everest, 4th floor
+|
+
+|br|
+
+.. _Basislager: http://basislager.co/
+
+
+| Dr. Anne Weber
+
+**Modelling complex geochemical processes – 
+A PyQt-based GUI improves the scientific workflow**     
+
+Description
++++++++++++
+
+A PyQt based GUI was developed to enhance the accessibility of complex scientific water quality models. With the help of the GUI a non-scientific audience can simulate scenarios for in-situ removal of dissolved iron from groundwater. I will also focus on how the special design of a GUI and the data handling behind can structure complex processes, guide the user and minimize runtime errors.
+
+
+Motivation
+++++++++++
+
+In hydrology the application of numerical simulation software is mostly restricted to scientists or specialized engineers. This is due to the general approach of the software to potentially represent as much 'reality' as possible and consequently also due to the complexity of processes they cover. In an engineer's business, however, there are well-defined tasks which increasingly depend on the application of such scientific simulation software.
+
+Scientific background
++++++++++++++++++++++
+
+Groundwater is one of the major resources for drinking water, but usually needs to be treated before supply. Often dissolved metals, such as iron or manganese, need to be removed. In-situ metal removal (MR) represents a cost-effective alternative to above-ground treatment of drinking water. Though due to complex geochemical processes and its inaccessibility it is more difficult to design and monitor. Today this technique is often applied in a rather empiric way and prognostic calculations for future applications are rarely found. Target of the present work was to develop a graphical user interface (GUI) that supports the individual design of in-situ MR reactors, depending on the site-specific hydraulic and chemical conditions.
+Approach
+
+PyQt [1], the Python binding to the mighty Qt framework for programming GUIs, was used to develop a purpose-built graphical user interface: FeNariO. FeNariO enables the user to:
+
+* adapt a predefined scenario for in-situ removal of iron from groundwater,
+* run the scientific groundwater simulation software Modflow [2] for 
+  groundwater flow, PhreeqC [3] for chemical equilibration, and Pht3d [4] 
+  for reactive transport, and finally
+* extract or plot results.
+
+Besides to the practical outcome, I will focus on my experiences, how complex processes can be handled employing the intrinsic capabilities of a graphical user interface, as:
+
+* the graphical layout (e.g. structuring the problem, data visualization),
+* predefined user interaction (e.g. directed data input, minimization of
+  erroneous user input).
+
+Conclusions
++++++++++++
+
+FeNariO is one example of how to increase the software accessibility to a broader, non-scientific audience. Having a well-defined modelling task which needs to be solved for many individual cases, purpose designed GUIs are one way to ease a future modelling workflow. As many scientists are already using Python as a programming language, it is obvious to have a glance at PyQt or PySide when developing these GUIs.
+
+References
+++++++++++
+
+[1] https://wiki.python.org/moin/PyQt
+
+[2] http://water.usgs.gov/ogw/modflow/MODFLOW.html
+
+[3] http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/
+
+[4] http://www.pht3d.org
+
+
+.. We will meet on June 9, 2015 8:00 pm at the training center of Python
+.. Academy in Leipzig, Germany (`How to find us`_).
+
+|br|
+Everybody who uses Python, plans to do so or is interested in learning more
+about the language is encouraged to participate.
+
+|br|
+While the meeting language will be mainly German, English speakers
+are very welcome. We will provide English interpretation if needed.
+|br|
+|br|
+The dates of our next meetings can be found in our calendar_.
+|br|
+Information about meetings can also be found on our `mailing list`_.
+
+.. |br| raw:: html
+
+   <br/>
+
+.. _workshop: http://www.python-academy.de/workshop/index.html
+.. _hier: http://www.python-academy.de/User-Group/index.html
+.. _`How to find us`: ../center/find.html
+.. _Trac: http://trac.edgewall.org
+.. _Pyrex: http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex
+.. _calendar: calendar.html
+.. _`mailing list`: http://starship.python.net/mailman/listinfo/python-leipzig
+
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+
+
+

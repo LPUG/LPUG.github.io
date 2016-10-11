@@ -1,0 +1,183 @@
+﻿restindex
+    crumb: Archive 2011
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2011
+    include: Yes
+    encoding: cp1252
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2011
+========================================
+
+Fifty Eighth Meeting, Tuesday January 11, 2011
+-----------------------------------------------
+
+We continued to work on our presentation at Chemnitzer Linuxtage 2011.
+We got nice material from pyCologne, the user group n Cologne that we can use.
+
+We looked at co-routines and concurrent programming. Python's generators with
+their ability to take messages from outside are built into the language and
+help programming in this style.
+
+
+The next meeting will be on February 15, 2011.
+
+**Note**: This will be one week later than or regular second Tuesday of the
+month. 
+
+
+Fifty Nineth Meeting, Tuesday February 15, 2011
+-----------------------------------------------
+
+We looked at `OpenCV for Python`_ , a very interesting library for tracking
+movements. We had a variety of Python topics to talk about.
+
+.. _`OpenCV for Python`: http://opencv.willowgarage.com/wiki/PythonInterface
+
+The next meeting will be on March 15, 2011.
+
+**Note**: This will be one week later than or regular second Tuesday of the
+month.
+
+
+Sixtieth Meeting, Tuesday March 15, 2011
+----------------------------------------
+
+For some time we, the Leipzig Python User Group, has contacts with Leipzig Rails community.
+This meeting was a joint event at Topics Maps Lab in Johannisgasse, Leipzig.
+We wanted to intensify the exchange between both groups and to get to know new
+technologies and  solutions.
+
+
+The next meeting will be on April 19, 2011.
+
+Sixty First Meeting, Tuesday April 19, 2011
+-------------------------------------------
+
+This time folks form Leipzig Ruby User Group Leipzig on Rails`_ came to our meeting
+at the traditional location Python Academy. Christoph Petschnig introduced Rails 3.
+We had intensive discussion  about similarities nd difference between  Ruby and Python
+as well as between Rails and Django. All in all a very successful event.
+
+The next meeting will be on May 10, 2011.
+
+
+.. _`Leipzig on Rails`: http://groups.google.com/group/leipzigonrails
+
+
+Sixty Second Meeting, Tuesday May 10, 2011
+------------------------------------------
+
+We talked about several "smaller" topics such as some Python packages,
+conferences and a bunch of other things.
+
+The next meeting will be on June 14, 2011.
+
+
+
+Sixty Third Meeting, Tuesday June 14, 2011
+------------------------------------------
+
+Andreas Bunkahle talked about OpenCV and Python:
+
+OpenCV is a very powerful and fast image processing and computer vision library.
+The combination of OpenCV 2.1 and Python 2.6 is stable and  works reliably.
+Features include face and pattern recognition, web cam control, and morphing
+among many others.
+
+The next meeting will be on July 12, 2011.
+
+
+Sixty Fourth Meeting, Tuesday July 12, 2011
+-------------------------------------------
+
+We discussed about Python IDEs, their functionality as well as their
+advantages and disadvantages. Other topics included Cython and NumPy.
+The forthcoming PyCon DE was another theme during our meeting.
+
+The next meeting will be on August 9, 2011.
+
+
+Sixty Fifth Meeting, Tuesday August 9, 2011
+-------------------------------------------
+
+|mike| demonstrated the use of ctypes_ with an example.
+Because ctypes is part of the standard library und pretty easy to use, it is
+really good way to access DLLs. If you work with Python 3 you need to take
+care to handle strings, which are unicode by default. Don't forget to encode
+and decode them before and after exchange with the DLL if the strings in the
+DLL are ASCII, which is rather common.
+
+The next meeting will be on September 27, 2011.
+
+.. _ctypes: http://docs.python.org/library/ctypes.html
+
+
+
+Sixty Sixth Meeting, Tuesday September 27, 2011
+-----------------------------------------------
+
+|mike| talked about HDF5 and how to use it from Python. This sparked a
+lively discussion about details and border cases for HDF5 usage from everybody
+learned something new.  
+
+The next meeting will be on November 8, 2011.
+We will evaluate `PyCon DE 2011 <http://de.pycon.org/2011>`_.
+Many members of our user group were deeply involved in the organization of this
+first German PyCon.
+
+Sixty Seventh Meeting, Tuesday November 8, 2011
+-----------------------------------------------
+
+We evaluated `PyCon DE 2011 <http://de.pycon.org/2011>`_.
+Many members of our user group were deeply involved in the organization of this
+first German PyCon. 
+
+The conference was a great success. About 50% of the participants gave feedback,
+which was overwhelmingly positive. The organization was super. The presentations
+and tutorials were really good. We received a few suggest what to improve that
+should be considered next year. Though, some of the suggestions of opposite
+goals.
+
+We decided to apply for PyCon DE 2012. To have a conference at the same place
+twice seems to work well (see PyCon US, EuroPython and EuroSciPy). The PyCon DE
+2011 makes a good reference in any case. 
+
+The next meeting will be on December 13, 2011.
+
+
+Sixty Eighth Meeting, Tuesday December 13, 2011
+-----------------------------------------------
+
+|markus| introduced the Python client `dedun`_ that offers access to the
+API for the information server of the City of Leipzig. Topics included design
+and development of the software as well as the testing with py.test_.
+
+The presentation_ was utmost interesting and lead to a very productive
+discussion. The talk clearly presented the different phases of development and
+the according changes in the approach. 
+ 
+The next meeting will be on January 10, 2012.
+
+.. _`dedun`: https://pypi.python.org/pypi/dedun
+.. _py.test: http://pytest.org/
+
+.. _presentation: https://bitbucket.org/keimlink/dedun_talk/overview
+
+
+
+.. |mike| raw:: html
+
+  Mike M&uuml;ller
+  
+.. |fuer| raw:: html
+
+  f&uuml;r
+  
+  
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+

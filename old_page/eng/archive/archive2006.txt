@@ -1,0 +1,207 @@
+restindex
+    crumb: Archive 2006
+    format: rest
+    page-title: Leipzig Python User Group - Archive 2006
+    include: Yes
+/restindex
+
+
+========================================
+Leipzig Python User Group - Archive 2006
+========================================
+
+First Meeting on February 14, 2006
+-----------------------------------
+
+We met the first time on February 14, 2006 at 8.00 pm at the training center of Python Academy.
+
+At this date the Leipzig Python User Group was founded.
+It was agreed to hold regular meetings very second Tuesday of the month.
+Meeting will take place at Python Academy.
+
+There was a presentation by Mike Müller about "Parallel Computing in Python with Pyro"
+It is available as a PDF-File_ in English.
+
+The still small group had a intensive discussion. Even though the meeting lasted for four hours there seemed to be so much more to talk about.
+
+The second meeting was scheduled for 16.03.2006.
+
+.. _PDF-File: http://www.python-academy.de/User-Group/vortraege/pyro_tutorial.pdf
+
+
+Second Meeting Thursday, March 16, 2006
+----------------------------------------
+
+We met the second time on March 16 at 8:00 pm at the training center of Python Academy.
+|br|
+
+Since the regular meeting date (second Tuesday of the month) would
+have been during be the CeBIT we postponed the date for two days.
+
+|br|
+Stefan Schwarzer gave a very interesting presentation about the application
+of the web framework CherryPy. The presentation itself was created in CherryPy
+and can be found at http://www.sschwarzer.com/talks/cherrypy (German).
+
+|br|
+The user group grew by a few new members who to took part in the discussion
+very actively. Even after five hours, there seemed to be so many topics
+still to be discussed. Therefore, the next meeting is expected to interesting again.
+
+|br|
+This meeting will be April 11 at 8:00 pm at the same place.
+Andreas Kaiser will talk about wxPython and wax.
+
+
+
+Third Meeting Tuesday, April 11, 2006
+--------------------------------------
+
+We met on April 11 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+
+
+|br|
+Mike Müller talked about rest2web, a Python module for dynamic generation of static websites.
+The presentation is available in German_
+
+|br|
+Again two new interested people joined the meeting, which offered interesting discussions far after midnight.
+
+The next meeting will on May, 9 2006 with a scheduled talk by Andreas Kaiser about wxPython and wax.
+
+.. _German: http://www.python-academy.de/User-Group/vortraege/rest2web_vortrag/index.html
+
+
+Fourth Meeting, Tuesday May 9, 2006
+-----------------------------------
+
+We met on May 9 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+
+|br|
+Ralf Muschall gave a 'talk about Tkinter'_ and presented an overview on its application.
+|br|
+Again, a new person joined the meeting.  The discussion was very interesting,
+covering linguistics of natural and programming languages.
+An impromptu demonstration of IPython_ was very informative.
+|br|
+The next meeting will be June, 13 at the same time and place as usual.
+
+.. _'talk about Tkinter': http://www.python-academy.de/User-Group/vortraege/tkinter/Tkinter.html
+
+.. _Ipython: http://ipython.scipy.org/
+
+Fifth Meeting, Tuesday June 13, 2006
+------------------------------------
+
+We met on June 13 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+|br|
+Stefan Schwarzer gave his EuroPython-Presentation `Speed up your Python
+code`_ as a "dress rehearsal". Therefore, the presentation was given in English.
+There was a lively discussion about both content and way of presentation.
+It provided interesting information for the presenter as well as for the
+audience. As usual the discussion about Python lasted well into the next day.
+|br|
+
+The next meeting will be on July 11, 2006 at 8:00 pm. at the same place.
+Mike Müller will give his EuroPython-Presentation "Python Academy – Teaching Python in Germany".
+
+
+.. _`Speed up your Python code`: http://www.python-academy.de/User-Group/vortraege/optimization_talk.pdf
+
+Sixth Meeting, Tuesday July 11, 2006
+------------------------------------
+
+We met on July 11 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+|br|
+Mike Müller gave his EuroPython-Presentation `Python Academy - Teaching Python in Germany`_.
+Therefore, the presentation was given in English.
+
+The recent EuroPython_ provided plenty of material to discuss. The user group found
+the presentations about version control systems (`Bazaar NG`_ and Mercurial_).
+Everybody learned a lot from the discussion about advantages and disadvantages of different systems.
+
+The next meeting will be on August 8, 2006 at 8:00 pm. at the same place.
+Stefan Schwarzer will present his program ftputil_.
+
+Hint: The Date for the meeting was moved to August 16.
+
+Seventh Meeting, Wednesday August 16, 2006
+---------------------------------------------------------
+
+We met on August 16 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+|br|
+Stefan Schwarzer gave a very interesting presentation_ about his Python module ftputil_.
+This module provides a user-friendly interface to FTP client functionality.
+The interface is modeled after the built-in modules ``os``, ``os.path`` and ``shutil``.
+Therefore, remote files and directories on FTP-servers can be accessed very similarly to local files.
+
+After the discussion we did some workshop preparation.  The fine tuning of the program
+formatting was done as well as printing and folding of fliers.  The discussion about
+how to best run the workshop yielded useful results.
+
+The next meeting will be on October 10.  The regular date would be September12, but
+this day is very close to the workshop, so that in a way the workshop replaces the meeting.
+On October 10 Mike Müller will give his presentation "Python – the silent success of
+a programming language".  This presentation will be given on October 16 at the technical
+bookstore Lehmanns in Leipzig and serves as introduction to Python. 
+
+
+Workshop, Friday September 8, 2006
+-----------------------------------
+
+Our workshop_ replaced our regular September meeting.
+
+
+.. _workshop: http://www.python-academy.de/workshop/index.html
+
+
+Eighth Meeting, Tuesday October 16, 2006
+---------------------------------------------------------
+
+We met on October 10 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+
+Mike Müller gave his presentation "Python – the silent success of a programming language".
+This presentation will be given on October 16 at the technical bookstore Lehmanns in Leipzig
+and serves as introduction to Python.
+
+We had a new participant, our first female visitor at the User Group meetings 
+
+The next meeting will be on November 14. The topic of the talk will be announced soon.
+
+Ninth Meeting, Tuesday November 14, 2006
+---------------------------------------------------------
+
+We met on November 14 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+We had an open discussion about Python.  One topic was large numbers and their representation in Python.
+The next meeting will be on December, 12.  We will have a small Christmas celebration.
+
+Tenth Meeting, Tuesday Dezember 12, 2006
+---------------------------------------------------------
+ 
+We met on Dezember 12 at 8:00 pm at the training center of Python Academy in Leipzig, Germany.
+We worked on reviewing the articles for the proceedings of our workshop that took place on September 8, 2006.
+Another topic was Python in scientific applications.
+The next meeting will be on January 9, 2007. The topic will be announced soon.
+
+
+
+.. _`Bazaar NG`: http://indico.cern.ch/materialDisplay.py?contribId=50&amp;sessionId=24&amp;materialId=slides&amp;confId=44
+
+.. _Mercurial: http://indico.cern.ch/materialDisplay.py?contribId=29&amp;sessionId=49&amp;materialId=slides&amp;confId=44
+
+.. _`Python Academy - Teaching Python in Germany`: http://www.python-academy.de/User-Group/vortraege/python_academy.pdf
+
+.. _EuroPython: http://www.europython.org
+
+.. _ftputil: http://www.sschwarzer.net/python/python_software.html
+
+.. _presentation: http://www.sschwarzer.net/download/ftputil_lpug.pdf
+
+.. _Trac: http://trac.edgewall.org/
+
+.. _Pyrex: http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex
+
+.. |br| raw:: html
+
+   <br/>
+

@@ -1,0 +1,19 @@
+restindex
+    crumb: Funktionen
+    format: rest
+    page-title: rest2web - Standardfunktionen
+    include: Yes
+/restindex
+
+
+=============================================
+Standardfunktionen - typische Aufgaben gelöst
+=============================================
+
+* Funktionen, die in Templates gerufen werden können
+* ``print-details``: Indexseiten ganz einfach ausgedruckt
+* ``section_contents``: Zugang zu Inhalt von Abschnitten
+* ``print_crumbs``: Navigationspfad
+* ``minibar``: Links zu allen Seiten im aktuellen Verzeichnis
+* ``sidebar``: Navigationsbaum
+* eigene Funktion können definiert werden

@@ -1,0 +1,131 @@
+restindex
+    crumb: Vorträge
+    format: rest
+    page-title: Vorträge bei Treffen der Leipzig Python User Group
+    include: Yes
+    section-pages: , rest2web_vortrag/index
+/restindex
+
+
+
+===================================================
+Vorträge bei Treffen der Leipzig Python User Group
+===================================================
+
+|br|
+13.01.2015
+|br|
+Mike Müller: `Metaklassen in 30 Minuten`_
+|br|
+|br|
+10.03.2009
+|br|
+Julian Moritz: `Möglichkeiten der automatischen Sprachverarbeitung mit Django`_
+|br|
+|br|
+Stefan Schwarzer: `Versionsverwaltung mit Mercurial für Einsteiger`_
+|br|
+|br|
+10.02.2009
+|br|
+Stefan Schwarzer: `Automatisiertes Testen mit dem Doctest-Modul`_
+|br|
+|br|
+12.08.2008
+|br|
+Mike Müller: Vorstellung von matplotlib_
+|br|
+|br|
+10.06.2008
+|br|
+Markus Zapke-Gründemann: Umwandeln von CSV-Dateien in XML-Dateien
+|br|
+|br|
+13.05.2008
+|br|
+Christian Theune: Vorstellung von Grok
+|br|
+|br|
+12.02.2008
+|br|
+Maik Derstappen: Vorstellung von Plone
+|br|
+|br|
+13.11.2007
+|br|
+Julian Moritz: Django - Ein- und Ausblicke
+|br|
+|br|
+09.10.2007
+|br|
+Markus Zapke-Gründemann: Eine Beispielanwendung mit Nevow
+|br|
+|br|
+10.07.2007
+|br|
+`Parallelisierung von Pythonanwendungen mit Python Remote Objects (PYRO)`_
+|br|
+|br|
+08.05.2007
+|br|
+Philippe Morath: `Mobiltelefonprogrammierung mit Python - Python für die S60 Plattform`_.
+|br|
+|br|
+10.10.2006
+|br|
+Stefan Schwarzer: `ftputil – eine High-Level-Bibliothek für FTP`_
+|br|
+|br|
+11.07.2006
+|br|
+Mike Müller: `Python Academy - Teaching Python in Germany`_
+|br|
+|br|
+13.06.2006
+|br|
+Stefan Schwarzer: `Speed up your Python code`_
+|br|
+|br|
+09.05.2006
+|br|
+Ralf Muschall: Tkinter_
+|br|
+|br|
+11.04.2006
+|br|
+Mike Müller: `"rest2web - dynamische Erstellung statischer Webseiten"`_
+|br|
+|br|
+16.03.2006
+|br|
+Stefan Schwarzer: "CherryPy"
+|br|
+Der Vortrag ist unter http://www.sschwarzer.com/talks/cherrypy verfügbar.
+|br|
+|br|
+14.02.2006
+|br|
+Mike Müller: "Parallelisierung von Pythonanwendungen mit Python Remote
+Objects (PYRO)"
+|br|
+Der Vortrag ist als PDF-Datei_ verfügbar.
+|br|
+|br|
+
+.. |br| raw:: html
+
+   <br/>
+
+.. _`Metaklassen in 30 Minuten`: meta/meta.slides.html
+.. _PDF-Datei: pyro_tutorial.pdf
+.. _`"rest2web - dynamische Erstellung statischer Webseiten"`: rest2web_vortrag/index.html
+.. _Tkinter: tkinter/Tkinter.html
+.. _`Speed up your Python code`: optimization_talk.pdf
+.. _`Python Academy - Teaching Python in Germany`: python_academy.pdf
+.. _`ftputil – eine High-Level-Bibliothek für FTP`: ftputil.pdf
+.. _`Mobiltelefonprogrammierung mit Python - Python für die S60 Plattform`: Mobile_programming_Python_S60.pdf
+.. _`Parallelisierung von Pythonanwendungen mit Python Remote Objects (PYRO)`: pyro_tutorial.pdf
+.. _matplotlib: http://matplotlib.sourceforge.net/
+.. _`Automatisiertes Testen mit dem Doctest-Modul`: http://sschwarzer.com/download/doctest_clt2009.pdf
+.. _`Möglichkeiten der automatischen Sprachverarbeitung mit Django`: ../vortraege/django-asv.pdf
+.. _`Versionsverwaltung mit Mercurial für Einsteiger`: http://sschwarzer.com/download/mercurial_clt2009.pdf

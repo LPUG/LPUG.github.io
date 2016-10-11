@@ -1,0 +1,46 @@
+restindex
+    crumb: Calendar
+    format: rest
+    page-title: Leipzig Python User Group - Calendar
+    include: Yes
+/restindex
+
+
+
+====================================
+Leipzig Python User Group - Calendar
+====================================
+
+We will hold our next meetings on:
+
++----------------------------------------+----------------------------------------------+
+|        Date                            | Topic                                        |
++========================================+==============================================+
+| February 9, 2016                       | Modelling complex geochemical processes –    |
+|                                        | A PyQt-based GUI improves the scientific     |
+|                                        | workflow                                     |
++----------------------------------------+----------------------------------------------+
+| March 8, 2016                          | TBA                                          |
++----------------------------------------+----------------------------------------------+
+| April 12, 2016                         | TBA                                          |
++----------------------------------------+----------------------------------------------+
+| May 10, 2016                           | TBA                                          |
++----------------------------------------+----------------------------------------------+
+
+.. |markus| raw:: html
+
+  Markus Zapke-Gr&uuml;ndemann
+
+
+.. _`dedun`: https://pypi.python.org/pypi/dedun
+
+.. _workshop: http://www.python-academy.de/workshop/index.html
+
+
+
+
+
+.. |br| raw:: html
+
+   <br/>
+

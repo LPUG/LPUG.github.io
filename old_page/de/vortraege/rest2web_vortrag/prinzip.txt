@@ -1,0 +1,24 @@
+restindex
+    crumb: Prinzip
+    format: rest
+    page-title: rest2web - Prinzip
+    include: Yes
+/restindex
+
+
+=======
+Prinzip
+=======
+
+* nutzt `restrurced Text`_ (ReST) als Eingabeformat
+* HTML ist immer möglich
+* Verlinkungen, Navigation und Indices werden automatisch generiert
+* Python kann eingebettet werden
+* Makrosystem
+* Relative Links ermöglichen Ansicht aus Dateisystem
+* Unicode wird intern genutzt, d.h. Umlaute funktionieren ohne spezielle Zeichen
+* Einfaches System mit vielen optionalen Möglichkeiten
+
+
+
+.. _`restrurced Text`: http://docutils.sourceforge.net/rst.html

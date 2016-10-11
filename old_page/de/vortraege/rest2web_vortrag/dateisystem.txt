@@ -1,0 +1,38 @@
+restindex
+    crumb: Dateisystem
+    format: rest
+    page-title: rest2web - Dateisystem
+    include: Yes
+/restindex
+
+
+=====================
+Denken im Dateisystem
+=====================
+
+* "aus txt wird html"
+* Verzeichnisstruktur wird Sitestruktur
+
+Quelle:
+-------
+
+::
+
+   .../source/index.txt
+          seite1.txt
+          seite2.txt
+          kategorie1/index.txt
+                     seite1.txt
+                     seite2.txt
+
+Ziel:
+-----
+
+::
+
+   .../source/index.html
+           seite1.html
+           seite2.html
+           kategorie1/index.html
+                      seite1.html
+                      seite2.html
