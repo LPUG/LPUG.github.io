@@ -126,8 +126,7 @@ div.page ul {
   margin: 0;
 }
 iframe.osmap{
-  margin: 0 auto;
-  width: 90%;
+  width: 100%;
   height: 500px;
 }
 img.footer-logo {}
