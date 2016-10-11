@@ -8,7 +8,21 @@ Die Usergroup Treffen finden jeden zweiten Dienstag im Monat statt.
 
 [Click here](https://www.openstreetmap.org/?mlat=51.33207&amp;mlon=12.37347#map=19/51.33207/12.37347) for a larger map.
 
-Basislager Coworking Space    
-Peterssteinweg 14-16    
-04107 Leipzig    
-Raum: Mount Everest, 4. Etage
+```python
+def get_location():
+    return {
+        'venue': 'Basislager Coworking Space',
+        'street': 'Peterssteinweg 14-16',
+        'city': '04107 Leipzig',
+        'room': 'Mount Everest, 4. Etage'
+    }
+```
+
+
+  Datum                             | Thema
+  --------------------------------- | --------------------------------------
+  11. Oktober 2016                  | LPUG-Website
+  8. November 2016                  | noch offen
+  12. Dezember 2016                 | noch offen
+  10. Januar 2017                   | noch offen
+  14. Februar 2017                  | noch offen
