@@ -33,7 +33,13 @@ h3 {
 }
 
 table {
-  width: 100%;
+  width: 95%;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: #F5F5F5;
+  text-align: left;
 }
 
 footer {
