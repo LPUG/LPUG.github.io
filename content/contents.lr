@@ -9,7 +9,7 @@ body:
 Wir treffen uns am 10. Januar 2017 um 19:00 Uhr wieder im
 [Basislager](http://basislager.co/).
 
-Unser Thema ist diesmal die nebenläufig und parallele Programmierung.
+Unser Thema ist diesmal die nebenläufige und parallele Programmierung.
 Dabei wollen uns vor allem mit den Unterschieden in den
 Anwendungsfällen und der Programmierung mit `multiprocessing` und
 `asyncio` beschäftigen.
