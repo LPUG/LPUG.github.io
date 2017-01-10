@@ -9,7 +9,18 @@ body:
 Wir treffen uns am 10. Januar 2017 um 19:00 Uhr wieder im
 [Basislager](http://basislager.co/).
 
-Das Thema ist noch offen.
+Unser Thema ist diesmal die nebenläufig und parallele Programmierung.
+Dabei wollen uns vor allem mit den Unterschieden in den
+Anwendungsfällen und der Programmierung mit `multiprocessing` und
+`asyncio` beschäftigen.
+
+Dazu werden wir mit Code-Beispielen arbeiten, die zeigen, wie
+sich mit diesen Methoden Rechenzeit einsparen lassen kann oder
+eben nicht.
+Also bitte einen Laptop mitbringen, damit wir gemeinsam  die Konzepte
+ausprobieren können.
+
+
 
 Die Usergroup-Treffen finden jeden zweiten Dienstag im Monat statt.
 
