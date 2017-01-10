@@ -10,10 +10,21 @@ Previous presentations and themes.
 
 The slides are available at [github](https://github.com/klingtnet/lpug-Rust?files=1) and [slideshare](http://www.slideshare.net/AndreasLinz1/rust-for-pythonistas-lpug?qid=8895be3c-0aa5-4555-917a-6d5fb6df6b8b&v=&b=&from_search=1).
 
+## 8. November um 19:00 Uhr
 
+Zum Treffen gab es einen Einführungsvortrag zu neuronalen Netzen. Theoretische
+Hintergründe wurde skiziert und eine Reihe von Implementierungen in Python
+vorgestellt: Basierend auf numpy, scikit-learn, tensorflow und keras. Die
+Folien und Code sind [in diesem Repo zu finden](https://github.com/miku/nntour).
+Die Präsentation mündete in eine Diskussion zu intelligenten Algorithmen im
+Allgemeinen und auch ihre gesellschaftlichen Auswirkungen.
 
-## 13. Dezember um 19:00 Uhr
+## 13. Dezember 2016 um 19:00 Uhr
 
 Diesmal hatten ein vorweihnachtliches Treffen mit offenem Thema.
 Wir diskutierten über die letzten Entwicklungen bei Python.
 Dabei gab es immer neue Python-Bibliotheken zu entdecken.
+
+## 10. Januar 2017 um 19:00 Uhr
+
+TBA.
