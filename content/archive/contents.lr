@@ -27,4 +27,11 @@ Dabei gab es immer neue Python-Bibliotheken zu entdecken.
 
 ## 10. Januar 2017 um 19:00 Uhr
 
-TBA.
+Unser Thema war diesmal die nebenläufige und parallele Programmierung.
+Dabei haben wir uns vor allem mit den Unterschieden in den
+Anwendungsfällen und der Programmierung mit `multiprocessing` und
+`asyncio` beschäftigt.
+
+Dazu haben wir mit Code-Beispielen gearbeitet, die zeigen, wie
+sich mit diesen Methoden Rechenzeit einsparen lassen kann oder
+eben nicht.
