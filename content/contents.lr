@@ -55,3 +55,11 @@ def get_location():
         'room': 'Mount Everest, 4. Etage'
     }
 ```
+
+Aktuelle Informationen zu Treffen gibt es auch auf unserer
+[Mailingliste](http://starship.python.net/mailman/listinfo/python-leipzig).
+
+Wer nicht in der Nähe von Leipzig wohnt, sich aber trotzdem mit
+Python-Enthusiasten treffen möchte, findet auf der
+[PySV-Community-Seite](http://python-verband.org/community)
+eine Liste von Nutzergruppentreffen in Deutschland.
