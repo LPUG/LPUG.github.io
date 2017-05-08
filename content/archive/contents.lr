@@ -1,3 +1,4 @@
+
 title: Archive
 ---
 body:
@@ -42,3 +43,31 @@ eben nicht.
 Diesmal hatten wir eine freie Diskussion zu Pythonthemen.
 Wir haben uns geschaut welche neuen Bibliotheken in der letzten
 Zeit erschien sind.
+
+# 14. März 2017 um 19:00 Uhr
+
+
+Wir hatten einen Vortrag:
+
+Mike Müller
+
+**Statische Typisierung für Python**
+
+Python ist eine dynamisch getypte Sprache.
+Das wird auch in Zukunft so bleiben.
+Mit [mypy](http://mypy-lang.org/) und dem Modul `typing` der
+Standardbibliothek ist es aber auch möglich statische Typen als Hinweise
+hinzuzufügen.
+
+Diese statischen Typen wertet Python zur Laufzeit **nicht** aus.
+mypy arbeitet als Werkzeug mit dem Quelltext und überprüft die Richtigkeit
+der Typen ähnlich wie ein Compiler bei statisch getypten Sprachen.
+Der Vortrag stellte das generelle Vorgehen für die Nutzung der
+optionalen statischen Typisierung mit mypy und die Neuerungen, die Python 3.6
+hier mitbringt vor.
+
+# 11. April 2017 um 19:00 Uhr
+
+Diesmal hatten wir wieder eine freie Diskussion zu Pythonthemen.
+
+

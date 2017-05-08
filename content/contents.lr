@@ -3,44 +3,30 @@ title: Leipzig Python User Group
 body:
 
 
-# Treffen am 14. März 2017 19:00 Uhr
+# Treffen am 9. Mai 2017 19:00 Uhr
 
 
-Wir treffen uns am 14. März 2017 um 19:00 Uhr wieder im
+Wir treffen uns am 9. Mai 2017 um 19:00 Uhr wieder im
 [Basislager](http://basislager.co/).
 
 
-Es gibt einen Vortrag:
-
-Mike Müller
-
-**Statische Typisierung für Python**
-
-Python ist eine dynamisch getypte Sprache.
-Das wird auch in Zukunft so bleiben.
-Mit [mypy](http://mypy-lang.org/) und dem Modul `typing` der
-Standardbibliothek ist es aber auch möglich statische Typen als Hinweise
-hinzuzufügen.
-
-Diese statischen Typen wertet Python zur Laufzeit **nicht** aus.
-mypy arbeitet als Werkzeug mit dem Quelltext und überprüft die Richtigkeit
-der Typen ähnlich wie ein Compiler bei statisch getypten Sprachen.
-Der Vortrag stellt das generelle Vorgehen für die Nutzung der
-optionalen statischen Typisierung mit mypy und die Neuerungen, die Python 3.6
-hier mitbringt vor.
-
-
-
+Bisher haben wir noch kein festes Thema.
+Wer etwas zu vortragen möchte kann sich dazu auf unserer
+[Mailingliste][Mailingliste] melden.
+Die Vorträge sind immer sehr offen mit Zwischenfragen und Diskussionen.
+Es müssen auch keine ausgefeilten Folien sein.
+Das Zeigen und die Diskussion von Code sind ausdrücklich erwünscht.
+Wir sind auch offen für andere Formate wie Dojos, Code-Reviews oder Anderes.
 
 Die Usergroup-Treffen finden jeden zweiten Dienstag im Monat statt.
 
 Datum                             | Thema
 --------------------------------- | -----------------------------------------------------------------------
-14. März 2017                     | Statische Typisierung für Python
-11. April 2017                    | noch offen
 9.  Mai 2017                      | noch offen
 13. Juni 2017                     | noch offen
 11. Juli 2017                     | noch offen
+8. August 2017                    | noch offen
+12. September 2017                | noch offen
 
 <iframe class="osmap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//www.openstreetmap.org/export/embed.html?bbox=12.37170249223709%2C51.331293729161814%2C12.37524300813675%2C51.33285563011453&amp;layer=mapnik&amp;marker=51.33207468628904%2C12.37347275018692" style="border: 1px solid black"></iframe>
 
@@ -57,9 +43,11 @@ def get_location():
 ```
 
 Aktuelle Informationen zu Treffen gibt es auch auf unserer
-[Mailingliste](http://starship.python.net/mailman/listinfo/python-leipzig).
+[Mailingliste][Mailingliste].
 
 Wer nicht in der Nähe von Leipzig wohnt, sich aber trotzdem mit
 Python-Enthusiasten treffen möchte, findet auf der
 [PySV-Community-Seite](http://python-verband.org/community)
 eine Liste von Nutzergruppentreffen in Deutschland.
+
+[Mailingliste]: http://starship.python.net/mailman/listinfo/python-leipzig
