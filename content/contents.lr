@@ -10,25 +10,23 @@ Wir treffen uns am 13. Juni 2017 um 19:00 Uhr wieder im
 [Basislager](http://basislager.co/).
 Aktuelle Informationen auch auf unser [Meetup-Seite](https://www.meetup.com/de-DE/Leipzig-Python-User-Group).
 
-Wir haben einen interessanten Vortrag:
+Unser Vortrag diesen Monat:
 
-
+**Cython**  
 *Stefan Behnel*
 
-**Cython**
-
-Cython ist ein optimierender statischer Complier für Python.
-Cython macht es sehr einfach C-Erweiterungen für Python zu erstellen.
+Cython ist ein optimierender statischer Complier für Python, der das
+Erstellen von C-Erweiterungen für Python erleichtert.
 Als Quelle kann (1)  reines Python, (2) Python mit Typ-Deklarationen
 (Cython-spezifisch) oder (3) C-Quelltext dienen.
 
 Der Cython-Kern-Entwickler Stefan Behnel stellt Cython vor.
 Er zeigt an praktischen Beispielen wie leicht es ist mit Cython zu arbeiten.
-Natürlich kann er auch tiefgehende Fragen zu Anwendung und Funktionsweise von
-Cython beantworten.
+Es werden gerne tiefgehende Fragen zu Anwendung und Funktionsweise von Cython beantwortet.
 
 
 Die Usergroup-Treffen finden jeden zweiten Dienstag im Monat statt.
+Themenvorschläge sind immer willkommen.
 
 Datum                             | Thema
 --------------------------------- | -----------------------------------------------------------------------
