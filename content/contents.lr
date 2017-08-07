@@ -12,12 +12,12 @@ Aktuelle Informationen auch auf unser [Meetup-Seite](https://www.meetup.com/de-D
 
 Unser Vortrag diesen Monat:
 
-**Cython**  
+**Cython**
 *Stefan Behnel*
 
 Cython ist ein optimierender statischer Complier für Python, der das
 Erstellen von C-Erweiterungen für Python erleichtert.
-Als Quelle kann (1)  reines Python, (2) Python mit Typ-Deklarationen
+Als Quelle kann (1) reines Python, (2) Python mit Typ-Deklarationen
 (Cython-spezifisch) oder (3) C-Quelltext dienen.
 
 Der Cython-Kern-Entwickler Stefan Behnel stellt Cython vor.
