@@ -70,4 +70,18 @@ hier mitbringt vor.
 
 Diesmal hatten wir wieder eine freie Diskussion zu Pythonthemen.
 
+# 13. Juni 2017 um 19:00 Uhr
 
+Wir hatten einen interessanten Vortrag:
+
+**Cython**
+*Stefan Behnel*
+
+Cython ist ein optimierender statischer Complier für Python, der das
+Erstellen von C-Erweiterungen für Python erleichtert.
+Als Quelle kann (1) reines Python, (2) Python mit Typ-Deklarationen
+(Cython-spezifisch) oder (3) C-Quelltext dienen.
+
+Der Cython-Kern-Entwickler Stefan Behnel stellte Cython vor.
+Er zeigte an praktischen Beispielen wie leicht es ist mit Cython zu arbeiten.
+Er beantwortete tiefgehende Fragen zu Anwendung und Funktionsweise von Cython.
