@@ -1,17 +1,16 @@
-
 title: Archive
 ---
 body:
 
 Previous presentations and themes.
 
-## 09. August 2016
+# 09. August 2016
 
-### Rust for Pythonistas
+# Rust for Pythonistas
 
 The slides are available at [github](https://github.com/klingtnet/lpug-Rust?files=1) and [slideshare](http://www.slideshare.net/AndreasLinz1/rust-for-pythonistas-lpug?qid=8895be3c-0aa5-4555-917a-6d5fb6df6b8b&v=&b=&from_search=1).
 
-## 8. November um 19:00 Uhr
+# 8. November um 19:00 Uhr
 
 Zum Treffen gab es einen Einführungsvortrag zu neuronalen Netzen. Theoretische
 Hintergründe wurde skiziert und eine Reihe von Implementierungen in Python
@@ -20,13 +19,13 @@ Folien und Code sind [in diesem Repo zu finden](https://github.com/miku/nntour).
 Die Präsentation mündete in eine Diskussion zu intelligenten Algorithmen im
 Allgemeinen und auch ihre gesellschaftlichen Auswirkungen.
 
-## 13. Dezember 2016 um 19:00 Uhr
+# 13. Dezember 2016 um 19:00 Uhr
 
 Diesmal hatten ein vorweihnachtliches Treffen mit offenem Thema.
 Wir diskutierten über die letzten Entwicklungen bei Python.
 Dabei gab es immer neue Python-Bibliotheken zu entdecken.
 
-## 10. Januar 2017 um 19:00 Uhr
+# 10. Januar 2017 um 19:00 Uhr
 
 Unser Thema war diesmal die nebenläufige und parallele Programmierung.
 Dabei haben wir uns vor allem mit den Unterschieden in den
@@ -38,7 +37,7 @@ sich mit diesen Methoden Rechenzeit einsparen lassen kann oder
 eben nicht.
 
 
-## 14. Februar 2017 um 19:00 Uhr
+# 14. Februar 2017 um 19:00 Uhr
 
 Diesmal hatten wir eine freie Diskussion zu Pythonthemen.
 Wir haben uns geschaut welche neuen Bibliotheken in der letzten
@@ -75,6 +74,7 @@ Diesmal hatten wir wieder eine freie Diskussion zu Pythonthemen.
 Wir hatten einen interessanten Vortrag:
 
 **Cython**
+
 *Stefan Behnel*
 
 Cython ist ein optimierender statischer Complier für Python, der das
@@ -85,3 +85,155 @@ Als Quelle kann (1) reines Python, (2) Python mit Typ-Deklarationen
 Der Cython-Kern-Entwickler Stefan Behnel stellte Cython vor.
 Er zeigte an praktischen Beispielen wie leicht es ist mit Cython zu arbeiten.
 Er beantwortete tiefgehende Fragen zu Anwendung und Funktionsweise von Cython.
+
+
+
+# Treffen am 8. August 2017 19:00 Uhr
+
+Wir haben unser erstes [Coding Dojo](http://codingdojo.org/WhatIsCodingDojo/)
+durchgeführt.
+Ein Djojo besteht aus Programmierübungen, sogenannte Katas, für kleine,
+in sich abgeschlossene Probleme.
+Dazu haben wir Paare gebildet.
+Ein Ziel der Übungen  war es Test-Driven-Development (TDD) zu trainieren,
+also die Tests vor der Implementierung zu schreiben.
+Ähnlich wie bei Katas im Kampfsport geht es primär darum grundsätzliche
+Fähigkeiten zu internalisieren.
+
+## Unsere Kata
+
+### Problem
+
+Wir haben uns die
+[Russische Bauernmultiplikation](http://ccd-school.de/coding-dojo/function-katas/russische-bauernmultiplikation/) heraus gesucht:
+
+Schreibe eine Funktion, die zwei ganze Zahlen mit dem Algorithmus
+„russische Bauernmultiplikation“ multipliziert.
+
+Die Signatur der Methode sieht wie folgt aus:
+
+```python
+mul(int: x, int: y) --> int:
+    # your code here
+```
+
+Der Algorithmus der sogenannten Russischen Bauernmultiplikation verläuft wie
+folgt:
+man halbiert die linke der beiden Zahlen so lange, bis die 1 erreicht ist.
+Nachkommastellen werden abgerundet.
+Die rechte Zahl wird jeweils daneben geschrieben und verdoppelt.
+Von den rechten Zahlen werden alle gestrichen, neben denen links eine gerade
+Zahl steht.
+Die verbleibenden nicht gestrichenen Zahlen der rechten Seite werden dann
+addiert und bilden das Ergebnis der Multiplikation.
+
+Beispiel:
+
+```
+47 *  42
+---------
+47    42
+23    84
+11   168
+ 5   336
+ 2  (672)  # deleted because 2 ist even)
+ 1  1344
+========
+    1974
+```
+
+Das geht natürlich auch einfacher:
+
+```python
+>>> 47 *  42
+1974
+```
+
+
+## Lösungen
+
+### Iterative Lösung
+
+Die Summe ist zu Beginn Null `sum_ = 0`.
+Wenn der erste Wert negativ ist, kehren wir einfach die Vorzeichen
+der beiden Zahlen um.
+Damit decken wir auch negative Zahlen ab.
+Solange der erste Wert größer Null ist (`while x > 0:`),
+summieren wir auf.
+Aber nur wenn der erste Wert gerade ist: `if x % 2:`.
+Der erste Wert wird mit Integer-Divison halbiert `x = x // 2`
+und der zweite verdoppelt `y = y * 2`.
+
+```python
+def mul(x, y):
+    sum_ = 0
+    if x < 0:
+        x, y = -x,  -y
+    while x > 0:
+        if x % 2:
+            sum_ += y
+        x, y = x // 2, y * 2
+    return sum_
+```
+
+### Lösung mit Generator
+
+Das ist eine Variation der obigen iterativen Lösung.
+Anstatt der Summierung geht zu addierende Wert mit `yield`
+bei jedem Iterationsschritt raus.
+Das finale `sum()` konsumiert den Generator, den die Generatorfunktion `get()`
+zurück gibt.
+
+```python
+def get(x, y):
+    if x < 0:
+        x, y = -x,  -y
+    while x > 0:
+        if x % 2:
+            yield y
+        x, y = x // 2, y * 2
+
+def mul2(x, y):
+    return sum(v for v in get(x, y))
+```
+
+
+
+### Einfache Rekursive Lösung
+
+Rekursiver Ansatz: Das Problem wird beschrieben als eine Kaskade von
+Referenzen auf "kleinere" Instanzen des selben Problems.  Die Kaskade
+mündet in einen trivialen Sonderfall, für den eine direkte Lösung
+angegeben wird.  Bei rekursiven Lösungen muss darauf geachtet werden,
+dass die Abfolge von Referenzen stets gegen den trivialen Sonderfall
+konvergiert.
+
+Die erste Zeile im Rumpf fängt hier den Sonderfall `x == 0` ab.  Das ist
+allgemeiner als gefordert.  Strikt nach Aufgabenstellung würde schon der
+Sonderfall `x == 1` genügen; dann würden wir `y` statt `0` zurückgeben.
+Das würde i.A. genau so gut funktionieren, aber das Programm würde dann
+bei der Multiplikation mit einer linksseiten `0` nicht terminieren.
+
+Die zweite Zeile im Rumpf übersetzt Aufrufe mit einem negativen Argument
+für `x` in arithmetisch gleichwertige Aufrufe mit positivem `x` (siehe
+dritte Zeile).  Auch das ist allgemeiner als gefordert.  Ohne diese
+Zeile terminiert das Programm nur für nicht-negative `x`.
+
+Die dritte Zeile im Rumpf realisiert die eigentlichen Zwischenschritte
+der Bauernmultiplikation.  Der rekursive Aufruf entspricht dabei dem
+Aufaddieren der darüberliegenden Summanden in der Tabelle.  Der aktuelle
+Summand bleibt unberücksichtigt wenn `x` gerade ist (`x % 2 == 0`).
+
+Konvergenz ist dadurch garantiert, dass die dritte Zeile im Rumpf `mul`
+stets mit einem betraglich kleineren `x` aufruft, so dass der Sonderfall
+`x == 0` früher oder später erreicht wird.
+
+```python
+def mul(x, y):
+    if x == 0:
+        return 0
+    if x < 0:
+        return mul(-x, -y)
+    return (0 if x % 2 == 0 else y) + mul( x//2, y*2 )
+```
+

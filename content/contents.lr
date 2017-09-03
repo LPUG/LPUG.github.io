@@ -3,22 +3,26 @@ title: Leipzig Python User Group
 body:
 
 
-# Treffen am 8. August 2017 19:00 Uhr
+# Treffen am 12. September 2017 19:00 Uhr
 
 
-Wir treffen uns am 8. August 2017 um 19:00 Uhr wieder im
+
+
+Wir treffen uns am 12. September 2017 um 19:00 Uhr wieder im
 [Basislager](http://basislager.co/).
 Aktuelle Informationen auch auf unser [Meetup-Seite](https://www.meetup.com/de-DE/Leipzig-Python-User-Group).
 
-Wir wollen unser erstes [Coding Dojo](http://codingdojo.org/WhatIsCodingDojo/)
-durchführen.
-Dieses Djojo besteht aus Programmierübungen, sogenannte Katas, für kleine,
-in sich abgeschlossene Probleme.
-Dazu bilden wir Paare, die sich von Übung zu Übung neu finden.
-Ein Ziel der Übungen ist es Test-Driven-Development (TDD) zu trainieren,
-also die Tests vor der Implementierung zu schreiben.
-Ähnlich wie bei Katas im Kampfsport geht es primär darum grundsätzliche
-Fähigkeiten zu internalisieren.
+Wir haben ein Vortrag:
+
+
+**Do' s and don'ts wenn man eigene Bibliotheken schreibt**
+
+*Philipp Hanemann*
+
+
+Der Vortrag zeigt wie robuster und wiederverwertbarer Code entsteht.
+Der Vortrag stellt ein paar Konzepte vor und bereitet den danach
+folgenden interaktiven Erfahrungsaustausch vor.
 
 
 Die Usergroup-Treffen finden jeden zweiten Dienstag im Monat statt.
@@ -26,11 +30,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum                             | Thema
 --------------------------------- | -----------------------------------------------------------------------
-
-8. August 2017                    | Coding Dojo
-12. September 2017                | noch offen
+12. September 2017                | Do' s and don'ts wenn man eigene Bibliotheken schreibt
 10. Oktober 2017                  | noch offen
 14. November 2017                 | noch offen
+12. Dezember 2017                 | noch offen
 
 <iframe class="osmap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//www.openstreetmap.org/export/embed.html?bbox=12.37170249223709%2C51.331293729161814%2C12.37524300813675%2C51.33285563011453&amp;layer=mapnik&amp;marker=51.33207468628904%2C12.37347275018692" style="border: 1px solid black"></iframe>
 
