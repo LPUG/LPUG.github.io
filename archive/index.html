@@ -31,21 +31,21 @@
     
   <h2>Archive</h2>
   <p>Previous presentations and themes.</p>
-<h2>09. August 2016</h2>
-<h3>Rust for Pythonistas</h3>
+<h1>09. August 2016</h1>
+<h1>Rust for Pythonistas</h1>
 <p>The slides are available at <a href="https://github.com/klingtnet/lpug-Rust?files=1">github</a> and <a href="http://www.slideshare.net/AndreasLinz1/rust-for-pythonistas-lpug?qid=8895be3c-0aa5-4555-917a-6d5fb6df6b8b&amp;v=&amp;b=&amp;from_search=1">slideshare</a>.</p>
-<h2>8. November um 19:00 Uhr</h2>
+<h1>8. November um 19:00 Uhr</h1>
 <p>Zum Treffen gab es einen Einführungsvortrag zu neuronalen Netzen. Theoretische
 Hintergründe wurde skiziert und eine Reihe von Implementierungen in Python
 vorgestellt: Basierend auf numpy, scikit-learn, tensorflow und keras. Die
 Folien und Code sind <a href="https://github.com/miku/nntour">in diesem Repo zu finden</a>.
 Die Präsentation mündete in eine Diskussion zu intelligenten Algorithmen im
 Allgemeinen und auch ihre gesellschaftlichen Auswirkungen.</p>
-<h2>13. Dezember 2016 um 19:00 Uhr</h2>
+<h1>13. Dezember 2016 um 19:00 Uhr</h1>
 <p>Diesmal hatten ein vorweihnachtliches Treffen mit offenem Thema.
 Wir diskutierten über die letzten Entwicklungen bei Python.
 Dabei gab es immer neue Python-Bibliotheken zu entdecken.</p>
-<h2>10. Januar 2017 um 19:00 Uhr</h2>
+<h1>10. Januar 2017 um 19:00 Uhr</h1>
 <p>Unser Thema war diesmal die nebenläufige und parallele Programmierung.
 Dabei haben wir uns vor allem mit den Unterschieden in den
 Anwendungsfällen und der Programmierung mit <code>multiprocessing</code> und
@@ -53,7 +53,7 @@ Anwendungsfällen und der Programmierung mit <code>multiprocessing</code> und
 <p>Dazu haben wir mit Code-Beispielen gearbeitet, die zeigen, wie
 sich mit diesen Methoden Rechenzeit einsparen lassen kann oder
 eben nicht.</p>
-<h2>14. Februar 2017 um 19:00 Uhr</h2>
+<h1>14. Februar 2017 um 19:00 Uhr</h1>
 <p>Diesmal hatten wir eine freie Diskussion zu Pythonthemen.
 Wir haben uns geschaut welche neuen Bibliotheken in der letzten
 Zeit erschien sind.</p>
@@ -76,8 +76,8 @@ hier mitbringt vor.</p>
 <p>Diesmal hatten wir wieder eine freie Diskussion zu Pythonthemen.</p>
 <h1>13. Juni 2017 um 19:00 Uhr</h1>
 <p>Wir hatten einen interessanten Vortrag:</p>
-<p><strong>Cython</strong>
-<em>Stefan Behnel</em></p>
+<p><strong>Cython</strong></p>
+<p><em>Stefan Behnel</em></p>
 <p>Cython ist ein optimierender statischer Complier für Python, der das
 Erstellen von C-Erweiterungen für Python erleichtert.
 Als Quelle kann (1) reines Python, (2) Python mit Typ-Deklarationen
@@ -85,6 +85,119 @@ Als Quelle kann (1) reines Python, (2) Python mit Typ-Deklarationen
 <p>Der Cython-Kern-Entwickler Stefan Behnel stellte Cython vor.
 Er zeigte an praktischen Beispielen wie leicht es ist mit Cython zu arbeiten.
 Er beantwortete tiefgehende Fragen zu Anwendung und Funktionsweise von Cython.</p>
+<h1>Treffen am 8. August 2017 19:00 Uhr</h1>
+<p>Wir haben unser erstes <a href="http://codingdojo.org/WhatIsCodingDojo/">Coding Dojo</a>
+durchgeführt.
+Ein Djojo besteht aus Programmierübungen, sogenannte Katas, für kleine,
+in sich abgeschlossene Probleme.
+Dazu haben wir Paare gebildet.
+Ein Ziel der Übungen  war es Test-Driven-Development (TDD) zu trainieren,
+also die Tests vor der Implementierung zu schreiben.
+Ähnlich wie bei Katas im Kampfsport geht es primär darum grundsätzliche
+Fähigkeiten zu internalisieren.</p>
+<h2>Unsere Kata</h2>
+<h3>Problem</h3>
+<p>Wir haben uns die
+<a href="http://ccd-school.de/coding-dojo/function-katas/russische-bauernmultiplikation/">Russische Bauernmultiplikation</a> heraus gesucht:</p>
+<p>Schreibe eine Funktion, die zwei ganze Zahlen mit dem Algorithmus
+„russische Bauernmultiplikation“ multipliziert.</p>
+<p>Die Signatur der Methode sieht wie folgt aus:</p>
+<pre><code class="lang-python">mul(int: x, int: y) --&gt; int:
+    # your code here
+</code></pre>
+<p>Der Algorithmus der sogenannten Russischen Bauernmultiplikation verläuft wie
+folgt:
+man halbiert die linke der beiden Zahlen so lange, bis die 1 erreicht ist.
+Nachkommastellen werden abgerundet.
+Die rechte Zahl wird jeweils daneben geschrieben und verdoppelt.
+Von den rechten Zahlen werden alle gestrichen, neben denen links eine gerade
+Zahl steht.
+Die verbleibenden nicht gestrichenen Zahlen der rechten Seite werden dann
+addiert und bilden das Ergebnis der Multiplikation.</p>
+<p>Beispiel:</p>
+<pre><code>47 *  42
+--------
+47    42
+23    84
+11   168
+ 5   336
+ 2  (672)  # deleted because 2 ist even)
+ 1  1344
+========
+    1974
+</code></pre>
+<p>Das geht natürlich auch einfacher:</p>
+<pre><code class="lang-python">&gt;&gt;&gt; 47 *  42
+1974
+</code></pre>
+<h2>Lösungen</h2>
+<h3>Iterative Lösung</h3>
+<p>Die Summe ist zu Beginn Null <code>sum_ = 0</code>.
+Wenn der erste Wert negativ ist, kehren wir einfach die Vorzeichen
+der beiden Zahlen um.
+Damit decken wir auch negative Zahlen ab.
+Solange der erste Wert größer Null ist (<code>while x &gt; 0:</code>),
+summieren wir auf.
+Aber nur wenn der erste Wert gerade ist: <code>if x % 2:</code>.
+Der erste Wert wird mit Integer-Divison halbiert <code>x = x // 2</code>
+und der zweite verdoppelt <code>y = y * 2</code>.</p>
+<pre><code class="lang-python">def mul(x, y):
+    sum_ = 0
+    if x &lt; 0:
+        x, y = -x,  -y
+    while x &gt; 0:
+        if x % 2:
+            sum_ += y
+        x, y = x // 2, y * 2
+    return sum_
+</code></pre>
+<h3>Lösung mit Generator</h3>
+<p>Das ist eine Variation der obigen iterativen Lösung.
+Anstatt der Summierung geht zu addierende Wert mit <code>yield</code>
+bei jedem Iterationsschritt raus.
+Das finale <code>sum()</code> konsumiert den Generator, den die Generatorfunktion <code>get()</code>
+zurück gibt.</p>
+<pre><code class="lang-python">def get(x, y):
+    if x &lt; 0:
+        x, y = -x,  -y
+    while x &gt; 0:
+        if x % 2:
+            yield y
+        x, y = x // 2, y * 2
+
+def mul2(x, y):
+    return sum(v for v in get(x, y))
+</code></pre>
+<h3>Einfache Rekursive Lösung</h3>
+<p>Rekursiver Ansatz: Das Problem wird beschrieben als eine Kaskade von
+Referenzen auf "kleinere" Instanzen des selben Problems.  Die Kaskade
+mündet in einen trivialen Sonderfall, für den eine direkte Lösung
+angegeben wird.  Bei rekursiven Lösungen muss darauf geachtet werden,
+dass die Abfolge von Referenzen stets gegen den trivialen Sonderfall
+konvergiert.</p>
+<p>Die erste Zeile im Rumpf fängt hier den Sonderfall <code>x == 0</code> ab.  Das ist
+allgemeiner als gefordert.  Strikt nach Aufgabenstellung würde schon der
+Sonderfall <code>x == 1</code> genügen; dann würden wir <code>y</code> statt <code>0</code> zurückgeben.
+Das würde i.A. genau so gut funktionieren, aber das Programm würde dann
+bei der Multiplikation mit einer linksseiten <code>0</code> nicht terminieren.</p>
+<p>Die zweite Zeile im Rumpf übersetzt Aufrufe mit einem negativen Argument
+für <code>x</code> in arithmetisch gleichwertige Aufrufe mit positivem <code>x</code> (siehe
+dritte Zeile).  Auch das ist allgemeiner als gefordert.  Ohne diese
+Zeile terminiert das Programm nur für nicht-negative <code>x</code>.</p>
+<p>Die dritte Zeile im Rumpf realisiert die eigentlichen Zwischenschritte
+der Bauernmultiplikation.  Der rekursive Aufruf entspricht dabei dem
+Aufaddieren der darüberliegenden Summanden in der Tabelle.  Der aktuelle
+Summand bleibt unberücksichtigt wenn <code>x</code> gerade ist (<code>x % 2 == 0</code>).</p>
+<p>Konvergenz ist dadurch garantiert, dass die dritte Zeile im Rumpf <code>mul</code>
+stets mit einem betraglich kleineren <code>x</code> aufruft, so dass der Sonderfall
+<code>x == 0</code> früher oder später erreicht wird.</p>
+<pre><code class="lang-python">def mul(x, y):
+    if x == 0:
+        return 0
+    if x &lt; 0:
+        return mul(-x, -y)
+    return (0 if x % 2 == 0 else y) + mul( x//2, y*2 )
+</code></pre>
 
 
   </div>
