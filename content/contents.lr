@@ -19,6 +19,23 @@ Wir haben einen Vortrag:
 
 **How to Create a Python Package and Write Reusable Code**
 
+
+
+Python wird von vielen Nutzern wertgeschätzt, weil sie mit dieser
+Programmiersprache sehr produktiv sind.
+Von der Idee bis zur Umsetzung sind oftmals nur wenige, aber dennoch gut
+lesbare Zeilen Code notwendig.
+Dies ist vor allem in der Reichhaltigkeit der vorhandenen Bibliotheken
+begründet.
+Diese bündeln in der Regel Funktionen und Klassen mit einem bestimmten
+thematischen Fokus und stellen damit wiederverwertbaren Code dar.
+Einmal installiert, kann der Nutzer auf die Werkzeuge der Bibliothek bequem
+zugreifen.
+
+Glücklicher Weise ist der Aufwand eine eigene Bibliothek zu bauen unwesentlich
+höher als einfache Skripte zu schreiben.
+Nichtsdestotrotz gibt es für ein strukturelles einiges zu beachten.
+
 Der Vortrag zeigt wie robuster und wiederverwertbarer Code entsteht.
 Die Präsentation stellt ein paar Konzepte vor und bereitet den danach
 folgenden interaktiven Erfahrungsaustausch vor.
