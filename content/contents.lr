@@ -1,6 +1,42 @@
 title: Leipzig Python User Group
 ---
 body:
+# Struktur der LPUG in 2018
+
+## grobe Jahresplanung
+Vielleicht peilen wir an, zwei symmetrische Halbjahre aufzubauen. Über das Jahr verteilt, könnten dann folgende Themenblöcke als Inhalt fungieren.
+- 2 x coding dojo inkl. TDD
+- 2 x große talks
+- 2 x code review
+- lightning talks
+- Problem mitbringen/ Erfahrungsbericht
+
+
+## Planungsstufen
+
+### 1. konkret (Thema, Person, Datum)
+- pytorch, Martin Czygan, Feb
+- RUST, Andreas, Mrz
+
+### 2. in Planung (Thema, Person)
+- Aufbau jupyter, Martin Czygan + jupyter Beispiele, Philipp Hanemann
+- pytorch, Martin Czygan
+- home automation, Maik Derstappen
+- hdf5, Sebastian
+- Programmierparadigmen, Martin
+- desktop applications, Robert
+
+### 3. interessant (Thema)
+- code analyse
+    - antipattern
+    - error handling
+    - testing
+- plotting
+- distributed computing
+- crawler: scrappy/ beautiful soup
+- project euler
+- Micro Python
+- Webentwicklung
 
 
 # Gemütliches Weihnachtstreffen am 12.12.2017 19:00 Uhr
