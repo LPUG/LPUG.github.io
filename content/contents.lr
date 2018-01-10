@@ -4,7 +4,7 @@ body:
 # Struktur der LPUG in 2018
 
 ## grobe Jahresplanung
-Vielleicht peilen wir an, zwei symmetrische Halbjahre aufzubauen. Über das Jahr verteilt, könnten dann folgende Themenblöcke als Inhalt fungieren.
+Unser Ziel ist es, zwei symmetrische Halbjahre aufzubauen. Über das Jahr verteilt könnten dann u.a. folgende Themenblöcke als Inhalt fungieren:
 - 2 x coding dojo inkl. TDD
 - 2 x große talks
 - 2 x code review
@@ -13,10 +13,11 @@ Vielleicht peilen wir an, zwei symmetrische Halbjahre aufzubauen. Über das Jahr
 
 
 ## Planungsstufen
+Um die Mitarbeit zu motivieren und besser planbar zu gestalten, haben wir verschiedene Planungsstufen.
 
 ### 1. konkret (Thema, Person, Datum)
-- pytorch, Martin Czygan, Feb
-- RUST, Andreas, Mrz
+- PyTorch, Martin Czygan, Feb
+- Rust, Andreas, Mrz
 
 ### 2. in Planung (Thema, Person)
 - Aufbau jupyter, Martin Czygan + jupyter Beispiele, Philipp Hanemann
