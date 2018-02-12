@@ -1,66 +1,10 @@
 title: Leipzig Python User Group
 ---
 body:
-# Struktur der LPUG in 2018
 
-## grobe Jahresplanung
-Unser Ziel ist es, zwei symmetrische Halbjahre aufzubauen. Über das Jahr verteilt könnten dann u.a. folgende Themenblöcke als Inhalt fungieren:
-- 2 x coding dojo inkl. TDD
-- 2 x große talks
-- 2 x code review
-- lightning talks
-- Problem mitbringen/ Erfahrungsbericht
-
-
-## Planungsstufen
-Um die Mitarbeit zu motivieren und besser planbar zu gestalten, haben wir verschiedene Planungsstufen.
-
-### 1. konkret (Thema, Person, Datum)
-- PyTorch, Martin Czygan, Feb
-- Rust, Andreas, Mrz
-- Docker, Markus Zapke-Gründemann, Mai
-- HDF5, Sebastian Ernst, Jul
-
-### 2. in Planung (Thema, Person)
-- Aufbau jupyter, Martin Czygan + jupyter Beispiele, Philipp Hanemann
-- home automation, Maik Derstappen
-- Programmierparadigmen, Martin
-- desktop applications, Robert
-
-### 3. interessant (Thema)
-- code analyse
-    - antipattern
-    - error handling
-    - testing
-- plotting
-- distributed computing
-- crawler: scrappy/ beautiful soup
-- project euler
-- Micro Python
-- Webentwicklung
-
-
-# Gemütliches Weihnachtstreffen am 12.12.2017 19:00 Uhr
-Liebe Pythonistas,
-
-
-unser letztes LPUG Treffen in diesem Jahr möchten wir im Rahmen der
-Weihnachtszeit in gemütlicher Runde zum freien Plausch nutzen.
-Weiterhin wollen wir in einem Teil der Zeit über mögliche Inhalte im nächsten
-Jahr und die zukünftige Gestaltung der LPUG sprechen.
-Gerade in den letzten Monaten hat sich gezeigt, dass eine zu spontane
-Themenauswahl auch öfters mal ins Leere läuft und zum Ausfall der Treffen
-führt.
-Diese Situation möchten wir gerne in Zukunft vermeiden, zumal es eine ständig
-wachsende Vielzahl an möglichen Themen gibt.
-
-Wir freuen uns über euer zahlreiches Erscheinen.
-Bitte bringt ein paar Kekse, Getränke etc. mit.
-
-
-
-Wir treffen uns um 19:00 Uhr im
+Wir treffen uns am 13.Februar 2018 um 19:00 Uhr im
 [Basislager](http://basislager.co/).
+
 Aktuelle Informationen auch auf unser [Meetup-Seite](https://www.meetup.com/de-DE/Leipzig-Python-User-Group).
 
 Die Usergroup-Treffen finden jeden zweiten Dienstag im Monat statt.
@@ -68,9 +12,9 @@ Themenvorschläge sind immer willkommen.
 
 Datum                             | Thema
 --------------------------------- | -----------------------------------------------------------------------
-12. Dezember 2017                 | Weihnachtstreffen, Langzeitplanung 2018
-09. Januar 2018                   | noch offen
 13. Februar 2018                  | noch offen
+13. März 2018                     | noch offen
+10. April 2018                    | noch offen
 
 
 <iframe class="osmap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//www.openstreetmap.org/export/embed.html?bbox=12.37170249223709%2C51.331293729161814%2C12.37524300813675%2C51.33285563011453&amp;layer=mapnik&amp;marker=51.33207468628904%2C12.37347275018692" style="border: 1px solid black"></iframe>
