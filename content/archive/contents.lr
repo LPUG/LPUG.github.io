@@ -2,12 +2,17 @@ title: Archive
 ---
 body:
 
+
+
+
+
+Bisherige Präsentationen und Themen.
+
 ----
 
-Wir treffen uns am 13.Februar 2018 um 19:00 Uhr im
-[Basislager](http://basislager.co/).
+# Treffen am 13.Februar 2018 2017 19:00 Uhr
 
-Unser Vortrag diesmal:
+Unser Vortrag war diesmal:
 
 *Martin Czygan*
 
@@ -26,35 +31,51 @@ Repository with slides and notebooks:
 
 ----
 
-Bisherige Präsentationen und Themen.
+# Gemütliches Weihnachtstreffen am 12.12.2017 19:00 Uhr
 
 
-# Struktur der LPUG in 2018
 
-## grobe Jahresplanung
-Unser Ziel ist es, zwei symmetrische Halbjahre aufzubauen. Über das Jahr verteilt könnten dann u.a. folgende Themenblöcke als Inhalt fungieren:
+Das letzte LPUG-Treffen im Jahr 2017 haben wir im Rahmen der
+Weihnachtszeit in gemütlicher Runde zum freien Plausch genutzt.
+Weiterhin haben über mögliche Inhalte im nächsten Jahr und die zukünftige
+Gestaltung der LPUG gesprochen.
+
+
+## Struktur der LPUG in 2018
+
+### grobe Jahresplanung
+
+Unser Ziel ist es, zwei symmetrische Halbjahre aufzubauen.
+Über das Jahr verteilt könnten dann u.a. folgende Themenblöcke als Inhalt
+fungieren:
+
 - 2 x coding dojo inkl. TDD
 - 2 x große talks
 - 2 x code review
 - lightning talks
 - Problem mitbringen/ Erfahrungsbericht
 
-## Planungsstufen
-Um die Mitarbeit zu motivieren und besser planbar zu gestalten, haben wir verschiedene Planungsstufen.
+### Planungsstufen
 
-### 1. konkret (Thema, Person, Datum)
+Um die Mitarbeit zu motivieren und besser planbar zu gestalten, haben wir
+verschiedene Planungsstufen.
+
+#### 1. konkret (Thema, Person, Datum)
+
 - PyTorch, Martin Czygan, Feb
 - Rust, Andreas, Mrz
 - Docker, Markus Zapke-Gründemann, Mai
 - HDF5, Sebastian Ernst, Jul
 
-### 2. in Planung (Thema, Person)
+#### 2. in Planung (Thema, Person)
+
 - Aufbau jupyter, Martin Czygan + jupyter Beispiele, Philipp Hanemann
 - home automation, Maik Derstappen
 - Programmierparadigmen, Martin
 - desktop applications, Robert
 
-### 3. interessant (Thema)
+#### 3. interessant (Thema)
+
 - code analyse
     - antipattern
     - error handling
@@ -67,37 +88,21 @@ Um die Mitarbeit zu motivieren und besser planbar zu gestalten, haben wir versch
 - Webentwicklung
 
 
-# Gemütliches Weihnachtstreffen am 12.12.2017 19:00 Uhr
-Liebe Pythonistas,
+# Treffen am 12. September 2017 19:00 Uhr
 
+## How to Create a Python Package and Write Reusable Code
 
-unser letztes LPUG Treffen in diesem Jahr möchten wir im Rahmen der
-Weihnachtszeit in gemütlicher Runde zum freien Plausch nutzen.
-Weiterhin wollen wir in einem Teil der Zeit über mögliche Inhalte im nächsten
-Jahr und die zukünftige Gestaltung der LPUG sprechen.
-Gerade in den letzten Monaten hat sich gezeigt, dass eine zu spontane
-Themenauswahl auch öfters mal ins Leere läuft und zum Ausfall der Treffen
-führt.
-Diese Situation möchten wir gerne in Zukunft vermeiden, zumal es eine ständig
-wachsende Vielzahl an möglichen Themen gibt.
-
-Wir freuen uns über euer zahlreiches Erscheinen.
-Bitte bringt ein paar Kekse, Getränke etc. mit.
-
-
-# How to Create a Python Package and Write Reusable Code
- 
 *Philipp Hanemann*
- 
+
 Python wird von vielen Nutzern wertgeschätzt, weil sie mit dieser Programmiersprache sehr produktiv sind.
 Von der Idee bis zur Umsetzung sind oftmals nur wenige, aber dennoch gut lesbare Zeilen Code notwendig.
 Dies ist vor allem in der Reichhaltigkeit der vorhandenen Bibliotheken begründet.
 Diese bündeln in der Regel Funktionen und Klassen mit einem bestimmten thematischen Fokus und stellen damit wiederverwertbaren Code dar.
 Einmal installiert, kann der Nutzer auf die Werkzeuge der Bibliothek bequem zugreifen.
- 
+
 Glücklicherweise ist der Aufwand eine eigene Bibliothek zu bauen unwesentlich höher als einfache Skripte zu schreiben.
 Nichtsdestotrotz gibt es für ein strukturelles einiges zu beachten.
- 
+
 Der Vortrag zeigt wie robuster und wiederverwertbarer Code entsteht.
 Die Präsentation stellt ein paar Konzepte vor und bereitet den danach folgenden interaktiven Erfahrungsaustausch vor.
 
