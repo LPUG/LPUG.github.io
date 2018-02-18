@@ -2,11 +2,15 @@
 
 [![Build Status](https://travis-ci.org/LPUG/LPUG.github.io.svg?branch=content)](https://travis-ci.org/LPUG/LPUG.github.io)
 
+## Installation
 
-## installation
+```console
+make install
+```
 
-`make install`
+## Run server
 
-## run server
+```console
+make run
+```
 
-`make run`
