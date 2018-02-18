@@ -14,3 +14,8 @@ make install
 make run
 ```
 
+## Download new map
+
+```console
+make map
+```
