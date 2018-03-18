@@ -14,17 +14,20 @@
     <h1 class="title">LPUG</h1>
     <nav>
       <ul class="nav navbar">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Welcome</a></li>
+        <li{% if this._path == '/' %} class="active"{% endif %}>
+          <a href="{{ '/'|url }}">Willkommen</a>
+        </li>
         {% for href, title in [
-          ['/blog', 'Blog'],
-          ['/projects', 'Projects'],
-          ['/archive', 'Archive'],
-          ['/about', 'About']
+          ['/archive', 'Archiv'],
+          ['/about', 'Über uns']
         ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
+        <li{% if this.is_child_of(href) %} class="active"{% endif %}>
+          <a href="{{ href|url }}">{{ title }}</a>
+        </li>
         {% endfor %}
+        <li>
+          <a href="https://www.meetup.com/de-DE/Leipzig-Python-User-Group/">Meetup</a>
+        </li>
       </ul>
     </nav>
   </header>
@@ -32,7 +35,7 @@
     {% block body %}{% endblock %}
   </div>
   <footer>
-    <img class="footer-logo" src="/static/logo.svg" alt="Logo of the LPUG">
+    <img class="footer-logo" src="/static/logo.svg" alt="Leipzig Python User Group Logo">
   </footer>
   </div>
   <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.5.0/highlight.min.js"></script>
