@@ -16,23 +16,16 @@
     </a>
     <nav>
       <ul class="nav navbar">
-        <li{% if this._path == '/' %} class="active"{% endif %}>
-          <a href="{{ '/'|url }}">Willkommen</a>
-        </li>
-        {% for href, title in [
-          ['/archive', 'Archiv'],
-          ['/about', 'Über uns']
-        ] %}
-        <li{% if this.is_child_of(href) %} class="active"{% endif %}>
-          <a href="{{ href|url }}">{{ title }}</a>
+        {% for path, label in bag('navigation').items() %}
+        <li{% if this.is_child_of(path) %} class="active"{% endif %}>
+          <a href="{{ path|url }}">{{ label }}</a>
         </li>
         {% endfor %}
+        {% for label, url in bag('navigation-ext').items() %}
         <li>
-          <a href="https://www.meetup.com/de-DE/Leipzig-Python-User-Group/">Meetup</a>
+          <a href="{{ url }}">{{ label }}</a>
         </li>
-        <li>
-          <a href="https://github.com/LPUG">GitHub</a>
-        </li>
+        {% endfor %}
       </ul>
     </nav>
   </header>
