@@ -118,8 +118,13 @@ div.page img {
   max-width: 100%;
   height: auto;
 }
+
 div.page ul {
   padding: 0;
+}
+
+.page tr {
+  vertical-align: baseline;
 }
 
 .meta {
