@@ -20,3 +20,7 @@ make run
 ```console
 make map
 ```
+
+### Pipenv
+
+If you have [pipenv](https://docs.pipenv.org) installed then simply prefix all commands with `pipenv run`.
