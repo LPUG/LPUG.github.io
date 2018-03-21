@@ -8,6 +8,9 @@ Das nächste Treffen findet am 10. April 2018 um 19:00 im
 Andreas Linz wird über "Think DSP - Digital Signal Processing in Python"
 sprechen.
 
+> Der Vortrag wird eine Zusammenfassung des Open-Source Buches [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) von Allen Downey sein und gleichzeitig eine Einführung in die Grundlagen der (Audio-)Signalverarbeitung darstellen.
+> Zu dem Buch gibt es eine Reihe von [Jupyter Notebooks](http://mybinder.org/repo/AllenDowney/ThinkDSP) die die vorgestellten Konzepte veranschaulichen.
+
 Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt.
 Themenvorschläge sind immer willkommen.
 
