@@ -2,15 +2,23 @@ title: Archive
 ---
 body:
 
-
-
-
-
 Bisherige Präsentationen und Themen.
 
 ----
 
-# Treffen am 13.Februar 2018 2017 19:00 Uhr
+# Treffen am 10. April 2018 19:00 Uhr
+
+Andreas Linz sprach über "Think DSP - Digital Signal Processing in Python".
+
+Der Vortrag war eine Zusammenfassung des Open-Source Buches [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) von Allen Downey und gleichzeitig eine Einführung in die Grundlagen der (Audio-)Signalverarbeitung.
+
+Zu dem Buch gibt es eine Reihe von [Jupyter Notebooks](http://mybinder.org/repo/AllenDowney/ThinkDSP), die die vorgestellten Konzepte veranschaulichen.
+
+Mit 17 Anwesenden war der Vortrag sehr gut besucht.
+
+----
+
+# Treffen am 13. Februar 2018 19:00 Uhr
 
 Unser Vortrag war diesmal:
 
@@ -111,7 +119,7 @@ Die Präsentation stellt ein paar Konzepte vor und bereitet den danach folgenden
 
 Wir haben unser erstes [Coding Dojo](http://codingdojo.org/WhatIsCodingDojo/)
 durchgeführt.
-Ein Djojo besteht aus Programmierübungen, sogenannte Katas, für kleine,
+Ein Dojo besteht aus Programmierübungen, sogenannte Katas, für kleine,
 in sich abgeschlossene Probleme.
 Dazu haben wir Paare gebildet.
 Ein Ziel der Übungen  war es Test-Driven-Development (TDD) zu trainieren,
