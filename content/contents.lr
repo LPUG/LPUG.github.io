@@ -2,24 +2,24 @@ title: Leipzig Python User Group
 ---
 body:
 
-Das nächste Treffen findet am 10. April 2018 um 19:00 im
+Das nächste Treffen findet am 8. Mai 2018 um 19:00 im
 [Basislager](https://www.basislager.co/) (4. OG) statt.
 
-Andreas Linz wird über "Think DSP - Digital Signal Processing in Python"
-sprechen.
+Markus Zapke-Gründemann wird über "Can packaging improve Django deployments?" sprechen.
 
-> Der Vortrag wird eine Zusammenfassung des Open-Source Buches [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) von Allen Downey sein und gleichzeitig eine Einführung in die Grundlagen der (Audio-)Signalverarbeitung darstellen.
-> Zu dem Buch gibt es eine Reihe von [Jupyter Notebooks](http://mybinder.org/repo/AllenDowney/ThinkDSP) die die vorgestellten Konzepte veranschaulichen.
+> How can packaging Django projects make deployments easier, faster and more reliable?
+>
+> This is a preview of Markus' talk at DjangoCon Europe 2018 in Heidelberg.
+> The talk will be held in English.
 
-Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt.
-Themenvorschläge sind immer willkommen.
+Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt. Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                           | Vortragende
 ---------- | ----------------------------------------------- | -----------
-10.04.2018 | Think DSP - Digital Signal Processing in Python | Andreas Linz
 08.05.2018 | Can packaging improve Django deployments?       | Markus Zapke-Gründemann
 13.06.2018 | TBD                                             | TBD
 10.07.2018 | TBD                                             | TBD
+14.08.2018 | TBD                                             | TBD
 
 [!["Karte des Treffpunkts"](static/map.png)](https://www.openstreetmap.org/?mlat=51.33207&amp;mlon=12.37347#map=19/51.33207/12.37347)
 
@@ -34,11 +34,8 @@ def get_location():
 ```
 
 Aktuelle Informationen zu Treffen gibt es auch auf unserer
-[Mailingliste][Mailingliste].
+[Mailingliste](http://lists.python-verband.org/mailman/listinfo/python-leipzig).
 
-Wer nicht in der Nähe von Leipzig wohnt, sich aber trotzdem mit
-Python-Enthusiasten treffen möchte, findet auf der
-[PySV-Community-Seite](http://python-verband.org/community)
-eine Liste von Nutzergruppentreffen in Deutschland.
-
-[Mailingliste]: http://lists.python-verband.org/mailman/listinfo/python-leipzig
+Wer nicht in der Nähe von Leipzig wohnt, sich aber trotzdem mit Python-Enthusiasten treffen möchte,
+findet auf der [PySV-Community-Seite](http://python-verband.org/community) eine Liste von
+Nutzergruppentreffen in Deutschland.
