@@ -2,21 +2,13 @@ title: Leipzig Python User Group
 ---
 body:
 
-Das nächste Treffen findet am 8. Mai 2018 um 19:00 im
+Das nächste Treffen findet am 13. Juni 2018 um 19:00 im
 [Basislager](https://www.basislager.co/) (4. OG) statt.
-
-Markus Zapke-Gründemann wird über "Can packaging improve Django deployments?" sprechen.
-
-> How can packaging Django projects make deployments easier, faster and more reliable?
->
-> This is a preview of Markus' talk at DjangoCon Europe 2018 in Heidelberg.
-> The talk will be held in English.
 
 Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt. Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                           | Vortragende
 ---------- | ----------------------------------------------- | -----------
-08.05.2018 | Can packaging improve Django deployments?       | Markus Zapke-Gründemann
 13.06.2018 | TBD                                             | TBD
 10.07.2018 | Zahlen stapeln mit HDF5 (h5py), Bcolz & Zarr    | Sebastian Ernst
 14.08.2018 | TBD                                             | TBD
