@@ -16,13 +16,12 @@ Datum      | Thema                                           | Vortragende
 [!["Karte des Treffpunkts"](static/map.png)](https://www.openstreetmap.org/?mlat=51.33207&amp;mlon=12.37347#map=19/51.33207/12.37347)
 
 ```python
-def get_location():
-    return {
-        'venue': 'Basislager Coworking Space',
-        'street': 'Peterssteinweg 14-16',
-        'city': '04107 Leipzig',
-        'room': 'Mount Everest, 4. Etage'
-    }
+location = {
+    'venue': 'Basislager Coworking Space',
+    'street': 'Peterssteinweg 14-16',
+    'city': '04107 Leipzig',
+    'room': 'Mount Everest, 4. Etage'
+}
 ```
 
 Aktuelle Informationen zu Treffen gibt es auch auf unserer
