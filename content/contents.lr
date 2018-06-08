@@ -17,8 +17,8 @@ Datum      | Thema                                           | Vortragende
 
 ```python
 location = {
-    'venue': 'Basislager Coworking Space',
-    'street': 'Peterssteinweg 14-16',
+    'venue': 'Basislager Coworking',
+    'street': 'Peterssteinweg 14',
     'city': '04107 Leipzig',
     'room': 'Mount Everest, 4. Etage'
 }
