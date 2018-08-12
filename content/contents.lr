@@ -7,17 +7,49 @@ Das nächste Treffen findet am 10. Juli 2018 um 19:00 im
 
 Vortrag
 
-*Sebastian Ernst*
+*Mike Müller*
 
-**Zahlen stapeln mit HDF5 (h5py), Bcolz & Zarr**
+**Programmieren lassen: `namedtuples`, `dataclasses` und `attrs`**
 
-Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt. Themenvorschläge sind immer willkommen.
+Python 3.7 hat ein neues Modul in der Standard-Bibliothek: `dataclasses`.
+Wir nehmen das zum Anlass, um uns mit dem Thema Code-Generierung zu
+beschäftigen.
 
-Datum      | Thema                                           | Vortragende
----------- | ----------------------------------------------- | -----------
-10.07.2018 | Zahlen stapeln mit HDF5 (h5py), Bcolz & Zarr    | Sebastian Ernst
-14.08.2018 | TBD                                             | TBD
-11.09.2018 | TBD                                             | TBD
+Seit Python 2.6 gibt es den Datentyp
+[`namedtuple`](https://docs.python.org/3/library/collections.html#collections.namedtuple),
+der es erlaubt, ein Objekt zu erzeugen dass sich wie ein Tupel und teilweise wie
+eine "normale" Instanz einer Klasse verhält.
+Im Hintergrund erzeugt Python Quelltext und für diesen mit `exec` aus.
+
+Das Projekt [`attrs`](http://www.attrs.org/en/stable) geht hier noch
+ein ganzes Stück weiter und bietet
+"Classes Without Boilerplate", indem es "typische" dunder-Methoden
+(also diese: `__methode__`) automatisch zu einer Klasse hinzufügt.
+Weiterhin bietet es komfortable Möglichkeiten die Datentypen von Attributen
+zu validieren und ggf. zu konvertieren.
+
+Seit Python 3.7 gibt es das neue Module `dataclasses` in der
+Standard-Bibliothek.
+Der neue Datentyp
+[`dataclass`](https://docs.python.org/3/library/dataclasses.html)
+bietet ähnliche Funktionalität wir `attrs`.
+Es nutzt aber den neuen Annotation-Syntax.
+
+Das ist kein klassischer Vortrag.
+Wir werden uns die wichtigsten Merkmal der unterschiedlichen Datentypen
+schrittweise erarbeiten.
+Es ist also sinnvoll sich vorher die Dokumentationen schon mal anzusehen
+und vielleicht das ein oder andere Anwendungsbeispiel mitzubringen.
+
+
+Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt.
+Themenvorschläge sind immer willkommen.
+
+Datum      | Thema                                                          | Vortragende
+---------- | -------------------------------------------------------------- | -----------
+14.08.2018 | Programmieren lassen: `namedtuples`, `dataclasses` und `attrs` | Mike Müller
+11.09.2018 | TBD                                                            | TBD
+09.10.2018 | TBD                                                            | TBD
 
 [!["Karte des Treffpunkts"](static/map.png)](https://www.openstreetmap.org/?mlat=51.33207&amp;mlon=12.37347#map=19/51.33207/12.37347)
 
@@ -33,6 +65,7 @@ location = {
 Aktuelle Informationen zu Treffen gibt es auch auf unserer
 [Mailingliste](http://lists.python-verband.org/mailman/listinfo/python-leipzig).
 
-Wer nicht in der Nähe von Leipzig wohnt, sich aber trotzdem mit Python-Enthusiasten treffen möchte,
+Wer nicht in der Nähe von Leipzig wohnt, sich aber trotzdem mit
+Python-Enthusiasten treffen möchte,
 findet auf der [PySV-Community-Seite](http://python-verband.org/community) eine Liste von
 Nutzergruppentreffen in Deutschland.
