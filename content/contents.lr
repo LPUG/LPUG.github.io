@@ -2,54 +2,27 @@ title: Leipzig Python User Group
 ---
 body:
 
-Das nächste Treffen findet am 14. August 2018 um 19:00 im
+Das nächste Treffen findet am 11. September 2018 um 19:00 im
 [Basislager](https://www.basislager.co/) (4. OG) statt.
 
 Vortrag
 
-*Mike Müller*
+*Robert Lieback*
 
-**Programmieren lassen: `namedtuples`, `dataclasses` und `attrs`**
+**Desktop-Anwendungen mit `PyQt5` und `PyInstaller`**
 
-Python 3.7 hat ein neues Modul in der Standard-Bibliothek: `dataclasses`.
-Wir nehmen das zum Anlass, um uns mit dem Thema Code-Generierung zu
-beschäftigen.
+Best-Practices für die Desktopentwicklung: Vom Qt-Designer, über das Event-Management, zur Distribution mit PyInstaller.
 
-Seit Python 2.6 gibt es den Datentyp
-[`namedtuple`](https://docs.python.org/3/library/collections.html#collections.namedtuple),
-der es erlaubt, ein Objekt zu erzeugen dass sich wie ein Tupel und teilweise wie
-eine "normale" Instanz einer Klasse verhält.
-Im Hintergrund erzeugt Python Quelltext und für diesen mit `exec` aus.
-
-Das Projekt [`attrs`](http://www.attrs.org/en/stable) geht hier noch
-ein ganzes Stück weiter und bietet
-"Classes Without Boilerplate", indem es "typische" dunder-Methoden
-(also diese: `__methode__`) automatisch zu einer Klasse hinzufügt.
-Weiterhin bietet es komfortable Möglichkeiten die Datentypen von Attributen
-zu validieren und ggf. zu konvertieren.
-
-Seit Python 3.7 gibt es das neue Module `dataclasses` in der
-Standard-Bibliothek.
-Der neue Datentyp
-[`dataclass`](https://docs.python.org/3/library/dataclasses.html)
-bietet ähnliche Funktionalität wir `attrs`.
-Es nutzt aber den neuen Annotation-Syntax.
-
-Das ist kein klassischer Vortrag.
-Wir werden uns die wichtigsten Merkmal der unterschiedlichen Datentypen
-schrittweise erarbeiten.
-Es ist also sinnvoll sich vorher die Dokumentationen schon mal anzusehen
-und vielleicht das ein oder andere Anwendungsbeispiel mitzubringen.
-
+Der Vortrag geht unter anderem folgenden Fragen auf den Grund: Wie baue ich eine flexible GUI? Wie reagiere ich auf Gui-Events? Wie erzeuge ich eigene Events? Wie packe ich mein Programm inkl. Python und aller Bibliotheken in eine transportable Datei oder Ordner? Was ist der Smartscreen-Filter und wie werde ich ihn los?
 
 Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt.
 Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-14.08.2018 | Programmieren lassen: `namedtuples`, `dataclasses` und `attrs` | Mike Müller
-11.09.2018 | TBD                                                            | TBD
+11.09.2018 | Desktop-Anwendungen mit `PyQt5` und `PyInstaller` | Robert Lieback
 09.10.2018 | TBD                                                            | TBD
+13.11.2018 | TBD                                                            | TBD
 
 [!["Karte des Treffpunkts"](static/map.png)](https://www.openstreetmap.org/?mlat=51.33207&amp;mlon=12.37347#map=19/51.33207/12.37347)
 
