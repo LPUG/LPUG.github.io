@@ -2,27 +2,22 @@ title: Leipzig Python User Group
 ---
 body:
 
-Das nächste Treffen findet am 11. September 2018 um 19:00 im
-[Basislager](https://www.basislager.co/) (4. OG) statt.
+####Das nächste Treffen findet am 08. Januar 2019 um 19:00 im [Basislager](https://www.basislager.co/) (4. OG) statt.
 
-Vortrag
+**Thema: REST-APIs mit OpenAPI/Swagger und Vorstellung von [Responder](https://python-responder.org) **
 
-*Robert Lieback*
+___
 
-**Desktop-Anwendungen mit `PyQt5` und `PyInstaller`**
 
-Best-Practices für die Desktopentwicklung: Vom Qt-Designer, über das Event-Management, zur Distribution mit PyInstaller.
-
-Der Vortrag geht unter anderem folgenden Fragen auf den Grund: Wie baue ich eine flexible GUI? Wie reagiere ich auf Gui-Events? Wie erzeuge ich eigene Events? Wie packe ich mein Programm inkl. Python und aller Bibliotheken in eine transportable Datei oder Ordner? Was ist der Smartscreen-Filter und wie werde ich ihn los?
-
-Die Treffen der User Group finden jeden zweiten Dienstag im Monat statt.
+Die Treffen der User Group finden jeden zweiten Dienstag im Monat um 19 Uhr statt.
 Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.09.2018 | Desktop-Anwendungen mit `PyQt5` und `PyInstaller` | Robert Lieback
-09.10.2018 | TBD                                                            | TBD
-13.11.2018 | TBD                                                            | TBD
+08.01.2019 | REST-APIs mit OpenAPI/Swagger und Vorstellung von [Responder](https://python-responder.org). | Robert Lieback
+12.02.2019 | TBD |
+13.03.2019 | TBD |
+09.04.2019 | TBD |
 
 [!["Karte des Treffpunkts"](static/map.png)](https://www.openstreetmap.org/?mlat=51.33207&amp;mlon=12.37347#map=19/51.33207/12.37347)
 
