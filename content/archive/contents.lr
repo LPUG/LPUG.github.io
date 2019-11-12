@@ -4,6 +4,62 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+---
+
+# 13.08.2019
+# Fortran-Bibliotheken in Python nutzen
+## Mike Müller
+
+Viele wissenschaftliche Anwendungen sind in Fortran implementiert.
+Es ist wahrscheinlich die älteste Hochsprache, die noch relativ weit verbreitet
+ist.
+Für numerische Anwendungen kann Fortran-Code durchaus beträchtlich schnellere
+Programme ergeben als Code in C oder ähnlichen Sprachen.
+Für andere Programmieraufgaben als numerische Algorithmen ist Fortran
+allerdings nicht so gut geeignet.
+Hier kommen die Fähigkeiten von Python ins Spiel Quelltext anderer
+Programmiersprachen relativ einfach als sogenannten Erweiterungen in Python
+integrieren zu können.
+
+Dieser Vortrag stellt das Werkzeug `f2py` vor.
+Damit lassen sich Fortran-Quelltext elegant in Python-Erweiterungen einbauen.
+Der Zugriff auf Fortran-Arrays, die in Fortran-Modulen liegen ist mit
+NumPy-Arrays von Python aus nahtlos möglich.
+Oft sind Fortran-Quelltexte sehr monolithisch mit einer großen Schleifen für
+Simulations-Zeitschritte aufgebaut.
+Der Vortrag zeigt wie sich mit Hilfe von Callbacks und Threads Erweiterungen
+bauen lassen, die die Eingriffe in diese monolithische Struktur auf ein Minimum
+beschränken.
+Eine Demo zeigt wie sich in einem Jupyter-Notebook Fortran-Variablen live von
+Python aus anzeigen und verändern lassen.
+
+Keine Angst: Fortran-Wissen ist nicht nötig, um dem Vortrag folgen zu können.
+Solide Python-Kenntnisse sind ausreichend.
+Sogar ohne Python-Wissen sollten die Grundprinzipien zu verstehen sein.
+
+----
+
+# 10.09.2019
+# Programming Guidelines
+## Thomas Güttler
+
+Mit 13 Jahren habe ich das Programmieren angefangen und bin nun 43.
+
+Seit dem habe ich sehr viele Fehler gemacht und habe daraus
+mehr oder weniger viel gelernt.
+
+Seit einer Weile schreibe ich meine persönlichen Programming Guidelines
+auf. Zum einen um mehr Klarheit über mein eigenes Handeln zu finden.
+Zum anderen , um dem einen oder anderen Neueinsteiger ein paar Irrwege
+zu ersparen.
+
+Der Text ist auf englisch und hier zu finden:
+
+https://github.com/guettli/programming-guidelines
+
+
+----
+
 # Treffen am 11. Oktober 2018 19:00 Uhr
 
 Robert Lieback sprach über "Desktop-Anwendungen mit PyQt5 und PyInstaller"
