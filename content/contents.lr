@@ -33,12 +33,19 @@ Das sind die wichtigsten Punkte:
 1. Auswertung der gemessenen Temperaturwerte
 1. Benutzung-Schnittstelle mit tkinter geplant
 
+Die Quelltexte stehen zur Verfügung:
+
+FTP: odroid.home-webserver.de <br>
+Nutzer: gast <br>
+Passwort: gastgast1 <br>
+
+
 Die Treffen der User Group finden jeden zweiten Dienstag im Monat um 19 Uhr statt.
 Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.06.2020 | Hardware mit Python ansteuern
+09.06.2020 | Hardware mit Python ansteuern |  Andre Bunk
 14.07.2020 | TBD |
 11.08.2020 | TBD |
 08.09.2020 | TBD |
