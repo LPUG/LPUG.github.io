@@ -4,6 +4,27 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 09.06.2020
+# Hardware mit Python ansteuern
+## Andre Bunk
+
+Andre stellte sein Projekt vor.
+Das sind die wichtigsten Punkte:
+
+1. Pumpensteuerung für den Garten
+1. Temperaturmessung mit TC74
+1. Speichern dieser Messdaten mit SQLite
+1. Auswertung von Textdateien des Mediathekview mit Python
+1. Auswertung der gemessenen Temperaturwerte
+1. Benutzung-Schnittstelle mit tkinter geplant
+
+Die Quelltexte stehen zur Verfügung:
+
+FTP: odroid.home-webserver.de <br>
+Nutzer: gast <br>
+Passwort: gastgast1 <br>
+
+
 # 12.05.2020
 # Online-Treffen
 # Programming Guidelines
