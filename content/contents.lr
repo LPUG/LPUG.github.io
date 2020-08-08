@@ -20,24 +20,13 @@ Es gilt:
 * Raum im Erdgeschoss: Olymp oder Kilimanjaro (siehe Ausschilderung vor Ort)
 * Networking ist auch im Innenhof möglich
 
-# Hardware mit Python ansteuern
-## Andre Bunk
+# Die Programmiersprache Nim aus Python-Sicht - Ein Erfahrungsbericht
+## Stefan Schwarzer
 
-Andre stellt sein Projekt vor.
-Das sind die wichtigsten Punkte:
+Als langjähriger Python-Entwickler bin ich auf der Suche nach einer flexiblen statisch typisierten Programmiersprache vor einem Jahr auf Nim ( https://nim-lang.org ) gekommen.
 
-1. Pumpensteuerung für den Garten
-1. Temperaturmessung mit TC74
-1. Speichern dieser Messdaten mit SQLite
-1. Auswertung von Textdateien des Mediathekview mit Python
-1. Auswertung der gemessenen Temperaturwerte
-1. Benutzung-Schnittstelle mit tkinter geplant
+Ich möchte euch etwas über die Sprache erzählen, unter anderem über besondere Unterschiede zu Python und wie man beide Sprachen kombinieren kann. Ich habe darüber hinaus einiges an Material, aber wir müssen nicht alles strikt durchgehen, denn ein User-Group-Treffen lebt ja auch von der Diskussion. :-)
 
-Die Quelltexte stehen zur Verfügung:
-
-FTP: odroid.home-webserver.de <br>
-Nutzer: gast <br>
-Passwort: gastgast1 <br>
 
 
 Die Treffen der User Group finden jeden zweiten Dienstag im Monat um 19 Uhr statt.
@@ -45,11 +34,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.06.2020 | Hardware mit Python ansteuern |  Andre Bunk
-14.07.2020 | TBD |
-11.08.2020 | TBD |
+11.08.2020 | Die Programmiersprache Nim aus Python-Sicht | Stefan Schwarzer
 08.09.2020 | TBD |
-
+13.10.2020 | TBD |
+10.11.2020 | TBD |
 
 
 
