@@ -2,7 +2,17 @@ title: Leipzig Python User Group
 ---
 body:
 
-Wir treffen uns nach längerer Zeit wieder live.
+
+
+# Die Programmiersprache Nim aus Python-Sicht - Ein Erfahrungsbericht
+## Stefan Schwarzer
+
+Als langjähriger Python-Entwickler bin ich auf der Suche nach einer flexiblen statisch typisierten Programmiersprache vor einem Jahr auf Nim ( https://nim-lang.org ) gekommen.
+
+Ich möchte euch etwas über die Sprache erzählen, unter anderem über besondere Unterschiede zu Python und wie man beide Sprachen kombinieren kann. Ich habe darüber hinaus einiges an Material, aber wir müssen nicht alles strikt durchgehen, denn ein User-Group-Treffen lebt ja auch von der Diskussion. :-)
+
+
+Wir treffen uns wieder live.
 Die Teilnehmerzahl ist begrenzt.
 Deshalb bitte unbedingt über unsere
 [Meetup-Gruppe](https://www.meetup.com/de-DE/Leipzig-Python-User-Group/)
@@ -19,15 +29,6 @@ Es gilt:
 * Abstandsregeln (Mindestabstand von 1,5 m immer einhalten, wir bestuhlen entsprechend)
 * Raum im Erdgeschoss: Olymp oder Kilimanjaro (siehe Ausschilderung vor Ort)
 * Networking ist auch im Innenhof möglich
-
-# Die Programmiersprache Nim aus Python-Sicht - Ein Erfahrungsbericht
-## Stefan Schwarzer
-
-Als langjähriger Python-Entwickler bin ich auf der Suche nach einer flexiblen statisch typisierten Programmiersprache vor einem Jahr auf Nim ( https://nim-lang.org ) gekommen.
-
-Ich möchte euch etwas über die Sprache erzählen, unter anderem über besondere Unterschiede zu Python und wie man beide Sprachen kombinieren kann. Ich habe darüber hinaus einiges an Material, aber wir müssen nicht alles strikt durchgehen, denn ein User-Group-Treffen lebt ja auch von der Diskussion. :-)
-
-
 
 Die Treffen der User Group finden jeden zweiten Dienstag im Monat um 19 Uhr statt.
 Themenvorschläge sind immer willkommen.
