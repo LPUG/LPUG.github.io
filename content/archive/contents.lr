@@ -4,6 +4,17 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+
+# 11.08.2020
+# Die Programmiersprache Nim aus Python-Sicht - Ein Erfahrungsbericht
+## Stefan Schwarzer
+
+Als langjähriger Python-Entwickler bin ich auf der Suche nach einer flexiblen statisch typisierten Programmiersprache vor einem Jahr auf Nim ( https://nim-lang.org ) gekommen.
+
+Ich möchte euch etwas über die Sprache erzählen, unter anderem über besondere Unterschiede zu Python und wie man beide Sprachen kombinieren kann. Ich habe darüber hinaus einiges an Material, aber wir müssen nicht alles strikt durchgehen, denn ein User-Group-Treffen lebt ja auch von der Diskussion. :-)
+
+
 # 14.07.2020
 # Hardware mit Python ansteuern
 ## Andre Bunk
@@ -487,7 +498,3 @@ Allgemeinen und auch ihre gesellschaftlichen Auswirkungen.
 # Rust for Pythonistas
 
 The slides are available at [github](https://github.com/klingtnet/lpug-Rust?files=1) and [slideshare](http://www.slideshare.net/AndreasLinz1/rust-for-pythonistas-lpug?qid=8895be3c-0aa5-4555-917a-6d5fb6df6b8b&v=&b=&from_search=1).
-
-
-
-
