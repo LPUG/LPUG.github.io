@@ -7,7 +7,7 @@ body:
 ## Lukas Werner
 ## 13.10.2020, 19:00 Uhr
 
-Die kleine Einführung in das Web Framework Flask geht auffolgende Punkte ein:
+Die kleine Einführung in das Web Framework Flask geht auf folgende Punkte ein:
 
 - Aufsetzen einer Flask-Anwendung
 - Routing & Templating (Jinja2)
