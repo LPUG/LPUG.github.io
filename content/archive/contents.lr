@@ -4,6 +4,22 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 13.10.2020
+# Einfache Web-Anwendungen mit Flask
+## Lukas Werner
+
+
+Die kleine Einführung in das Web Framework Flask ging auf folgende Punkte ein:
+
+- Aufsetzen einer Flask-Anwendung
+- Routing & Templating (Jinja2)
+- Requests und Responses
+- Produktivsetzen einer Flask Anwendung mittels uWSGI
+- ggf. Sessions/Flashing
+- Einsatzmöglichkeiten im Data-Science-Sektor
+
+Da jeder der Punkte eine eigene Vorstellung ausfüllen könnte, hat der Vortrag die meisten Punkte nur kurz umrissen. Einen großen Teil der Vortragszeit hat die Diskussion zum Thema eingenommen.
+
 
 # 08.09.2020
 # Was ist neu in Python 3.9
