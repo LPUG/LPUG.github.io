@@ -14,6 +14,7 @@ Vortragsinhalt:
   * Vor & Nachteile gegenüber REST
 * Vorstellung einer Referenzimplementierung mittels Graphene-Django
 
+Präsentation und Code: https://gitlab.com/a_ba/lpug-django-graphene
 
 Wir treffen uns [online](https://bbb.python-academy.de/b/mik-hct-ymm) mit
 BigBlueButton.
