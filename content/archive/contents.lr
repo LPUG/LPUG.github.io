@@ -4,6 +4,19 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 8. Dezember 2020
+# Web APIs mit Django und GraphQL
+## Andreas Bamberger
+
+Vortragsinhalt:
+
+* Was ist GraphQL?
+  * Hintergründe und Konzepte
+  * Vor & Nachteile gegenüber REST
+* Vorstellung einer Referenzimplementierung mittels Graphene-Django
+
+Präsentation und Code: https://gitlab.com/a_ba/lpug-django-graphene
+
 # 10.11.2020
 # Diskussionsrunde - "Was mich an besonders Python stört, was mir an Python besonders gefällt."
 
