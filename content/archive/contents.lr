@@ -4,6 +4,20 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 12. Januar 2021, 19:00 Uhr ([BBB-Raum](https://bbb.python-academy.de/b/mik-hct-ymm) ab 18:45 Uhr geöffnet)
+# Große Datenmengen in Videos animieren mit "bewegung"
+## Sebastian M. Ernst
+
+* Wie erstellt man *animierte* Visualisierungen (mit Python)?
+* [Was für Bibliotheken bzw. Pakete gibt es - mit denen man auch Videos generieren kann?](https://bewegung.readthedocs.io/en/develop/about.html#similar-alternative-libraries)?
+* Einführung zu und kleine Probier- und Bastel-Runde mit **bewegung**, einer neuen Bibliothek zur animierten Darstellung größerer Datenmengen:
+    * [Github-Repositorium](https://github.com/pleiszenburg/bewegung)
+    * [Dokumentation bei RtD](https://bewegung.readthedocs.io)
+    * [Installation](https://bewegung.readthedocs.io/en/develop/installation.html): [![conda_version](https://img.shields.io/conda/vn/conda-forge/bewegung.svg?style=flat-square "conda version")](https://anaconda.org/conda-forge/bewegung) & [![pypi_versions](https://img.shields.io/pypi/pyversions/bewegung.svg?style=flat-square "Available on PyPi - the Python Package Index")](https://pypi.python.org/pypi/bewegung)
+
+> `bewegung` is a versatile video renderer, primarily targeting scientific visualizations of large quantities of data. Its core concepts are *sequences* and *layers*. Sequences describe a certain time span within a video and can overlap. Each sequence can hold multiple layers. Layers can be generated with [`cairo`](https://cairographics.org/), [`Pillow`](https://pillow.readthedocs.io), [`datashader`](https://datashader.org/), [`matplotlib`](https://matplotlib.org/) and `bewegung`'s internal drawing system [`DrawingBoard`](https://bewegung.readthedocs.io/en/latest/canvas.html). Final compositing of every video frame and video effects are implemented via `Pillow`. Video encoding is handled by `ffmpeg`. `bewegung` also includes a simple [vector algebra system](https://bewegung.readthedocs.io/en/latest/vectors.html) and a ["camera" for 3D to 2D projections](https://bewegung.readthedocs.io/en/latest/camera.html). `bewegung` is developed with ease of use, compute time and memory efficiency in mind.
+
 # 8. Dezember 2020
 # Web APIs mit Django und GraphQL
 ## Andreas Bamberger
