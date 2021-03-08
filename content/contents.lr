@@ -2,9 +2,31 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 9. Februar 2021, 19:00 Uhr ([BBB-Raum](https://bbb.python-academy.de/b/mik-hct-ymm) ab 18:45 Uhr geöffnet)
-# `pip`, `conda`, `mamba` - Python-Pakete installieren und virtuelle Umgebungen anlegen
+# 9. März 2021, 19:00 Uhr ([BBB-Raum](https://bbb.python-academy.de/b/mik-hct-ymm) ab 18:45 Uhr geöffnet)
+# Structural Pattern Matching in Python
 ## Eine Diskussionsrunde
+
+Python bekommt "Structural Pattern Matching".
+Dies ist eine relativ große Neuerung.
+Es gibt teilweise hitzige Diskussionen darüber ob dies eine tolle Erweiterung
+der Sprache ist oder ob damit die Sprache zu komplex wird und sich zu sehr an
+die "C++-Philosophie" *je mehr Features, desto besser* annähert.
+
+Es gibt drei PEPs zu diesem Thema:
+
+* PEP 634: [Specification](https://www.python.org/dev/peps/pep-0634/)
+* PEP 635: [Motivation and Rationale](https://www.python.org/dev/peps/pep-0634/)
+* PEP 636: [Tutorial](https://www.python.org/dev/peps/pep-0634/)
+
+Wir wollen uns die wichtigsten Elemente davon ansehen und dazu diskutieren.
+Dabei versuchen wir Antworten auf Fragen wie diesen zu finden:
+
+* Was sind die Vorteile gegenüber bisherigen Ansätzen?
+* Was sind nützliche Anwendungsfälle?
+* Wo könnte es zu Problemen kommen?
+* Hat Guido, der maßgeblich an den oben genannten PEPs mitgearbeitet hat, noch
+  die Weitsicht, die Python in den letzten Jahrzehnten zu solch einem nützlichen
+  Werkzeug gemacht hat?
 
 ----------------
 
@@ -19,10 +41,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.02.2021 | `pip`, `conda`, `mamba` - Python-Pakete installieren und virtuelle Umgebungen anlegen |
-09.03.2021 | TBD |
+09.03.2021 | Structural Pattern Matching in Python |
 13.04.2021 | TBD |
 11.05.2021 | TBD |
+08.06.2021 | TBD |
 
 
 ```python
