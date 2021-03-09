@@ -15,8 +15,8 @@ die "C++-Philosophie" *je mehr Features, desto besser* annähert.
 Es gibt drei PEPs zu diesem Thema:
 
 * PEP 634: [Specification](https://www.python.org/dev/peps/pep-0634/)
-* PEP 635: [Motivation and Rationale](https://www.python.org/dev/peps/pep-0634/)
-* PEP 636: [Tutorial](https://www.python.org/dev/peps/pep-0634/)
+* PEP 635: [Motivation and Rationale](https://www.python.org/dev/peps/pep-0635/)
+* PEP 636: [Tutorial](https://www.python.org/dev/peps/pep-0636/)
 
 Wir wollen uns die wichtigsten Elemente davon ansehen und dazu diskutieren.
 Dabei versuchen wir Antworten auf Fragen wie diesen zu finden:
