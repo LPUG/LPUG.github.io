@@ -2,15 +2,19 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 13. April 2021, 19:00 Uhr ([BBB-Raum](https://bbb.python-academy.de/b/mik-hct-ymm) ab 18:45 Uhr geöffnet)
-# Meet Mob - Erste Erfahrungen mit dem Programmieren in der Gruppe
-## Oliver Bestwalter
+# 11. Mai 2021, 19:00 Uhr ([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet)
+# Python-Pakte Installieren
+## Eine Diskussionsrunde
 
-Seit Anfang des Jahres nehme ich in einer Gruppe Teil, die sich einmal in der
-Woche remote trifft, um gemeinsam ein OSS Projekt zu pflegen.
-Die Technik nennt sich "remote mob programming" oder
-"remote ensemble programming".
-Ich möchte ein wenig von der Methode und meinen Erfahrungen erzählen.
+Es gibt viele sehr nützliche Bibliotheken für Python.
+Man muss diese aber auch installieren können.
+Oft geht das problemlos mit `pip`.
+Manchmal gibt es aber Probleme.
+Wir wollen uns austauschen wie man solche Probleme möglichst
+vermeiden oder verhindern kann.
+Welche Techniken, Bibliotheken und Vorgehensweisen gibt es dafür?
+Was nutzt ihr?
+Welche Erfahrungen habt ihr mit verschiedenen Methoden gemacht?
 
 ----------------
 
@@ -25,10 +29,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-13.04.2021  | Erste Erfahrungen mit dem Programmieren in der Gruppe | Oliver Bestwalter
-11.05.2021 | TBD |
+11.05.2021 | Python-Pakte installieren | Diskussionsrunde
 08.06.2021 | TBD |
 13.07.2021 | TBD |
+10.08.2021 | TBD |
 
 
 ```python
