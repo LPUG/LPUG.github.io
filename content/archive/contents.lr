@@ -4,6 +4,20 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 11. Mai 2021, 19:00 Uhr
+# Python-Pakete Installieren
+## Eine Diskussionsrunde
+
+Es gibt viele sehr nützliche Bibliotheken für Python.
+Man muss diese aber auch installieren können.
+Oft geht das problemlos mit `pip`.
+Manchmal gibt es aber Probleme.
+Wir wollen uns austauschen wie man solche Probleme möglichst
+vermeiden oder verhindern kann.
+Welche Techniken, Bibliotheken und Vorgehensweisen gibt es dafür?
+Was nutzt ihr?
+Welche Erfahrungen habt ihr mit verschiedenen Methoden gemacht?
+
 
 # 13. April 2021
 # Meet Mob - Erste Erfahrungen mit dem Programmieren in der Gruppe

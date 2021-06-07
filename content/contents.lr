@@ -2,19 +2,12 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 11. Mai 2021, 19:00 Uhr ([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet)
-# Python-Pakete Installieren
-## Eine Diskussionsrunde
+# 8. Juni 2021, 19:00 Uhr ([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet)
+# Freie Diskussionsrunde
 
-Es gibt viele sehr nützliche Bibliotheken für Python.
-Man muss diese aber auch installieren können.
-Oft geht das problemlos mit `pip`.
-Manchmal gibt es aber Probleme.
-Wir wollen uns austauschen wie man solche Probleme möglichst
-vermeiden oder verhindern kann.
-Welche Techniken, Bibliotheken und Vorgehensweisen gibt es dafür?
-Was nutzt ihr?
-Welche Erfahrungen habt ihr mit verschiedenen Methoden gemacht?
+Wir tauschen uns über die letzten Entwicklungen im Python-Ökosystem aus.
+
+
 
 ----------------
 
@@ -29,10 +22,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.05.2021 | Python-Pakte installieren | Diskussionsrunde
-08.06.2021 | TBD |
+08.06.2021 | Freie Diskussionsrunde |
 13.07.2021 | TBD |
 10.08.2021 | TBD |
+14.09.2021 | TBD |
+
 
 
 ```python
