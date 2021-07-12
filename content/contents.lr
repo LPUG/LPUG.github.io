@@ -33,8 +33,8 @@ Im letzten Schritt zeigt ein Dienst das Ergebnis grafisch an.
 Die Dienste können lokal oder im Netz laufen.
 
 Wir wollen diskutieren welche Möglichkeit der Umsetzung es in Python gibt.
-Was sind die Vor- und Nachteile diese für verschiedene Aufgaben-Größen und
--Komplexitäten?
+Was sind die Vor- und Nachteile diese für verschiedene Aufgaben-Größen?
+Wie komplex sind diese Lösungen?
 
 Bibliothek, die hier helfen könnten wären zum Beispiel
 [`python-task-queue`](https://pypi.org/project/task-queue/) oder
