@@ -4,6 +4,28 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 13. Juli 2021, 19:00 Uhr
+# Aufgaben abarbeiten lassen
+## Dienste, Busse, Warteschlangen und andere Helfer
+
+Unser Anwendungsfall:
+
+Messdaten kommen kontinuierlich von einem Messgerät.
+Diese soll ein Dienst verarbeiten und das Ergebnis an den nächsten Dienst
+weitergeben, der wiederum mit den Daten arbeitet und das Ergebnis entsprechend
+weiterreicht.
+Im letzten Schritt zeigt ein Dienst das Ergebnis grafisch an.
+Die Dienste können lokal oder im Netz laufen.
+
+Wir wollen diskutieren welche Möglichkeit der Umsetzung es in Python gibt.
+Was sind die Vor- und Nachteile diese für verschiedene Aufgaben-Größen?
+Wie komplex sind diese Lösungen?
+
+Bibliothek, die hier helfen könnten wären zum Beispiel
+[`python-task-queue`](https://pypi.org/project/task-queue/) oder
+[Azure Service Bus-Warteschlangen](https://docs.microsoft.com/de-de/azure/service-bus-messaging/service-bus-python-how-to-use-queues).
+
+
 # 8. Juni 2021, 19:00 Uhr
 # Freie Diskussionsrunde
 
