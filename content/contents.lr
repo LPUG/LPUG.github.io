@@ -2,8 +2,23 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 10. August 2021, 19:00 Uhr
-# Diskussionsrunde
+# 12. Oktober 2021, 19:00 Uhr
+# Neue Features in Python 3.10
+
+Python 3.10 ist da.
+Seit Anfang Oktober ist die neue Version offiziell raus.
+Wir wollen uns anschauen was diese Version bringt.
+Neben dem "Mega-Feature" Structural Pattern Matching gibt es noch einige
+interessante Neuerungen wie verbesserte Fehlermeldungen, mehrere Kontext-Manager
+in Klammern oder `zip`, das optional nur gleichlange Sequenzen verarbeitet.
+
+Bitte möglichst Python 3.10 installieren und ein Laptop oder anderes Gerät
+mitbringen.
+Dann können wir alles gemeinsam ausprobieren.
+Wer sich schon im Vorfeld mit dem Thema beschäftigen möchte sollte sich
+[What’s New In Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
+ansehen.
+
 
 Wir treffen uns in Person im Basislager.
 
@@ -28,10 +43,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-10.08.2021 | Diskussionsrunde |
-14.09.2021 | TBD |
-12.10.2021 | TBD |
+12.10.2021 | Neue Features in Python 3.10 |
 09.11.2021 | TBD |
+14.12.2021 | TBD |
+11.01.2022 | TBD |
 
 
 
