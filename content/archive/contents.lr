@@ -4,6 +4,22 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 12. Oktober 2021, 19:00 Uhr
+# Neue Features in Python 3.10
+
+Python 3.10 ist da.
+Seit Anfang Oktober ist die neue Version offiziell raus.
+Wir haben uns angeschaut was diese Version bringt.
+Neben dem "Mega-Feature" Structural Pattern Matching gibt es noch einige
+interessante Neuerungen wie verbesserte Fehlermeldungen, mehrere Kontext-Manager
+in Klammern oder `zip`, das optional nur gleichlange Sequenzen verarbeitet.
+
+Wir sind durch die neun Features
+[What’s New In Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html)
+gegangen.
+Einige davon haben wir gemeinsam ausprobiert.
+
+
 # 10. August 2021, 19:00 Uhr
 # Diskussionsrunde
 
