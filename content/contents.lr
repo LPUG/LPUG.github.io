@@ -2,43 +2,39 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 9. November 2021, 19:00 Uhr
-# Vereinsverwaltung mit Django
-## Stephan Dick-Rustmeier
+Wir treffen uns online:
+([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet).
+Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
-Der Vortrag stellt den aktuellen Stand der Arbeiten an einer Software für die
-bessere, digitale Verwaltung eines Modellflug-Vereins vor.
-Ziel ist es, dass die Django-basierte Web-Anwendung mit allen modernen
-Webrowsern auf allen gängigen Betriebssystemen funktioniert.
+# 14. Dezember 2021, 19:00 Uhr
+# Django-Admin - Ein mächtiges Werkzeug für Django-Apps und andere Anwendungen
+## Andreas Bamberger
 
-Ein wichtiger Bestandteil des Vortrages ist die Datenmodellierung, also wie die
-Anwendung Daten in Datenbank-Modellen abbildet.
-Der Vortrag zeigt den derzeitigen Ansatz.
+Der Django-Admin ist ein grafisches User-Interface für Django-Models.
+Er lässt sich vielseitig anwenden.
+Typische Anwendungen sind zum Beispiel:
 
-Wie immer ist dies kein klassischer Vortrag mit ein paar Fragen am Ende.
-Vielmehr ist es eine Vorstellung eines laufenden Projektes mit Quelltexten und
-Demonstrationen.
-Fragen und Anmerkungen der Teilnehmer sind immer möglich.
-Damit gibt es erfahrungsgemäß eine lebendige Diskussion aus der die Teilnehmer
-etwas Neues lernen können und der Vortragende wertvolle Anregungen für seine
-weitere Arbeit an dem Projekt erhält.
+* Konfigurationsschicht für Django-Applikation,
+* vollwertiges Frontend für Administrative Aufgaben (wie eineVereinsverwaltung)
+  und
+* GUI-Schnittstelle zu Modellen (CRUD) zur vereinfachten Entwicklung komplexerer
+  Applikationen
 
+Der Vortrag stellt den Django-Admin und dessen Nutzung vor.
 
-Wir treffen uns in Person im Basislager.
+- Aktivierung Django-Admin für Models
+- Admin Customizing
+    * Anpassung anzuzeigender Felder inkl. Layout (Include/Exclue, Widgets, FieldSets)
+    * Integration verknüpfter Modelle (Model InLines)
+    * Konfiguration Übersichtsseite (List-Display)
+- Nutzerverwaltung
+- Dokumentation
 
-Das sind die Regeln:
-
-* 2G-Regel, also geimpft und/oder genesen, mit offiziellem Nachweis
-* Personalausweis mitbringen (für Kontrolle des Impfzertifikates nötig)
-* Maskenpflicht für Gemeinschaftsbereiche
-* am Platz mit ausreichend Abstand keine Maskenpflicht mehr
-* kontinuierliches Lüften
-* Teilnehmerliste (per Meetup oder QR-Code via Corona Warn App möglich)
-* Raum Olymp https://www.basislager.co/veranstaltungsraeume/olymp
-* Teilnehmerbeschränkung auf 20 Personen
+Alle Beispiele liegen im Repo zum Vortrag:
+https://gitlab.com/a_ba/lpug-django-xmas-admin­
 
 
-Zusätzlich ist es möglich online teilzunehmen:
+Wir treffen uns online:
 ([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet).
 Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
@@ -49,10 +45,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.11.2021 | Vereinsverwaltung mit Django | Stephan Dick-Rustmeier
-14.12.2021 | TBD |
+14.12.2021 | Django-Admin  | Andreas Bamberger
 11.01.2022 | TBD |
 08.02.2022 | TBD |
+08.03.2022 | TBD |
 
 
 
