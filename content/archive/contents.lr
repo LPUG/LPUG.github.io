@@ -4,6 +4,28 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 9. November 2021, 19:00 Uhr
+# Vereinsverwaltung mit Django
+## Stephan Dick-Rustmeier
+
+Der Vortrag hat den aktuellen Stand der Arbeiten an einer Software für die
+bessere, digitale Verwaltung eines Modellflug-Vereins vorgestellt.
+Ziel ist es, dass die Django-basierte Web-Anwendung mit allen modernen
+Webrowsern auf allen gängigen Betriebssystemen funktioniert.
+
+Ein wichtiger Bestandteil des Vortrages war die Datenmodellierung, also wie die
+Anwendung Daten in Datenbank-Modellen abbildet.
+Der Vortrag zeigte den derzeitigen Ansatz.
+
+Wie immer war dies kein klassischer Vortrag mit ein paar Fragen am Ende.
+Vielmehr war es eine Vorstellung eines laufenden Projektes mit Quelltexten und
+Demonstrationen.
+Fragen und Anmerkungen der Teilnehmer waren ein wichtiger Bestandteil.
+Es gab eine lebendige Diskussion aus der die Teilnehmer etwas Neues lernen
+konnten.
+Der er Vortragende hat wertvolle Anregungen für seine weitere Arbeit an dem
+Projekt erhalten.
+
 # 12. Oktober 2021, 19:00 Uhr
 # Neue Features in Python 3.10
 
