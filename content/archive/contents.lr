@@ -4,7 +4,34 @@ body:
 
 Bisherige Präsentationen und Themen.
 
-# 9. November 2021, 19:00 Uhr
+# 14. Dezember 2021
+# Django-Admin - Ein mächtiges Werkzeug für Django-Apps und andere Anwendungen
+## Andreas Bamberger
+
+Der Django-Admin ist ein grafisches User-Interface für Django-Models.
+Er lässt sich vielseitig anwenden.
+Typische Anwendungen sind zum Beispiel:
+
+* Konfigurationsschicht für Django-Applikation,
+* vollwertiges Frontend für Administrative Aufgaben (wie eineVereinsverwaltung)
+  und
+* GUI-Schnittstelle zu Modellen (CRUD) zur vereinfachten Entwicklung komplexerer
+  Applikationen
+
+Der Vortrag hat den Django-Admin und dessen Nutzung vorgestellt.
+
+- Aktivierung Django-Admin für Models
+- Admin Customizing
+    * Anpassung anzuzeigender Felder inkl. Layout (Include/Exclue, Widgets, FieldSets)
+    * Integration verknüpfter Modelle (Model InLines)
+    * Konfiguration Übersichtsseite (List-Display)
+- Nutzerverwaltung
+- Dokumentation
+
+Alle Beispiele liegen im Repo zum Vortrag:
+https://gitlab.com/a_ba/lpug-django-xmas-admin
+
+# 9. November 2021
 # Vereinsverwaltung mit Django
 ## Stephan Dick-Rustmeier
 
@@ -26,7 +53,7 @@ konnten.
 Der er Vortragende hat wertvolle Anregungen für seine weitere Arbeit an dem
 Projekt erhalten.
 
-# 12. Oktober 2021, 19:00 Uhr
+# 12. Oktober 2021
 # Neue Features in Python 3.10
 
 Python 3.10 ist da.
@@ -42,7 +69,7 @@ gegangen.
 Einige davon haben wir gemeinsam ausprobiert.
 
 
-# 10. August 2021, 19:00 Uhr
+# 10. August 2021
 # Diskussionsrunde
 
 Wir haben über verschiedene Themen diskutiert.
@@ -69,14 +96,14 @@ Bibliothek, die hier helfen könnten wären zum Beispiel
 [Azure Service Bus-Warteschlangen](https://docs.microsoft.com/de-de/azure/service-bus-messaging/service-bus-python-how-to-use-queues).
 
 
-# 8. Juni 2021, 19:00 Uhr
+# 8. Juni 2021
 # Freie Diskussionsrunde
 
 Wir uns über die letzten Entwicklungen im Python-Ökosystem ausgetauscht.
 Es gab eine lebhafte Diskussion.
 
 
-# 11. Mai 2021, 19:00 Uhr
+# 11. Mai 2021
 # Python-Pakete installieren
 ## Eine Diskussionsrunde
 
