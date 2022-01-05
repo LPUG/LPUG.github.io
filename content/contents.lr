@@ -6,32 +6,22 @@ Wir treffen uns online:
 ([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet).
 Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
-# 14. Dezember 2021, 19:00 Uhr
-# Django-Admin - Ein mächtiges Werkzeug für Django-Apps und andere Anwendungen
-## Andreas Bamberger
+# 11. Januar 2022, 19:00 Uhr
+# Mesa-GUI - Eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
+## Gefan Qian
 
-Der Django-Admin ist ein grafisches User-Interface für Django-Models.
-Er lässt sich vielseitig anwenden.
-Typische Anwendungen sind zum Beispiel:
+Der Vortrag stellt ein Programm vor, das anhand einer JSON-Datei eine GUI mit
+den jeweiligen Elementen generiert.
+Diese JSON-Datei ist eine manuell geschriebene Konfigurationsdatei.
+Die TKinter-GUI erzeugt anhand der  Konfigurationsdaten dynamisch Elemente wie
+Checkbox, Dropdown-Menü, Selectbox oder Kalender.
+Dabei bestimmen die Konfigurationsdaten die Anzahl und Reihenfolge dieser
+GUI-Elemente.
 
-* Konfigurationsschicht für Django-Applikation,
-* vollwertiges Frontend für Administrative Aufgaben (wie eineVereinsverwaltung)
-  und
-* GUI-Schnittstelle zu Modellen (CRUD) zur vereinfachten Entwicklung komplexerer
-  Applikationen
+In Zukunft soll das Werkzeug nicht nur Konfigurationsdateien lesen sondern diese
+auch über ein GUI erzeugen können.
+Wir wollen diskutieren wie sich das grundsätzlich umsetzen lässt.
 
-Der Vortrag stellt den Django-Admin und dessen Nutzung vor.
-
-- Aktivierung Django-Admin für Models
-- Admin Customizing
-    * Anpassung anzuzeigender Felder inkl. Layout (Include/Exclue, Widgets, FieldSets)
-    * Integration verknüpfter Modelle (Model InLines)
-    * Konfiguration Übersichtsseite (List-Display)
-- Nutzerverwaltung
-- Dokumentation
-
-Alle Beispiele liegen im Repo zum Vortrag:
-https://gitlab.com/a_ba/lpug-django-xmas-admin
 
 Wir treffen uns online:
 ([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet).
@@ -44,10 +34,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-14.12.2021 | Django-Admin  | Andreas Bamberger
-11.01.2022 | TBD |
+11.01.2022 | Mesa-GUI  | Gefan Qian
 08.02.2022 | TBD |
 08.03.2022 | TBD |
+12.04.2022 | TBD |
 
 
 
