@@ -7,7 +7,7 @@ Wir treffen uns online:
 Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
 # 11. Januar 2022, 19:00 Uhr
-# Mesa-GUI - Eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
+# Metadaten-GUI - Eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
 ## Gefan Qian
 
 Der Vortrag stellt ein Programm vor, das anhand einer JSON-Datei eine GUI mit
@@ -18,8 +18,8 @@ Checkbox, Dropdown-Menü, Selectbox oder Kalender.
 Dabei bestimmen die Konfigurationsdaten die Anzahl und Reihenfolge dieser
 GUI-Elemente.
 
-In Zukunft soll das Werkzeug nicht nur Konfigurationsdateien lesen sondern diese
-auch über ein GUI erzeugen können.
+In Zukunft soll ein weiteres Werkzeug Konfigurationsdateien über ein GUI
+erzeugen können.
 Wir wollen diskutieren wie sich das grundsätzlich umsetzen lässt.
 
 
