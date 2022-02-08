@@ -4,6 +4,25 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 11. Januar 2022
+# Metadaten-GUI - Eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
+## Gefan Qian
+
+Der Vortrag stellte ein Programm vor, das anhand einer JSON-Datei eine GUI mit
+den jeweiligen Elementen generiert.
+Diese JSON-Datei ist eine manuell geschriebene Konfigurationsdatei.
+Die TKinter-GUI erzeugt anhand der  Konfigurationsdaten dynamisch Elemente wie
+Checkbox, Dropdown-Menü, Selectbox oder Kalender.
+Dabei bestimmen die Konfigurationsdaten die Anzahl und Reihenfolge dieser
+GUI-Elemente.
+
+In Zukunft soll ein weiteres Werkzeug Konfigurationsdateien über ein GUI
+erzeugen können.
+Wir wollen diskutieren wie sich das grundsätzlich umsetzen lässt.
+
+
+
 # 14. Dezember 2021
 # Django-Admin - Ein mächtiges Werkzeug für Django-Apps und andere Anwendungen
 ## Andreas Bamberger
