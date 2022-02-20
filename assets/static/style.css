@@ -191,3 +191,7 @@ div.page ul {
     padding: 0;
   }
 }
+
+ul:not(.navbar) li {
+  margin-left: 50px;
+}
