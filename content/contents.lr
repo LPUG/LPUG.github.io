@@ -2,24 +2,37 @@ title: Leipzig Python User Group
 ---
 body:
 
-Wir treffen uns online:
+Wir treffen uns vor Ort im  Basislager **und** online:
 ([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet).
 Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
-# 8. Februar 2022, 19:00 Uhr
-# Auswertung PyCamp
-
-Unser [PyCamp](https://barcamps.eu/pycamp-leipzig-2022/) Ende Januar ist
-gelaufen.
-Wir wollen kurz auswerten welche Themen wir dort diskutiert haben.
-Wer das Konzept eines BarCamps nicht kennt kann mehr darüber lernen warum es
-viele Teilnehmer als sehr produktives Format empfinden.
+Die aktuellen Regeln für die Teilnahme veröffentlichen wir ein paar Tage vor dem
+Treffen hier, über unsere Mailing-Liste und über Meetup.
 
 
+# 8. März 2022
+# Metadaten-GUI - Teil 2
+## Gefan Qian
 
-Wir treffen uns online:
-([BBB-Raum](https://b3.python-academy.de/b/mik-3zi-rxv-vyp) ab 18:45 Uhr geöffnet).
-Die Teilnahme sollte mit jedem modernen Browser möglich sein.
+In unserem [Treffen im Januar](archive#Metadaten-GUI) hat Gefan sein Projekt
+über eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
+vorgestellt.
+Es gab Einiges an Feedback mit Änderungsvorschlägen.
+Das sind die wichtigsten Änderungen in der [neuen Version](https://gitlab.gwdg.de/gefan.qian/sidecar_file_generator/-/tree/master/Juwel_restructurized):
+
+* Nutzung von Klassen
+* keine globalen Variablen mehr
+
+Es gibt noch diese offenen Punkte:
+
+* Wie lässt sich Eventhandling bei voneinander separaten, aber dynamisch
+  erstellten Entry-Feldern umsetzen?
+- Wie lassen sich mit `pip install` Textdateien beim installierenden Nutzer
+  in einem bestimmten Verzeichnis ablegen?
+- Wieso ist trotz Benutzung verschachtelter grids das Layout ungleichmäßig?
+
+
+
 
 ----------------
 
@@ -28,10 +41,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-08.02.2022 | Auswertung PyCamp |
-08.03.2022 | TBD |
+08.03.2022 | Metadaten-GUI - Teil 2 |
 12.04.2022 | TBD |
 10.05.2022 | TBD |
+14.06.2022 | TBD |
 
 
 
