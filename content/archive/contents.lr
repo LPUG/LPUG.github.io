@@ -4,9 +4,17 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 8. Februar 2022,
+# Auswertung PyCamp
+
+Unser [PyCamp](https://barcamps.eu/pycamp-leipzig-2022/) Ende Januar ist
+gelaufen.
+Wir haben kurz ausgewertet welche Themen wir dort diskutiert hatten.
+Einige das Konzept eines BarCamps noch nicht und konnten mehr darüber lernen
+warum es viele Teilnehmer als sehr produktives Format empfinden.
 
 # 11. Januar 2022
-# Metadaten-GUI - Eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
+# <a id="Metadaten-GUI"></a>Metadaten-GUI - Eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
 ## Gefan Qian
 
 Der Vortrag stellte ein Programm vor, das anhand einer JSON-Datei eine GUI mit
