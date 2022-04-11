@@ -4,6 +4,28 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 8. März 2022
+# Metadaten-GUI - Teil 2
+## Gefan Qian
+
+In unserem [Treffen im Januar](archive#Metadaten-GUI) hatte Gefan sein Projekt
+über eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
+vorgestellt.
+Es gab Einiges an Feedback mit Änderungsvorschlägen.
+Das sind die wichtigsten Änderungen in der [neuen Version](https://gitlab.gwdg.de/gefan.qian/sidecar_file_generator/-/tree/master/Juwel_restructurized):
+
+* Nutzung von Klassen
+* keine globalen Variablen mehr
+
+Es gab noch diese offenen Punkte:
+
+* Wie lässt sich Eventhandling bei voneinander separaten, aber dynamisch
+  erstellten Entry-Feldern umsetzen?
+- Wie lassen sich mit `pip install` Textdateien beim installierenden Nutzer
+  in einem bestimmten Verzeichnis ablegen?
+- Wieso ist trotz Benutzung verschachtelter grids das Layout ungleichmäßig?
+
 # 8. Februar 2022,
 # Auswertung PyCamp
 
