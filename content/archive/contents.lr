@@ -4,6 +4,44 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 10. Mai 2022
+# Pandas-Alternativen
+## Ein Erfahrungsaustausch
+
+Die Bibliothek [pandas](https://pandas.pydata.org/) ist in der Datenanalyse weit
+verbreitet.
+Es gibt eine Reihe von Bibliotheken, die sich an die Funktionsweise, also die
+API von pandas anlehnen und eine Alternative darstellen können.
+Weiterhin gibt es Systeme mit pandas-artiger Schnittstelle,
+die damit im Idealfall den Einarbeitungsaufwand auf Null minimieren.
+Wir haben uns einige dieser Systeme wie:
+
+* [Dask](https://pandas.pydata.org/) - parallele und verteile Ausführung von
+   beliebigen Python-Programmen mit leichter Anwendung auf pandas
+* [PandaPy](https://github.com/firmai/pandapy) - pandas-Alternative basierend
+   auf dem "structured NumPy datatype", schneller für kleinere DataFrames
+* [xarray](https://docs.xarray.dev/en/stable/index.html) -
+  "pandas für mehr dimensionale Daten"
+* [Modin](https://modin.readthedocs.io/en/stable/index.html) - parallele
+   Ausführung von pandas-Code, nutzt Dask oder andere Systeme
+* [Datatable](https://github.com/h2oai/datatable) - pandas-ähnlich für
+   parallele Datenverarbeitung mit "out-of-memory datasets"
+* [Polars](https://github.com/pola-rs/polars) - schnelle, in Rust implementierte
+   DataFrame-Bibliothek basierend auf dem
+   [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html)
+* [Vaex](https://github.com/vaexio/vaex) performance-orientierte pandas-artige
+   Bibliothek mit memory mapping und lazy computations
+* [Pyspark](https://spark.apache.org/docs/latest/api/python/index.html#) -
+   Python-Schnittstelle zu Apache mit pandas-artiger API
+* [Koalas](https://github.com/databricks/koalas) - pandas-API für Apache Spark
+* [cuDF](https://github.com/rapidsai/cudf) - GPU DataFrames basierend auf dem
+  [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html)
+* viele weitere ...
+
+kurz angesehen und uns über unsere Erfahrungen zu Vor- und Nachteile dieser
+Systeme ausgetauscht.
+
+
 # 12. April 2022
 # Offene Diskussionsrunde
 
