@@ -16,7 +16,7 @@ PyScript läuft im Browser und kann Javascript vollständig ersetzen.
 Es basiert auf [Pyodide](https://pyodide.org/en/stable/),
 das CPython auf WebAssembly/Emscripten laufen lässt.
 Auf der [PyScript Seite](https://pyscript.net/examples/) gibt es es gibt ein paar schöne Beispiele.
-Wir wollen uns da näher ansehen.
+Wir wollen uns diese näher ansehen.
 
 ----------------
 
