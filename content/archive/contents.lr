@@ -4,6 +4,18 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 14. Juni 2022
+# Python im Browser
+## PyScript & Co. - Python im Browser
+
+Eine Keynote der PyCon US hat [PyScript](https://pyscript.net/) vorgestellt.
+PyScript läuft im Browser und kann Javascript vollständig ersetzen.
+Es basiert auf [Pyodide](https://pyodide.org/en/stable/),
+das CPython auf WebAssembly/Emscripten laufen lässt.
+Auf der [PyScript Seite](https://pyscript.net/examples/) gibt es es gibt ein paar schöne Beispiele.
+Wir haben uns diese näher ansehen.
+
 # 10. Mai 2022
 # Pandas-Alternativen
 ## Ein Erfahrungsaustausch
