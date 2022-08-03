@@ -1,2 +1,2 @@
-Lektor==3.3.3
+Lektor==3.3.6
 click<8.0
