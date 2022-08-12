@@ -4,6 +4,26 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 9. August 2022
+# Digitale Probanden-Einwilligung mit Django
+## Gefan Qian
+
+Der Vortrag hat den aktuellen Stand einer Django-Anwendung vorgestellt, die
+Daten von Probanden verarbeitet.
+Im ersten Schritt müssen die Probanden der Verarbeitung ihrer Daten einwilligen.
+Die Texte der Probanden-Einwilligung stellt die Anwendung dynamisch aus
+individualisierten Textbausteinen zusammen.
+Der Proband kann dieser Einwilligung in Form einer Unterschrift per Maus
+zustimmen.
+Danach erzeugt die Anwendung die unterschriebene Aufklärung im PDF-Format
+und zeigt diese im Bowser an.
+
+Wir haben gemeinsam am Code gearbeitet.
+Dabei konnten wir einen URL-Endpunkt entfernen und die Funktionalität durch
+einen existierenden Template-Filter ersetzen.
+Damit hat sich Anzahl der Code-Zeilen beträchtlich reduziert und die
+Anwendung ist einfacher geworden.
+
 # 12. Juli 2022
 # Diskussionsrunde
 
