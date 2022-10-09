@@ -2,27 +2,45 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 13. September 2022
-# Cross-kompilieren für CPU und GPU mit Numba, oder: Python für Haskell-Liebhaber
-## Sebastian Ernst
+# 11. Oktober 2022
+# Modernes Matplotlib
+## Mike Müller
 
-Wir treffen uns vor Ort im Basislager  **und** online:
+[Matplotlib](https://matplotlib.org/) ist die wahrscheinlich die meist genutzte
+Plotting-Bibliothek in Python.
+Matplotlib unterstützt viele verschiedene Plots und biete ein große Palette
+von Konfigurationsmöglichkeiten.
+Die erste Version ist 2003 erschienen.
+Nach fast 20 Jahren Entwicklungszeit haben sich aber auch viele Konzepte
+überlebt.
+Deshalb hat Matplotlib teilweise den Ruf "altbacken" und umständlich
+nutzbar zu sein.
+Das muss aber nicht sein.
+Matplotlib kann durchaus mit anderen, neueren Plot-Bibliotheken mithalten.
+Der Vortrag
+[Effectively using matplotlib](https://pretalx.com/euroscipy-2022/talk/UCDNLV/)
+auf der EuroSciPy 2022 gab dazu einen guten Überblick.
+Aufbauend darauf schauen wir uns an wie modernes Matplotlib funktioniert.
+Wer Matplotlib noch nicht kennt, kann die grundlegende Merkmale kennenlernen.
+Wer Matplotlib schont nutzt kann sicher auch ein paar neue Tricks mitnehmen,
+die die Arbeit mit dieser Bibliothek erleichtern und näher an die Workflows
+anderer Bibliotheken bringen.
+
+
+Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/b/mik-lca-mko-wr7) ab 18:45 Uhr geöffnet).
 Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
-Das Python-Paket [numba](http://numba.pydata.org/) bietet einen
-Just-in-Time-Compiler für (C)Python über verschiedene APIs für
-verschiedene Programmierparadigma an.
-Besonders interessant für mich waren dabei
-[vectorize](https://numba.readthedocs.io/en/stable/user/vectorize.html#the-vectorize-decorator)
-und
-[guvectorize](https://numba.readthedocs.io/en/stable/user/vectorize.html#the-guvectorize-decorator),
-welche in der Lage sind, "numpy-ufuncs" bzw. so genannte "generalisierte
-ufuncs" zu bauen.
-Beide Funktionen erlauben das Compilieren ein und des selben Python-Codes für
-verschiedene Targets, u.a. (x86) CPUs und (Nvidia) GPUs.
-Was es dabei alles so zu entdecken gibt und in welche tiefen Löcher man dabei
-so fallen kann, dabei geht es bei diesem kleinen Vortrag.
+
+# 8. November 2022
+# Gradual Typing in Python
+## Martin Czygan
+
+Being a dynamic language first, Python approaches type safety in a
+different, gradual way. In this talk, we want to look at the broad
+picture of typing in Python, its history and a bit of theory behind
+the implementation as well. We'll also see how typing can improve code
+quality.
 
 
 ----------------
@@ -32,10 +50,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-13.09.2022 | Cross-kompilieren für CPU und GPU mit Numba, oder: Python für Haskell-Liebhaber | Sebastian Ernst
-11.10.2022 | TBD |
-08.11.2022 | TBD |
+11.10.2022 | Modernes Matplotlib | Mike Müller
+08.11.2022 | Gradual Typing in Python | Martin Czygan
 13.12.2022 | TBD |
+10.01.2023 | TBD |
 
 
 
