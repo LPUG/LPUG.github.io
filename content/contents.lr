@@ -2,36 +2,6 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 11. Oktober 2022
-# Modernes Matplotlib
-## Mike Müller
-
-[Matplotlib](https://matplotlib.org/) ist die wahrscheinlich die meist genutzte
-Plotting-Bibliothek in Python.
-Matplotlib unterstützt viele verschiedene Plots und biete ein große Palette
-von Konfigurationsmöglichkeiten.
-Die erste Version ist 2003 erschienen.
-Nach fast 20 Jahren Entwicklungszeit haben sich aber auch viele Konzepte
-überlebt.
-Deshalb hat Matplotlib teilweise den Ruf "altbacken" und umständlich
-nutzbar zu sein.
-Das muss aber nicht sein.
-Matplotlib kann durchaus mit anderen, neueren Plot-Bibliotheken mithalten.
-Der Vortrag
-[Effectively using matplotlib](https://pretalx.com/euroscipy-2022/talk/UCDNLV/)
-auf der EuroSciPy 2022 gab dazu einen guten Überblick.
-Aufbauend darauf schauen wir uns an wie modernes Matplotlib funktioniert.
-Wer Matplotlib noch nicht kennt, kann die grundlegende Merkmale kennenlernen.
-Wer Matplotlib schont nutzt kann sicher auch ein paar neue Tricks mitnehmen,
-die die Arbeit mit dieser Bibliothek erleichtern und näher an die Workflows
-anderer Bibliotheken bringen.
-
-
-Wir treffen uns vor Ort im Basislager **und** online:
-([BBB-Raum](https://bbb.python-academy.de/b/mik-lca-mko-wr7) ab 18:45 Uhr geöffnet).
-Die Teilnahme sollte mit jedem modernen Browser möglich sein.
-
-
 # 8. November 2022
 # Gradual Typing in Python
 ## Martin Czygan
@@ -42,6 +12,9 @@ picture of typing in Python, its history and a bit of theory behind
 the implementation as well. We'll also see how typing can improve code
 quality.
 
+Wir treffen uns vor Ort im Basislager **und** online:
+([BBB-Raum](https://bbb.python-academy.de/b/mik-lca-mko-wr7) ab 18:45 Uhr geöffnet).
+Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
 ----------------
 
@@ -50,7 +23,6 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.10.2022 | Modernes Matplotlib | Mike Müller
 08.11.2022 | Gradual Typing in Python | Martin Czygan
 13.12.2022 | TBD |
 10.01.2023 | TBD |
