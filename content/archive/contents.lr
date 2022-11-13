@@ -4,6 +4,16 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 8. November 2022
+# Gradual Typing in Python
+## Martin Czygan
+
+Being a dynamic language first, Python approaches type safety in a different,
+gradual way.
+In this talk, we looked at the broad picture of typing in Python,
+its history and a bit of theory behind the implementation as well.
+We'll also saw how typing can improve code quality.
+
 # 11. Oktober 2022
 # Modernes Matplotlib
 ## Mike Müller
@@ -127,7 +137,7 @@ Systeme ausgetauscht.
 # <a id="Metadaten-GUI-2"></a>Metadaten-GUI - Teil 2
 ## Gefan Qian
 
-In unserem [Treffen im Januar](archive#Metadaten-GUI) hatte Gefan sein Projekt
+In unserem [Treffen im Januar](#Metadaten-GUI) hatte Gefan sein Projekt
 über eine dynamisch erzeugte Nutzeroberfläche für Konfigurationsdaten
 vorgestellt.
 Es gab Einiges an Feedback mit Änderungsvorschlägen.
@@ -398,6 +408,7 @@ Ich möchte euch etwas über die Sprache erzählen, unter anderem über besonder
 
 # 14.07.2020
 # Hardware mit Python ansteuern
+# <a id="Hardware-mit-Python-ansteuern"></a> Hardware mit Python ansteuern
 ## Andre Bunk
 
 Andre stellte sein Projekt vor.
