@@ -4,6 +4,24 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 13. Dezember 2022
+# Viele Messwerte mit Python sinnvoll darstellen
+## Andre Bunk
+
+In unserem
+[Treffen im Juli 2020](#Hardware-mit-Python-ansteuern)
+hatte Andre seine Temperatur-Messung mit einem Odroid-Kleincomputer
+vorgestellt.
+In den vergangen fast 3 Jahren sind über 1 Million Messwert angefallen.
+Die Software mit Sqlite, pandas, SciPy und Dash läuft zuverlässig.
+Allerdings wird die Darstellung bedingt durch die vielen Werte immer
+unübersichtlicher.
+Wir haben uns ansehen welche Möglichkeiten es gibt trotz der vielen Werte
+die Darstellung übersichtlich und informativ zu gestalten.
+Als Lösung bietet sich die Berechnung von stündlichen Mittelwerten sowie
+die Gruppierung nach Stunden an.
+Das Werkzeug der Wahl dafür ist sicherlich pandas, dass schon im Einsatz ist.
+
 # 8. November 2022
 # Gradual Typing in Python
 ## Martin Czygan
