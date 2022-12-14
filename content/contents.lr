@@ -2,20 +2,12 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 13. Dezember 2022
-# Viele Messwerte mit Python sinnvoll darstellen
-## Andre Bunk
+# 10. Januar 2023
+# Thema noch offen
 
-In unserem
-[Treffen im Juli 2020](archive#Hardware-mit-Python-ansteuern)
-hatte Andre seine Temperatur-Messung mit einem Odroid-Kleincomputer
-vorgestellt.
-In den vergangen fast 3 Jahren sind über 1 Million Messwert angefallen.
-Die Software mit Sqlite, pandas, SciPy und Dash läuft zuverlässig.
-Allerdings wird die Darstellung bedingt durch die vielen Werte immer
-unübersichtlicher.
-Wir wollen uns ansehen welche Möglichkeiten es gibt trotz der vielen Werte
-die Darstellung übersichtlich und informativ zu gestalten.
+Bitte Themenvorschläge über die
+[Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
+einreichen.
 
 
 Wir treffen uns vor Ort im Basislager **und** online:
@@ -29,20 +21,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-13.12.2022 | Viele Messwerte mit Python sinnvoll darstellen | Andre Bunk
 10.01.2023 | TBD |
 14.02.2023 | TBD |
+14.03.2023 | TBD |
 
-# 14.03.2023 | TBD |
-# 12.04.2023 | TBD |
-# 09.05.2023 | TBD |
-# 13.06.2023 | TBD |
-# 11.07.2023 | TBD |
-# 08.08.2023 | TBD |
-# 12.09.2023 | TBD |
-# 10.10.2023 | TBD |
-# 14.11.2023 | TBD |
-# 12.12.2023 | TBD |
+
 
 
 ```python
