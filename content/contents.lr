@@ -3,12 +3,15 @@ title: Leipzig Python User Group
 body:
 
 # 10. Januar 2023
-# Thema noch offen
+# Python 3.11 - Bis zu 60 % schneller
 
-Bitte Themenvorschläge über die
-[Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
-einreichen.
-
+Seit ein paar Monaten ist 3.11 verfügbar.
+Wir wollen uns ansehen was es Neues gibt.
+Das Projekt [Faster CPython](https://docs.python.org/3/whatsnew/3.11.html#whatsnew311-faster-cpython)
+hat Python 3.11 signifikant schneller gemacht.
+Wir wollen uns ansehen was das bedeutet.
+Auch andere Feature wie verbesserte Ausnahmen und mehr Möglichkeiten beimTyping
+sind interessant.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/b/mik-lca-mko-wr7) ab 18:45 Uhr geöffnet).
@@ -25,6 +28,9 @@ Datum      | Thema                                                          | Vo
 14.02.2023 | TBD |
 14.03.2023 | TBD |
 
+Bitte Themenvorschläge über die
+[Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
+einreichen.
 
 
 
