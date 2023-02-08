@@ -4,6 +4,18 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 10. Januar 2023
+# Python 3.11 - Bis zu 60 % schneller
+
+Seit ein paar Monaten ist 3.11 verfügbar.
+Wir haben uns ansehen was es Neues gibt.
+Das Projekt [Faster CPython](https://docs.python.org/3/whatsnew/3.11.html#whatsnew311-faster-cpython)
+hat Python 3.11 signifikant schneller gemacht.
+Wir haben uns ansehen was das bedeutet.
+Auch andere Feature wie verbesserte Ausnahmen und mehr Möglichkeiten beim
+Typing sind interessant.
+
+
 # 13. Dezember 2022
 # Viele Messwerte mit Python sinnvoll darstellen
 ## Andre Bunk
