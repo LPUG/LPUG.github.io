@@ -25,7 +25,7 @@ def make_dates(year):
     return [second_tuesday(year, month) for month in range(1, 13)]
 
 
-def show_date_table(year, comment_out=True):
+def show_date_table(year, comment_out=False):
     """Print out a table with all second Tuesdays of `year`.
 
     `comment_out` commennts out all lines with `#` so it does not show
