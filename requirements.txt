@@ -1,2 +1,3 @@
 Lektor==3.3.3
 click<8.0
+pytz
