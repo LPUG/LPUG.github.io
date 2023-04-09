@@ -4,12 +4,13 @@ body:
 
 # 11. April 2023
 # Wie entsteht eine Python-Konferenz?
+## Benjamin Schott
 
 Wie kommt eigentlich die PyCon DE oder die EuroSciPy zustande?
 Wer organisiert diese Konferenzen?
-Zwei an der Organisation von Python-Konferenzen Beteiligte berichten wie diese
-ehrenamtlich durchgeführten Veranstaltungen erfolgreich sein können.
-
+Aus der Sicht eines an der Organisation einer Python-Konferenz beteiligten
+zeige ich wie diese ehrenamtlich durchgeführten Veranstaltungen erfolgreich
+sein können.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/b/mik-lca-mko-wr7) ab 18:45 Uhr geöffnet).
@@ -22,7 +23,7 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.04.2023 | Wie entsteht eine Python-Konferenz? |
+11.04.2023 | Wie entsteht eine Python-Konferenz? | Benjamin Schott
 09.05.2023 | TBD |
 13.06.2023 | TBD |
 09.07.2024 | TBD |
