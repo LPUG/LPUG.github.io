@@ -2,15 +2,30 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 11. April 2023
-# Wie entsteht eine Python-Konferenz?
-## Benjamin Schott
+# 9. Mai 2023
+# Thema noch offen
 
-Wie kommt eigentlich die PyCon DE oder die EuroSciPy zustande?
-Wer organisiert diese Konferenzen?
-Aus der Sicht eines an der Organisation einer Python-Konferenz beteiligten
-zeige ich wie diese ehrenamtlich durchgeführten Veranstaltungen erfolgreich
-sein können.
+Das Thema für unsere nächstes Treffen steht noch nicht fest.
+Bitte auf unserer
+[Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
+melden wenn jemand eine Idee hat.
+
+# 13. Juni 2023
+# Paketierung und Distribution für Python-Nutzer
+## Jannis Leidel
+
+Wie hat sich das Python Package Management in den letzten 15 Jahre entwickelt?
+Wie könnte es in den kommenden Jahren weitergehen und welche Themen sind im
+Moment besonders im Entwicklungsfokus?
+Ich werde einige Bespiele aus den den PyPA und conda Communitys zeigen und
+Euren Fragen Rede und Antwort stehen.
+
+## Der Vortragende
+
+Jannis Leidel ist der derzeitigen Lead-`conda`-Entwickler.
+Er hat maßgeblich an `pip` mitgearbeitet und ist ein Mitgründer der
+[Python Packaging Authority (PyPA)](https://www.pypa.io/en/latest/).
+
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/b/mik-lca-mko-wr7) ab 18:45 Uhr geöffnet).
@@ -23,10 +38,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.04.2023 | Wie entsteht eine Python-Konferenz? | Benjamin Schott
 09.05.2023 | TBD |
-13.06.2023 | TBD |
-09.07.2024 | TBD |
+13.06.2023 | Paketierung und Distribution für Python-Nutzer | Jannis Leidel
+11.07.2023 | TBD |
+15.08.2023 | TBD |
+
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
