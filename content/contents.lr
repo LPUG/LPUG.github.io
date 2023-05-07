@@ -17,10 +17,10 @@ So ist Rust seit Version 6.1 des Linux Kernel eine offizielle
 Programmiersprache für Linux.
 
 Auch für Python-Nutzer is Rust relevant.
-Das sind ein paar Beispiel für Python-Werkzeuge, die in Rust implementiert
+Das sind ein paar Beispiele für Python-Werkzeuge, die in Rust implementiert
 sind:
 
-* der sehr schnelle Linter [ruff](https://github.com/charliermarsh/ruff)
+* der sehr schnelle Python-Linter [ruff](https://github.com/charliermarsh/ruff)
 * das neue Python-Installations- und Management-Tool
   [rye](https://github.com/mitsuhiko/rye)
 * der "Conda-Ersatz" [rattler](https://github.com/wolfv/rattler)
