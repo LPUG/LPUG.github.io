@@ -53,7 +53,7 @@ In seiner Vorstellung von Rust hat er diese Links empfohlen:
 * [Rust playground](https://play.rust-lang.org/)
 * [Rustlings (Übungsaufgaben)](https://github.com/rust-lang/rustlings)
 * [Paket-Index (entspricht etwa PyPI)](https://crates.io/)
-   oder [hier](https://lib.rs/]
+   oder [hier](https://lib.rs/)
 * [Ausgewählte/empfohlene Pakete](https://blessed.rs/crates)
 * [Rust REPL](https://crates.io/crates/evcxr_repl)
 * [Jupyter-Integration](https://crates.io/crates/irust_repl)
