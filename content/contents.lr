@@ -2,44 +2,6 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 9. Mai 2023
-# Python und Rust
-## Eine Diskussionsrunde
-
-Die Programmiersprache [Rust](https://www.rust-lang.org/) ist noch relativ
-jung.
-Sie wurde im Jahr 2010 veröffentlicht und die erste stabile Version erschien
-2015.
-Verglichen mit dem mehr als 30 Jahre altem "erwachsenem" Python ist Rust also
-noch ein "Kind". 😉
-Trotzdem gibt es schon viele Projekte, die Rust nutzen.
-So ist Rust seit Version 6.1 des Linux Kernel eine offizielle
-Programmiersprache für Linux.
-
-Auch für Python-Nutzer is Rust relevant.
-Das sind ein paar Beispiele für Python-Werkzeuge, die in Rust implementiert
-sind:
-
-* der sehr schnelle Python-Linter [ruff](https://github.com/charliermarsh/ruff)
-* das neue Python-Installations- und Management-Tool
-  [rye](https://github.com/mitsuhiko/rye)
-* der "Conda-Ersatz" [rattler](https://github.com/wolfv/rattler)
-* die Bibliothek [Py03](https://github.com/PyO3/pyo3) zum Erstellen von
-  Python-Erweiterungen in Rust und zum Einbetten von Python in Rust-Programme
-* das Paketier-Werkzeug [PyOxidizer](https://github.com/indygreg/PyOxidizer)
-  zum Erstellen einer binären Datei, die ein Python-Programm enthält
-
-Wir wollen diskutieren welche Auswirkungen Rust auf Python und dessen Nutzung
-hat.
-Interessante Fragen für unsere Diskussion sind:
-
-* Wer hat Erfahrung mit auf Rust basierenden Werkzeugen für Python?
-* Wer hat mit Rust programmiert oder erwägt sich mit Rust zu befassen?
-* Wie ist das Aufwand-Nutzen-Verhältnis von Rust im Vergleich mit anderen
-  Sprachen wie C oder C++, die aus Python-Sicht häufig ähnliche Anwendungsfälle
-  abdecken?
-
-
 # 13. Juni 2023
 # Paketierung und Distribution für Python-Nutzer
 ## Jannis Leidel
@@ -68,10 +30,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.05.2023 | Python und Rust | Diskussion
 13.06.2023 | Paketierung und Distribution für Python-Nutzer | Jannis Leidel
 11.07.2023 | TBD |
 15.08.2023 | TBD |
+12.09.2023 | TBD |
 
 
 Bitte Themenvorschläge über die
