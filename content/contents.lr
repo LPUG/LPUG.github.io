@@ -9,21 +9,7 @@ Bitte meldet euch an.
 Die Teilnahme ist kostenlos aber sicher nicht umsonst.
 
 
-# 11. Juli 2023
-# Paketierung und Distribution für Python-Nutzer
-## Jannis Leidel
-
-Wie hat sich das Python Package Management in den letzten 15 Jahre entwickelt?
-Wie könnte es in den kommenden Jahren weitergehen und welche Themen sind im
-Moment besonders im Entwicklungsfokus?
-Ich werde einige Bespiele aus den den PyPA und conda Communitys zeigen und
-Euren Fragen Rede und Antwort stehen.
-
-## Der Vortragende
-
-Jannis Leidel ist der derzeitige Lead-`conda`-Entwickler.
-Er hat maßgeblich an `pip` mitgearbeitet und ist ein Mitgründer der
-[Python Packaging Authority (PyPA)](https://www.pypa.io/en/latest/).
+# Nächstes Treffen am 15. August 2023.
 
 
 Wir treffen uns vor Ort im Basislager **und** online:
@@ -37,10 +23,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.07.2023 | Paketierung und Distribution für Python-Nutzer | Jannis Leidel
 15.08.2023 | TBD |
 12.09.2023 | TBD |
 10.10.2023 | TBD |
+14.11.2023 | TBD |
 
 
 Bitte Themenvorschläge über die
