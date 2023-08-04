@@ -13,11 +13,11 @@ def second_tuesday(year, month):
     seen = 0
     day = datetime.timedelta(days=1)
     while True:
-        date += day
         if date.weekday() == 1:
             seen += 1
         if seen == 2:
             return date
+        date += day
 
 
 def make_dates(year):
