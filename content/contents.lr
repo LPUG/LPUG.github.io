@@ -3,19 +3,15 @@ title: Leipzig Python User Group
 body:
 
 
+# 12. September 2023
+# Datenbankzugriff mit Python
 
-
-# 8. August 2023
-# Bericht vom PyCamp
-
-Unser
-[Python BarCamp](https://barcamps.eu/python-barcamp-der-leipzig-python-user-group-2023/)
-fand am 29. und 30. Juli 2023 im Basislager in Leipzig statt.
-Es war ein voller Erfolg.
-Ein paar von uns waren dabei.
-Wir geben einen kurzen Überblick über den Ablauf und die Themen.
-Wer nicht teilnehmen konnte bekommt damit eine Zusammenfassung.
-Das motiviert vielleicht beim nächsten Mal dabei zu sein.
+Die Arbeit mit relationalen Datenbanken ist eine typische Aufgabe beim
+Programmieren. Wir wollen uns darüber austauschen wie sich diese Aufgabe mit
+Python umsetzten lässt. Zu den Fragen die wir beantworten wollen gehören zum
+Beispiel: Welche Bibliotheken sind dafür geeignet? Wie viel SQL muss man
+beherrschen, um sinnvoll mit Datenbanken in Python zu arbeiten? Reicht SQLite
+für meine Bedürfnisse?
 
 
 Wir treffen uns vor Ort im Basislager **und** online:
@@ -29,10 +25,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-08.08.2023 | Bericht vom PyCamp |
-12.09.2023 | TBD |
+12.09.2023 | Datenbankzugriff mit Python |
 10.10.2023 | TBD |
 14.11.2023 | TBD |
+12.12.2023 | TBD |
 
 
 Bitte Themenvorschläge über die
