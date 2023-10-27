@@ -4,6 +4,21 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 10. Oktober 2023
+# Python 3.12
+
+Pünktlich zum 2. Oktober ist Python 3.12 erschienen.
+Wir haben uns ansehen was die neue Version bringt.
+Python ist wieder etwas schneller geworden.
+Die so beliebten `f`-Strings sind noch anwenderfreundlicher geworden.
+Beliebig tiefe Verschachtlungen und mehrzeilige Ausdrücke können recht nützlich
+sein.
+Das Aufräumen geht auch weiter. Einige Uralt-Module sind verschwunden oder
+werden explizit als bald nicht mehr unterstützt gekennzeichnet.
+Viele weitere, kleine Verbesserungen können hier und da hilfreich sein.
+Lohnt sich ein schneller Umstieg?
+Wir haben versucht diese Frage in unserem Treffen zu beantworten.
+
 # 12. September 2023
 # Datenbankzugriff mit Python
 
