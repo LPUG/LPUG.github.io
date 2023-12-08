@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
 }
 
@@ -24,15 +24,15 @@ h1.title {
 }
 
 h2 {
-  font-size: 2.2em;
+  font-size: 1.5em;
 }
 
 h3 {
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 
 .base-font-size {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 blockquote {
