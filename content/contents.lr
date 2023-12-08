@@ -3,16 +3,47 @@ title: Leipzig Python User Group
 body:
 
 
-# 14. November 2023
-# Plone - Content Management mit Python
-## Manuel Reinhardt
+# 12. Dezember 2023
+# Konstanten mit `Enum` thematisch zusammenfassen
+## Mike Müller
 
-Plone ist ein Open Source Content Management System (CMS),
-das in Python geschrieben ist.
-Es wirbt mit Stabilität, Sicherheit und Erweiterbarkeit.
-Ich selbst arbeite seit bald 15 Jahren überwiegend mit Plone und gebe einen
-kleinen Einblick, was Plone kann und für wen es geeignet ist.
-Ich zeige die wichtigsten Features und umreiße die Entwicklung von Add-Ons.
+Die Standardbibliothek bietet viele Module für unterschiedlichste Aufgaben.
+Ein interessantes Modul ist `enum`, das unter anderem die Klasse `Enum`
+enthält.
+Mit `Enum` lassen sich thematisch zusammengehörige Konstanten zusammenfassen
+und organisieren.
+Oft haben diese Konstanten eine inhaltlich begründet Reihenfolge.
+Typische Beispiele sind die Wochentage von Montag bis Sonntag, die Monate eines
+Jahres, die HTTP-Status-Codes wie 200 für OK, 404 für NOT_FOUND und 500 für
+SERVER_ERROR oder die Himmelsrichtungen wie Nord, Süd, Ost und West.
+
+Wir wollen uns ein paar Anwendungsbeispiel anschauen.
+Dabei wollen wir Fragen wie:
+
+* Welche Vorteile bietet die Nutzung von `Enum`?
+* Welche Varianten gibt es und für welche Zwecke eignen sich diese?
+* Was sind potentielle Fehlerquellen und wie lassen sich diese vermeiden?
+
+beantworten.
+
+## Unser Stand auf den Chemnitzer Linux-Tagen
+
+Der
+[Call for Presentations der Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/2024/de)
+ist raus.
+Wir hatten in den letzten Jahren immer einer Stand.
+Auch 2024 sollten wir wieder dabei sein.
+Der Anmeldeschluss ist der 08.01.2024.
+Da dieses Datum vor unserem nächsten Treffen ist,
+müssen wir in diesem Treffen über unsere Teilnahme entscheiden.
+Für Standbetreuer ist die Teilnahme kostenlos.
+Außerdem gibt es eine durchgehen Pausenversorgung mit Speisen und Getränken
+sowie die Möglichkeit der Teilnahme an der Samstagsabendveranstaltung der ORGA
+mit Kulturprogramm und umfangreichen Buffet.
+Der Betreuungsaufwand ist übersichtlich.
+Wir müssen den Stand nur mit mindestens einer Person durchgängig besetzten.
+Je mehr Betreuer wir haben, desto weniger Zeit am Stand pro Person ist nötig.
+Es gibt also durchaus Gelegenheit sich einige Vorträge anzusehen.
 
 
 Wir treffen uns vor Ort im Basislager **und** online:
@@ -26,10 +57,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-14.11.2023 | Plone - Content Management mit Python | Manuel Reinhardt
-12.12.2023 | TBD |
+12.12.2023 | Konstanten mit `Enum` thematisch zusammenfassen | Mike Müller
 09.01.2024 | TBD |
 13.02.2024 | TBD |
+12.03.2024 | TBD |
 
 
 Bitte Themenvorschläge über die
