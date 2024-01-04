@@ -4,6 +4,48 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 12. Dezember 2023
+# Konstanten mit `Enum` thematisch zusammenfassen
+## Mike Müller
+
+Die Standardbibliothek bietet viele Module für unterschiedlichste Aufgaben.
+Ein interessantes Modul ist `enum`, das unter anderem die Klasse `Enum`
+enthält.
+Mit `Enum` lassen sich thematisch zusammengehörige Konstanten zusammenfassen
+und organisieren.
+Oft haben diese Konstanten eine inhaltlich begründet Reihenfolge.
+Typische Beispiele sind die Wochentage von Montag bis Sonntag, die Monate eines
+Jahres, die HTTP-Status-Codes wie 200 für OK, 404 für NOT_FOUND und 500 für
+SERVER_ERROR oder die Himmelsrichtungen wie Nord, Süd, Ost und West.
+
+Wir haben uns ein paar Anwendungsbeispiel angeschaut.
+Dabei haben wir Fragen wie:
+
+* Welche Vorteile bietet die Nutzung von `Enum`?
+* Welche Varianten gibt es und für welche Zwecke eignen sich diese?
+* Was sind potentielle Fehlerquellen und wie lassen sich diese vermeiden?
+
+beantwortet.
+
+## Unser Stand auf den Chemnitzer Linux-Tagen
+
+Der
+[Call for Presentations der Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/2024/de)
+ist raus.
+Wir hatten in den letzten Jahren immer einer Stand.
+Auch 2024 sollten wir wieder dabei sein.
+Der Anmeldeschluss ist der 08.01.2024.
+Da dieses Datum vor unserem nächsten Treffen ist,
+haben wir in diesem Treffen entschieden wieder teilzunehmen.
+Für Standbetreuer ist die Teilnahme kostenlos.
+Außerdem gibt es eine durchgehende Pausenversorgung mit Speisen und Getränken
+sowie die Möglichkeit der Teilnahme an der Samstagsabendveranstaltung der ORGA
+mit Kulturprogramm und umfangreichen Buffet.
+Der Betreuungsaufwand ist übersichtlich.
+Wir müssen den Stand nur mit mindestens einer Person durchgängig besetzten.
+Je mehr Betreuer wir haben, desto weniger Zeit am Stand pro Person ist nötig.
+Es gibt also durchaus Gelegenheit sich einige Vorträge anzusehen.
+
 # 14. November 2023
 # Plone - Content Management mit Python
 ## Manuel Reinhardt
