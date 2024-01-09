@@ -3,6 +3,34 @@ title: Leipzig Python User Group
 body:
 
 # 9. Januar 2024
+# Heizkörper mit Python fernsteuern
+## Andre Bunk
+
+Vergessen die Heizung abzudrehen?
+Mit einem kleinen Python-Programm geht das auch remote.
+Der Vortrag stellt eine Lösung dafür vor.
+Ein auf Flask basierter Webserver, der auf einem Odroid läuft stellt,
+über FritzConnection eine Verbindung zu einem AVM Router her.
+Dort legt dieser die Heizungssteuerdaten ab,
+die die Fritzbox über DECT an den AVM-Thermostat überträgt.
+
+
+Am Dienstag, dem 02.01.2024 um 20:20 +0100 schrieb Mike Müller:
+> Hallo Andre,
+>
+> Am 02.01.24 um 19:18 schrieb andre:
+>> Hallo Mike,
+>> ein gesundes neues Jahr 2024.
+>
+> Das wünsche ich dir auch.
+>
+>> als Thema für den nächsten User Group,
+>> wäre:
+>> mit Flask über FritzConnection eine Heizungtermostat zu bewegen,
+>> oder?
+>> ich will ja nicht gleich regeln sagen.
+
+# 12. März 2024
 # System- und Integrationstests von Telematikgeräten mit Hilfe von pytest
 ## René Liebscher
 
@@ -29,9 +57,9 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.01.2024 | System- und Integrationstests von Telematikgeräten mit Hilfe von pytest|  René Liebscher
+09.01.2024 | Heizkörper mit Python fernsteuern | Andre Bunk
 13.02.2024 | TBD |
-12.03.2024 | TBD |
+12.03.2024 | System- und Integrationstests von Telematikgeräten mit Hilfe von pytest | René Liebscher
 09.04.2024 | TBD |
 
 
