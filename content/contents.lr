@@ -15,21 +15,6 @@ Dort legt dieser die Heizungssteuerdaten ab,
 die die Fritzbox über DECT an den AVM-Thermostat überträgt.
 
 
-Am Dienstag, dem 02.01.2024 um 20:20 +0100 schrieb Mike Müller:
-> Hallo Andre,
->
-> Am 02.01.24 um 19:18 schrieb andre:
->> Hallo Mike,
->> ein gesundes neues Jahr 2024.
->
-> Das wünsche ich dir auch.
->
->> als Thema für den nächsten User Group,
->> wäre:
->> mit Flask über FritzConnection eine Heizungtermostat zu bewegen,
->> oder?
->> ich will ja nicht gleich regeln sagen.
-
 # 12. März 2024
 # System- und Integrationstests von Telematikgeräten mit Hilfe von pytest
 ## René Liebscher
