@@ -7,7 +7,7 @@ body:
 
 [Textual](https://textual.textualize.io/) macht es leicht GUI-Programme im
 Terminal umzusetzen.
-Die Programmierung ähnelt der von Anwendungen mit anderer GUI-Toolkits wie Qt
+Die Programmierung ähnelt der von Anwendungen mit anderen GUI-Toolkits wie Qt
 for Python oder Tkinter.
 Wir wollen uns ansehen wie Textual funktioniert und welche Anwendungen sich
 damit gut umsetzten lassen.
