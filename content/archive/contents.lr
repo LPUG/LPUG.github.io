@@ -4,6 +4,18 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 9. Januar 2024
+# Heizkörper mit Python fernsteuern
+## Andre Bunk
+
+Vergessen die Heizung abzudrehen?
+Mit einem kleinen Python-Programm geht das auch remote.
+Der Vortrag eine Lösung dafür vorgestellt.
+Ein auf Flask basierter Webserver, der auf einem Odroid läuft stellt,
+über FritzConnection eine Verbindung zu einem AVM Router her.
+Dort legt dieser die Heizungssteuerdaten ab,
+die die Fritzbox über DECT an den AVM-Thermostat überträgt.
+
 # 12. Dezember 2023
 # Konstanten mit `Enum` thematisch zusammenfassen
 ## Mike Müller
