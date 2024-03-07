@@ -4,6 +4,19 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 13. Februar 2024
+# GUI-Programme im Terminal
+
+[Textual](https://textual.textualize.io/) macht es leicht GUI-Programme im
+Terminal umzusetzen.
+Solche Programme bezeichnet man auch als TUI (text user interface).
+Die Programmierung ähnelt der von Anwendungen mit anderen GUI-Toolkits wie Qt
+for Python oder Tkinter.
+Wir haben uns angesehen wie Textual funktioniert und welche Anwendungen sich
+damit gut umsetzten lassen.
+
+
 # 9. Januar 2024
 # Heizkörper mit Python fernsteuern
 ## Andre Bunk
