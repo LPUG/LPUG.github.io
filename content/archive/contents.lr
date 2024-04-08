@@ -4,6 +4,20 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 12. März 2024
+# System- und Integrationstests von Telematikgeräten mit Hilfe von pytest
+## René Liebscher
+
+Bei Tests mit pytest denkt man meist an Software.
+Aber auch Hardware lässt sich damit testen.
+Dieser Vortrag eine Anwendung dazu vorgestellt.
+
+Das sind die Vortragsinhalte:
+
+* Vorstellung der Geräte und externer Anschlussmöglichkeiten
+* Übersicht Gesamtsystem
+* Testaufbau (HW Ansteuerung)
+* Testautomatisierung (pytest, Jenkins)
 
 # 13. Februar 2024
 # GUI-Programme im Terminal
