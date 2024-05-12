@@ -4,6 +4,27 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 9. April 2024
+# Python als Nutzerschnittstelle für wissenschaftliche Software
+## Mike Müller
+
+Wissenschaftler nutzen oft sehr spezielle Software,
+die von andere Wissenschaftlern entwickelt haben.
+Der Aufwand ein grafische Nutzerschnittstelle (Graphical  User Interface GUI)
+für derartige Anwendungen zur erstellen und dann immer an die häufigen
+Änderungen der Software unverhältnismäßig ist häufig unverhältnismäßig hoch.
+Als Alternative kann eine API (Application Programming Interface) als
+Nutzerschnittstelle dienen.
+
+Der Vortrag hat diesen Ansatz für eine Simulationssoftware für die
+Modellierung der Wasserbeschaffenheit von Bergbaurestseen vorgestellt.
+Die Zielgruppe für diese Software ist sehr klein.
+Gleichzeitig ist die Funktionalität sehr umfangreich,
+um die komplexen fachlichen Problem zu lösen.
+Nach der Vorstellung von typischen Arbeitsabläufen stellte der Vortrag die
+Erfahrungen mit Nutzern vor,
+die wenig oder gar nicht programmieren.
+
 # 12. März 2024
 # System- und Integrationstests von Telematikgeräten mit Hilfe von pytest
 ## René Liebscher
