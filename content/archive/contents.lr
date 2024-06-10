@@ -4,6 +4,14 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 14. Mai 2024
+# Diskussionsrunde
+
+Wir haben  uns zu den aktuellen Entwicklungen im Python-Ökosystem ausgetauscht.
+Die Version 3.13 steht vor der Tür.
+Die Möglichkeit das GIL auszuschalten und der JIT sind sicher zwei Highlights
+dieser Version.
+
 # 9. April 2024
 # Python als Nutzerschnittstelle für wissenschaftliche Software
 ## Mike Müller
