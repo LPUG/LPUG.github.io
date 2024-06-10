@@ -2,14 +2,29 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 14. Mai 2024
-# Diskussionsrunde
+# 11. Juni 2024
+# PyCon US 2024 - Die größte Python-Konferenz
+## Mike Müller
 
-Wir tauschen uns zu den aktuellen Entwicklungen im Python-Ökosystem aus.
-Die Version 3.13 steht vor der Tür.
-Die Möglichkeit das GIL auszuschalten und der JIT sind sicher zwei Highlights
-dieser Version.
+Im Mai 2024 fand die PyCon US in Pittsburgh, PA statt.
+Mike Müller war dabei.
+Er wird seine Eindrücke der PyCn vorstellen.
+Neben einem Überblick über den Ablauf und zu den Inhalten von aus seiner Sicht
+interessanten Vorträgen wird er über das besondere dieser Konferenz berichten.
 
+# 15./16. Juni 2024
+
+Das
+[PyCamp Leipzig](https://barcamps.eu/python-barcamp-der-leipzig-python-user-group-2024)
+ist ein BarCamp zur Programmiersprache Python.
+Ein BarCamp ist eine konferenzähnliche Veranstaltung ohne vorher festgelegtes
+Programm.
+Dies stellen die Teilnehmenden zu Beginn der Veranstaltung selbst zusammen.
+Neben Vorträgen wird es reichlich Zeit für Diskussionen geben.
+Im Gegensatz zu "klassischen" Konferenzen mit im Verhältnis langen Vorträgen
+und kurzen Frage-Antwort-Zeiten steht hier die Interaktion zwischen den
+Teilnehmen im Fokus.
+Es sind noch Plätze frei.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -23,10 +38,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-14.05.2024 | Diskussionsrunde |
-11.06.2024 | TBD |
+11.06.2024 | PyCon US 2024 - Die größte Python-Konferenz |
 09.07.2024 | TBD |
 13.08.2024 | TBD |
+10.09.2024 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
