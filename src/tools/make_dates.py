@@ -26,7 +26,8 @@ def make_dates(year):
 
 
 def show_date_table(year, comment_out=False):
-    """Print out a table with all second Tuesdays of `year`.
+    """
+    Print out a table with all second Tuesdays of `year`.
 
     `comment_out` commennts out all lines with `#` so it does not show
     up in markdown.
@@ -37,7 +38,8 @@ def show_date_table(year, comment_out=False):
 
 
 def main(year=None):
-    """Show table of second Tuesdays for `year`.
+    """
+    Show table of second Tuesdays for `year`.
 
     `year` needs to be supplied via command line if `None`.
     """
