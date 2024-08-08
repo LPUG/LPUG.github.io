@@ -3,14 +3,22 @@ title: Leipzig Python User Group
 body:
 
 
-# 9. Juli 2024
-# Diskussionsrunde
+# 13. August 2024
+# Free-Threaded-Python - Python 3.13 ohne GIL
+## Mike Müller
 
-Wir wollen uns wieder über aktuelle Entwicklungen im Python-Ökosystem
-austauschen.
-Ihr könnt gern neu entdeckte Python-Bibliotheken kurz vorstellen.
-Auch Fragen zu Problemen beim Programmieren mit Python sind stets
-willkommen.
+Python 3.13 bietet eine experimentelle Variante, die kein Global Interpreter
+Lock (GIL) hat.
+Damit können Threads auch CPU-limitierte Programme schneller ausführen.
+
+Der Vortrag erläutert die grundsätzlichen Möglichkeiten der parallelen und
+nebenläufigen Programmierung.
+Nach einem Überblick einiger Werkzeuge die Python für die parallele
+Programmierung bietet,
+zeigt der Vortrag ein Beispiel der Arbeit mit Threads und Prozessen.
+Wir schauen uns die Laufzeit-Unterschiede zwischen Python 3.12 und 3.13 sowie
+der neuen Free-Threaded Version von Python 3.13 an.
+
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -24,10 +32,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.07.2024 | Diskussionsrunde |
 13.08.2024 | TBD |
 10.09.2024 | TBD |
 15.10.2024 | TBD |
+12.11.2024 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
