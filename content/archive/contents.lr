@@ -4,6 +4,22 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 13. August 2024
+# <a id="Free-Threaded-Python"></a> Free-Threaded-Python - Python 3.13 ohne GIL
+## Mike Müller
+
+Python 3.13 bietet eine experimentelle Variante, die kein Global Interpreter
+Lock (GIL) hat.
+Damit können Threads auch CPU-limitierte Programme schneller ausführen.
+
+Der Vortrag erläuterte die grundsätzlichen Möglichkeiten der parallelen und
+nebenläufigen Programmierung.
+Nach einem Überblick einiger Werkzeuge die Python für die parallele
+Programmierung bietet,
+zeigte der Vortrag ein Beispiel der Arbeit mit Threads und Prozessen.
+Wir haben uns die Laufzeit-Unterschiede zwischen Python 3.12 und 3.13 sowie
+der neuen Free-Threaded Version von Python 3.13 angeschaut.
+
 # 9. Juli 2024
 # Diskussionsrunde
 
@@ -752,7 +768,6 @@ Ich möchte euch etwas über die Sprache erzählen, unter anderem über besonder
 
 
 # 14.07.2020
-# Hardware mit Python ansteuern
 # <a id="Hardware-mit-Python-ansteuern"></a> Hardware mit Python ansteuern
 ## Andre Bunk
 
