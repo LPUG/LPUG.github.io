@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-"""Make dates on second Tuesday of the month for full year"""
+"""Make dates on second Tuesday of the month for full year."""
 
 
 import datetime
