@@ -16,7 +16,7 @@ Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 # Python 3.13 - Grundsätzliche Neuerungen
 
 Anfang Oktober diesen Jahres ist Python 3.13 erschienen.
-Es bietet viel[Neues](https://docs.python.org/3/whatsnew/3.13.html), u.a.:
+Es enthält viel [Neues](https://docs.python.org/3/whatsnew/3.13.html), u.a.:
 
 * Der Interpreter bietet wesentlich verbesserte Editier-Möglichkeiten und
   farbige Ausgaben.
