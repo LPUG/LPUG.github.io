@@ -12,19 +12,23 @@ Ein [BarCamp](https://de.wikipedia.org/wiki/Barcamp) ist eine sehr produktive
 Veranstaltung mit vielen Diskussionen und regem Gedankenaustausch.
 Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
-# 8. Oktober 2024
-# Pydantic - Daten effektiv validieren
+# 12. November 2024
+# Python 3.13 - Grundsätzliche Neuerungen
 
-[Pydantic](https://docs.pydantic.dev/latest/) ist die wohl meist verwendete
-Bibliothek zum Validieren von Daten in Python.
-Wir wollen uns anschauen wie Pydantic funktioniert und für welche Anwendungen
-es gut geeignet ist.
-Pydantic ist in Rust implementiert und daher sehr schnell.
-Type hints definieren die  Regeln zum Validieren der Daten und erlauben
-die Anpassung an eigene Bedürfnisse.
-Pydantic kann JSON Schema erzeugen,
-die bei der Integration in andere Systeme helfen können.
+Anfang Oktober diesen Jahres ist Python 3.13 erschienen.
+Es bietet viel[Neues](https://docs.python.org/3/whatsnew/3.13.html), u.a.:
 
+* Der Interpreter bietet wesentlich verbesserte Editier-Möglichkeiten und
+  farbige Ausgaben.
+* Eine experimentelle Python-Version arbeitet ohne Global Interpreter Lock (GIL).
+* Ein optionaler JIT-Compilers öffnet den Weg für Performance-Verbesserungen.
+* Viele alte, lange abgekündigte, Module sind aus der Standard-Bibliothek
+  verschwunden.
+* iOS und Android sind jetzt offiziell unterstützte Plattformen.
+* Zahlreiche Module der Standard-Bibliothek haben neue Funktionalität erhalten.
+
+Wir wollen uns diese Neuerungen anschauen und diskutieren wie sie sich am
+Besten nutzen lassen.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -38,10 +42,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-08.10.2024 | Pydantic - Daten effektiv validieren |
-12.11.2024 | TBD |
+12.11.2024 | Python 3.13 - Grundsätzliche Neuerungen |
 10.12.2024 | TBD |
 14.01.2025 | TBD |
+11.02.2025 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
