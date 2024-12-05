@@ -4,6 +4,25 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 12. November 2024
+# Python 3.13 - Grundsätzliche Neuerungen
+
+Anfang Oktober diesen Jahres ist Python 3.13 erschienen.
+Es enthält viel [Neues](https://docs.python.org/3/whatsnew/3.13.html), u.a.:
+
+* Der Interpreter bietet wesentlich verbesserte Editier-Möglichkeiten und
+  farbige Ausgaben.
+* Eine experimentelle Python-Version arbeitet ohne Global Interpreter Lock (GIL).
+* Ein optionaler JIT-Compilers öffnet den Weg für Performance-Verbesserungen.
+* Viele alte, lange abgekündigte, Module sind aus der Standard-Bibliothek
+  verschwunden.
+* iOS und Android sind jetzt offiziell unterstützte Plattformen.
+* Zahlreiche Module der Standard-Bibliothek haben neue Funktionalität erhalten.
+
+Wir haben uns diese Neuerungen angeschaut und diskutiert wie sie sich am
+Besten nutzen lassen.
+
 # 8. Oktober 2024
 # Pydantic - Daten effektiv validieren
 
