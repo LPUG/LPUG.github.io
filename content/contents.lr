@@ -12,23 +12,25 @@ Ein [BarCamp](https://de.wikipedia.org/wiki/Barcamp) ist eine sehr produktive
 Veranstaltung mit vielen Diskussionen und regem Gedankenaustausch.
 Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
-# 12. November 2024
-# Python 3.13 - Grundsätzliche Neuerungen
+# 10. Dezember 2024
+# Advent of Code mit Python
 
-Anfang Oktober diesen Jahres ist Python 3.13 erschienen.
-Es enthält viel [Neues](https://docs.python.org/3/whatsnew/3.13.html), u.a.:
+Wir wollen uns mit dem [Advent of Code](https://adventofcode.com/) auf
+Weihnachten einstimmen.
+Dabei wollen wir alternative und möglichst *pythonic* Lösungen besprechen.
+Bitte meldet euch schon mal an and beginnt mit der Lösung von ein paar
+Aufgaben.
 
-* Der Interpreter bietet wesentlich verbesserte Editier-Möglichkeiten und
-  farbige Ausgaben.
-* Eine experimentelle Python-Version arbeitet ohne Global Interpreter Lock (GIL).
-* Ein optionaler JIT-Compilers öffnet den Weg für Performance-Verbesserungen.
-* Viele alte, lange abgekündigte, Module sind aus der Standard-Bibliothek
-  verschwunden.
-* iOS und Android sind jetzt offiziell unterstützte Plattformen.
-* Zahlreiche Module der Standard-Bibliothek haben neue Funktionalität erhalten.
+# CLT 2025
 
-Wir wollen uns diese Neuerungen anschauen und diskutieren wie sie sich am
-Besten nutzen lassen.
+Die [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/2025/de)
+finden am 22. und 23. März 2025 statt.
+Wir sind dort regelmäßig mit einem Stand vertreten.
+Das soll auch 2025 so sein.
+Der Anmeldeschluss ist der 8. Januar 2025.
+Das das vor unserem nächsten Treffen ist,
+müssen wir die Organisation jetzt planen.
+
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -42,10 +44,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-12.11.2024 | Python 3.13 - Grundsätzliche Neuerungen |
-10.12.2024 | TBD |
+10.12.2024 | Advent of Code mit Python |
 14.01.2025 | TBD |
 11.02.2025 | TBD |
+11.03.2025 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
