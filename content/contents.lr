@@ -29,7 +29,7 @@ viele Bilder erzeugen und im Folgeschritt mit
 zu einem Video zusammensetzen lassen.
 Da dabei viele Bilder und ggf. auch viele Videos entstehen können,
 ist es meist möglich die Bilder- und Videoerzeugung zu parallelisieren.
-Wir wollen uns anschauen welche Möglichkeiten Python dafür bietet und was die
+Wir wollen uns anschauen welche Möglichkeiten Python dafür bietet und was deren
 Vor- und Nachteile sind.
 
 <sup>*</sup> Das gleiche Prinzip funktioniert natürlich auch für räumliche
