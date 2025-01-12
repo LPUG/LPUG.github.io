@@ -12,25 +12,28 @@ Ein [BarCamp](https://de.wikipedia.org/wiki/Barcamp) ist eine sehr produktive
 Veranstaltung mit vielen Diskussionen und regem Gedankenaustausch.
 Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
-# 10. Dezember 2024
-# Advent of Code mit Python
+# 14. Januar 2025
+# Parallele Erstellung von Animationen mit Matplotlib und FFmpeg
+## Mike Müller
 
-Wir wollen uns mit dem [Advent of Code](https://adventofcode.com/) auf
-Weihnachten einstimmen.
-Dabei wollen wir alternative und möglichst *pythonic* Lösungen besprechen.
-Bitte meldet euch schon mal an and beginnt mit der Lösung von ein paar
-Aufgaben.
+Ein Bild sagt mehr als 1000 Worte.
+Wenn sich die abgebildeten Informationen über die Zeit häufig ändern können
+viele Bilder entstehen.
+Eine Animation kann hier oft helfen.
+Die Bilder laufen dabei wie in einem Film nacheinander ab und zeigen den
+zeitlichen Verlauf. <sup>*</sup>
+Wir wollen uns anschauen wie sich mit
+[Matplotlib](https://matplotlib.org/)
+viele Bilder erzeugen und im Folgeschritt mit
+[FFmpeg](https://ffmpeg.org/)
+zu einem Video zusammensetzen lassen.
+Da dabei viele Bilder und ggf. auch viele Videos entstehen können,
+ist es meist möglich die Bilder- und Videoerzeugung zu parallelisieren.
+Wir wollen uns anschauen welche Möglichkeiten Python dafür bietet und was die
+Vor- und Nachteile sind.
 
-# CLT 2025
-
-Die [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/2025/de)
-finden am 22. und 23. März 2025 statt.
-Wir sind dort regelmäßig mit einem Stand vertreten.
-Das soll auch nächstes Jahr so sein.
-Der Anmeldeschluss ist der 8. Januar 2025.
-Da dieser vor unserem nächsten Treffen liegt,
-müssen wir die Organisation jetzt planen.
-
+<sup>*</sup> Das gleiche Prinzip funktioniert natürlich auch für räumliche
+oder andere Änderungen der Darstellung.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -44,10 +47,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-10.12.2024 | Advent of Code mit Python |
-14.01.2025 | TBD |
+14.01.2025 | Parallele Erstellung von Animationen mit Matplotlib und FFmpeg | Mike Müller
 11.02.2025 | TBD |
 11.03.2025 | TBD |
+08.04.2025 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
