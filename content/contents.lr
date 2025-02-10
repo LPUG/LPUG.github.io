@@ -12,28 +12,23 @@ Ein [BarCamp](https://de.wikipedia.org/wiki/Barcamp) ist eine sehr produktive
 Veranstaltung mit vielen Diskussionen und regem Gedankenaustausch.
 Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
-# 14. Januar 2025
-# Parallele Erstellung von Animationen mit Matplotlib und FFmpeg
-## Mike Müller
+# 11. Februar 2025
+# Erfahrungsaustausch - Statische Typisierung in Python
 
-Ein Bild sagt mehr als 1000 Worte.
-Wenn sich die abgebildeten Informationen über die Zeit häufig ändern können
-viele Bilder entstehen.
-Eine Animation kann hier oft helfen.
-Die Bilder laufen dabei wie in einem Film nacheinander ab und zeigen den
-zeitlichen Verlauf. <sup>*</sup>
-Wir wollen uns anschauen wie sich mit
-[Matplotlib](https://matplotlib.org/)
-viele Bilder erzeugen und im Folgeschritt mit
-[FFmpeg](https://ffmpeg.org/)
-zu einem Video zusammensetzen lassen.
-Da dabei viele Bilder und ggf. auch viele Videos entstehen können,
-ist es meist möglich die Bilder- und Videoerzeugung zu parallelisieren.
-Wir wollen uns anschauen welche Möglichkeiten Python dafür bietet und was deren
-Vor- und Nachteile sind.
+Python ist eine dynamisch getypte Sprache.
+Das wird auch so bleiben.
+Die Möglichkeiten statische Typen als Hinweise in den Code aufzunehmen wachsen
+mit jeder Python-Version.
+So bietet Python 3.12 syntaktische Vereinfachungen,
+die die Nutzung von Typ-Hinweisen um Einiges angenehmer machen.
+Wir wollen uns zu diesem Thema austauschen und unter anderem diese Fragen
+erörtern:
+* Wer nutzt Typisierung für welche Projekte?
+* Lohnt sich der Aufwand im Vergleich zum Nutzen?
+* Wo hat es gut geklappt?
+* Wo war Typisierung eher im Weg?
 
-<sup>*</sup> Das gleiche Prinzip funktioniert natürlich auch für räumliche
-oder andere Änderungen der Darstellung.
+
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -47,10 +42,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-14.01.2025 | Parallele Erstellung von Animationen mit Matplotlib und FFmpeg | Mike Müller
 11.02.2025 | TBD |
 11.03.2025 | TBD |
 08.04.2025 | TBD |
+13.05.2025 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
