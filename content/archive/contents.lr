@@ -5,6 +5,29 @@ body:
 Bisherige Präsentationen und Themen.
 
 
+# 14. Januar 2025
+# Parallele Erstellung von Animationen mit Matplotlib und FFmpeg
+## Mike Müller
+
+Ein Bild sagt mehr als 1000 Worte.
+Wenn sich die abgebildeten Informationen über die Zeit häufig ändern können
+viele Bilder entstehen.
+Eine Animation kann hier oft helfen.
+Die Bilder laufen dabei wie in einem Film nacheinander ab und zeigen den
+zeitlichen Verlauf. <sup>*</sup>
+Wir haben uns dazu ausgetauscht wie sich mit
+[Matplotlib](https://matplotlib.org/)
+viele Bilder erzeugen und im Folgeschritt mit
+[FFmpeg](https://ffmpeg.org/)
+zu einem Video zusammensetzen lassen.
+Da dabei viele Bilder und ggf. auch viele Videos entstehen können,
+ist es meist möglich die Bilder- und Videoerzeugung zu parallelisieren.
+Wir haben uns angeschaut welche Möglichkeiten Python dafür bietet und was deren
+Vor- und Nachteile sind.
+
+<sup>*</sup> Das gleiche Prinzip funktioniert natürlich auch für räumliche
+oder andere Änderungen der Darstellung.
+
 # 10. Dezember 2024
 # Advent of Code mit Python
 
