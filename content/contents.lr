@@ -12,21 +12,22 @@ Ein [BarCamp](https://de.wikipedia.org/wiki/Barcamp) ist eine sehr produktive
 Veranstaltung mit vielen Diskussionen und regem Gedankenaustausch.
 Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
-# 11. Februar 2025
+# 8. April 2025 Learnings from migrating a Flask app to FastAPI
 # Erfahrungsaustausch - Statische Typisierung in Python
+## Orell Garten
 
-Python ist eine dynamisch getypte Sprache.
-Das wird auch so bleiben.
-Die Möglichkeiten statische Typen als Hinweise in den Code aufzunehmen wachsen
-mit jeder Python-Version.
-So bietet Python 3.12 syntaktische Vereinfachungen,
-die die Nutzung von Typ-Hinweisen um Einiges angenehmer machen.
-Wir wollen uns zu diesem Thema austauschen und unter anderem diese Fragen
-erörtern:
-* Wer nutzt Typisierung für welche Projekte?
-* Lohnt sich der Aufwand im Vergleich zum Nutzen?
-* Wo hat es gut geklappt?
-* Wo war Typisierung eher im Weg?
+Seit seinem Erscheinen 2018 hat sich FastAPi schnell zu einer etablierten
+Lösung für HTTP APIs in Python entwickelt.
+Der Vortrag fast die Erfahrungen eine Migration einer HTTP API von Flask nach
+FastAPI zusammen.
+Wichtige Punkte sind:
+
+- Wieso überhaupt migrieren?
+- Datenmodellierung als Grundkonzept
+- Probleme, die auftreten werden
+
+Der Vortrag ist eine Kurzform des
+[geplanten Vortrags auf der PyConDE](https://2025.pycon.de/talks/EDJ8N7/).
 
 
 
@@ -37,15 +38,16 @@ Die Teilnahme sollte mit jedem modernen Browser möglich sein.
 
 ----------------
 
+
 Die Treffen der User Group finden jeden zweiten Dienstag im Monat um 19 Uhr statt.
 Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.02.2025 | Erfahrungsaustausch - Statische Typisierung in Python |
 11.03.2025 | TBD |
-08.04.2025 | TBD |
+08.04.2025 | Learnings from migrating a Flask app to FastAPI | Orell Garten
 13.05.2025 | TBD |
+10.06.2025 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
