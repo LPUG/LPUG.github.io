@@ -5,6 +5,22 @@ body:
 Bisherige Präsentationen und Themen.
 
 
+# 11. Februar 2025
+# Erfahrungsaustausch - Statische Typisierung in Python
+
+Python ist eine dynamisch getypte Sprache.
+Das wird auch so bleiben.
+Die Möglichkeiten statische Typen als Hinweise in den Code aufzunehmen wachsen
+mit jeder Python-Version.
+So bietet Python 3.12 syntaktische Vereinfachungen,
+die die Nutzung von Typ-Hinweisen um Einiges angenehmer machen.
+Wir haben uns zu diesem Thema ausgetauscht und unter anderem diese Fragen
+erörtert:
+* Wer nutzt Typisierung für welche Projekte?
+* Lohnt sich der Aufwand im Vergleich zum Nutzen?
+* Wo hat es gut geklappt?
+* Wo war Typisierung eher im Weg?
+
 # 14. Januar 2025
 # Parallele Erstellung von Animationen mit Matplotlib und FFmpeg
 ## Mike Müller
