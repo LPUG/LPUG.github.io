@@ -19,7 +19,7 @@ Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
 Seit seinem Erscheinen 2018 hat sich FastAPi schnell zu einer etablierten
 Lösung für HTTP APIs in Python entwickelt.
-Der Vortrag fast die Erfahrungen eine Migration einer HTTP API von Flask nach
+Der Vortrag fast die Erfahrungen einer Migration einer HTTP-API von Flask nach
 FastAPI zusammen.
 Wichtige Punkte sind:
 
