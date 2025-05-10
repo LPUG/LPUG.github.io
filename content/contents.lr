@@ -13,22 +13,10 @@ Veranstaltung mit vielen Diskussionen und regem Gedankenaustausch.
 Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
 
-# 8. April 2025
-# Learnings from migrating a Flask app to FastAPI
-## Orell Garten
+# 13. Mai 2025
+# Diskussionsrunde
 
-Seit seinem Erscheinen 2018 hat sich FastAPi schnell zu einer etablierten
-Lösung für HTTP-APIs in Python entwickelt.
-Der Vortrag fast die Erfahrungen einer Migration einer HTTP-API von Flask nach
-FastAPI zusammen.
-Wichtige Punkte sind:
-
-- Wieso überhaupt migrieren?
-- Datenmodellierung als Grundkonzept
-- Probleme, die auftreten werden
-
-Der Vortrag ist eine Kurzform des
-[geplanten Vortrags auf der PyConDE](https://2025.pycon.de/talks/EDJ8N7/).
+Wir wollen uns zu aktuellen Python-Themen austauschen.
 
 
 
@@ -45,10 +33,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-08.04.2025 | Learnings from migrating a Flask app to FastAPI | Orell Garten
-13.05.2025 | TBD |
+13.05.2025 | Diskussionsrunde |
 10.06.2025 | TBD |
 08.07.2025 | TBD |
+12.08.2025 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
