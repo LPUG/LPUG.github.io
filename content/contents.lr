@@ -13,18 +13,14 @@ Veranstaltung mit vielen Diskussionen und regem Gedankenaustausch.
 Alle wirken mit. Die aktive Teilnahme ergibt sich von ganz allein.
 
 
-# 11. Juni 2025
-# Unser Python BarCamp
+# 12. August 2025
+# Datenanalyse mit DuckDB
+## Orell Garten
 
-Unser
-[BarCamp](https://barcamps.eu/python-barcamp-leipzig-2025/)
-findet in ein paar Tagen statt.
-Wir wollen uns mit dem Themen BarCamp beschäftigen.
-Mögliche Diskussionsthemen:
-
-* Was ist ein BarCamp?
-* Wie unterscheidet es sich von einer Konferenz?
-* Warum nehmen manche Teilnehmende mehr mit als von einer Konferenz?
+In den letzten Jahren haben sich neben Pandas neue Tool im Data-Ökosystem
+etabliert, z.B. Polars und DuckDB. Ich möchte eine kurze Einführung zu DuckDB
+geben und zeigen welche Möglichkeiten sich dadurch für Datenanalyse und
+Datenprodukte ergeben. Live Demo inklusive.
 
 
 Es gibt übrigens schon
@@ -45,10 +41,10 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-10.06.2025 | TBD |
 08.07.2025 | TBD |
-12.08.2025 | TBD |
+12.08.2025 | Datenanalyse mit DuckDB | Orell Garten
 09.09.2025 | TBD |
+14.10.2025 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
