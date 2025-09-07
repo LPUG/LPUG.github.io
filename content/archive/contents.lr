@@ -4,6 +4,15 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 12. August 2025
+# Datenanalyse mit DuckDB
+## Orell Garten
+
+In den letzten Jahren haben sich neben Pandas neue Tool im Data-Ökosystem
+etabliert, z.B. Polars und DuckDB. Es gab eine kurze Einführung zu DuckDB,
+die zeigte welche Möglichkeiten sich dadurch für Datenanalyse und
+Datenprodukte ergeben. Eine Live-Demo hat typische Anwendungsfälle gezeigt.
+
 # PyCamp Leipzig 2025
 ## 28. und 29. Juni 2025
 
