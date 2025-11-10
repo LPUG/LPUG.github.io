@@ -4,6 +4,30 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 14.10.2025
+# Python 3.14
+
+Die Python π-Edition ist da!
+
+Diese Version bringt
+[viele neue Features](https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html)
+mit sich.
+Free-threading ist nun offiziell Teil der Sprache.
+Template-Strings erweitern die Möglichkeiten der beliebten f-Strings.
+
+Neben `ThreadPoolExecutor` und `ProcessPoolExecutor` unterstützt
+`concurrent.futures` nun auch den `InterpreterPoolExecutor`,
+der mit Subinterpretern arbeitet.
+
+Die Komprimierung mit dem Format `zstd` ist jetzt Teil der Standardbibliothek,
+und `argparse` unterstützt ab sofort farbige Ausgaben.
+
+Die Liste der Neuheiten enthält noch viele weitere spannende Highlights –
+wir haben uns die wichtigsten Features gemeinsam angeschaut!
+
+![Python 3.14](/static/python-3.14.png)
+
 # 9. September 2025
 # MCP-Server mit Python
 
