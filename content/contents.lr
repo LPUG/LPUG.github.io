@@ -3,30 +3,16 @@ title: Leipzig Python User Group
 body:
 
 
-# 14.10.2025
-# Python 3.14
+# 11.11.2025
+# CLT 2026
 
-Die Python π-Edition ist da!
-
-Diese Version bringt
-[viele neue Features](https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html)
-mit sich.
-Free-threading ist nun offiziell Teil der Sprache.
-Template-Strings erweitern die Möglichkeiten der beliebten f-Strings.
-
-Neben `ThreadPoolExecutor` und `ProcessPoolExecutor` unterstützt
-`concurrent.futures` nun auch den `InterpreterPoolExecutor`,
-der mit Subinterpretern arbeitet.
-
-Die Komprimierung mit dem Format `zstd` ist jetzt Teil der Standardbibliothek,
-und `argparse` unterstützt ab sofort farbige Ausgaben.
-
-Die Liste der Neuheiten enthält noch viele weitere spannende Highlights –
-schauen wir uns die wichtigsten Features gemeinsam an!
-
-![Python 3.14](/static/python-3.14.png)
-
-
+Wir sind seit vielen Jahre mit einem Stand bei den Chemnitzer Linux-Tagen
+präsent.
+Wir wollen auch 2026 wieder dabei sein.
+In unserem Treffen planen wir unseren Stand.
+Wie wollen wir uns präsentieren?
+Zeigen wir auch Hardware wie Mikrocontroller?
+Bitte bringt eure Ideen mit.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -41,11 +27,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-14.10.2025 | Python 3.14 |
-11.11.2025 | TBD |
+11.11.2025 | CLT 2026 |
 09.12.2025 | TBD |
 13.01.2026 | TBD |
 10.02.2026 | TBD |
+10.03.2026 | TBD |
 
 
 Bitte Themenvorschläge über die
