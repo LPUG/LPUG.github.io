@@ -3,16 +3,14 @@ title: Leipzig Python User Group
 body:
 
 
-# 11.11.2025
-# CLT 2026
+# 9.12.2025
+# Advent of Code
 
-Wir sind seit vielen Jahren mit einem Stand bei den Chemnitzer Linux-Tagen
-präsent.
-Wir wollen auch 2026 wieder dabei sein.
-In unserem Treffen planen wir unseren Stand.
-Wie wollen wir uns präsentieren?
-Zeigen wir auch Hardware wie Mikrocontroller?
-Bitte bringt eure Ideen mit.
+Der [Advent of Code](https://adventofcode.com/) ist ein jährliches
+Programmierrätsel.
+Einige von nehmen daran teil.
+Wir wollen uns zu Lösungen in Python oder anderen Programmiersprachen
+austauschen.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -27,11 +25,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-11.11.2025 | CLT 2026 |
-09.12.2025 | TBD |
-13.01.2026 | TBD |
+09.12.2025 | Advent of Code |
+13.01.2026 | MicroPython on an ESP32 | Mike Müller
 10.02.2026 | TBD |
 10.03.2026 | TBD |
+14.04.2026 | TBD |
 
 
 Bitte Themenvorschläge über die
