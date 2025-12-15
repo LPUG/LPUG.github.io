@@ -4,7 +4,7 @@ body:
 
 
 # 13.01.2026
-# MicroPython on an ESP32
+# MicroPython auf dem ESP32
 ## Thomas Hinterndorfer
 
 MicroPython läuft auf Mikroprozessoren wie ESP32, ESP8266 und RP2040.
@@ -35,7 +35,7 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-13.01.2026 | MicroPython on an ESP32 | Thomas Hinterndorfer
+13.01.2026 | MicroPython auf dem ESP32 | Thomas Hinterndorfer
 10.02.2026 | TBD |
 10.03.2026 | TBD |
 14.04.2026 | TBD |
