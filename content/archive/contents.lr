@@ -4,6 +4,26 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+
+# 13.01.2026
+# MicroPython auf dem ESP32
+## Thomas Hinterndorfer
+
+MicroPython läuft auf Mikroprozessoren wie ESP32, ESP8266 und RP2040.
+Der Vortrag zeigte wie sich mit MicroPython Anwendungen auf solchen Prozessoren
+entwickeln lassen.
+Neben der Software spielen unterschiedliche Sensoren eine Rolle.
+Demo-Hardware-Komponenten zeigten was sich alles messen und sonst damit
+umsetzen lässt.
+
+Wichtige Themen waren:
+
+* Installation
+* IDEs
+* Beispielkomponenten / Projekte
+* Stolpersteine / Abgrenzung zu normalem Python3
+* Codebeispiele
+
 # 9.12.2025
 # Advent of Code
 
