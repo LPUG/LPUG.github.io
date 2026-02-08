@@ -3,24 +3,11 @@ title: Leipzig Python User Group
 body:
 
 
-# 13.01.2026
+# 10.02.2026
 # MicroPython auf dem ESP32
-## Thomas Hinterndorfer
 
-MicroPython läuft auf Mikroprozessoren wie ESP32, ESP8266 und RP2040.
-Der Vortrag zeigt wie sich mit MicroPython Anwendungen auf solchen Prozessoren
-entwickeln lassen.
-Neben der Software spielen unterschiedliche Sensoren eine Rolle.
-Demo-Hardware-Komponenten zeigen was sich alles messen und sonst damit
-umsetzen lässt.
+Wir wollen uns zu aktuellen Python-Themen austauschen.
 
-Wichtige Themen sind:
-
-* Installation
-* IDEs
-* Beispielkomponenten / Projekte
-* Stolpersteine / Abgrenzung zu normalem Python3
-* Codebeispiele
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -35,11 +22,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-13.01.2026 | MicroPython auf dem ESP32 | Thomas Hinterndorfer
-10.02.2026 | TBD |
+10.02.2026 | Diskussionsrunde |
 10.03.2026 | TBD |
 14.04.2026 | TBD |
 12.05.2026 | TBD |
+09.06.2026 | TBD |
 
 
 Bitte Themenvorschläge über die
