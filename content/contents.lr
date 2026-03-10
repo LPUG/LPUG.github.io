@@ -8,9 +8,14 @@ body:
 Unser [BarCamp 2026](https://barcamps.eu/python-barcamp-leipzig-2026/) findet am ersten Augustwochenende statt. Die Anmeldung ist eröffnet
 
 # 10.03.2026
-# Diskussionsrunde
+# Paralleles Rechnen in wissenschaftlichen Anwendungen - Ein Fallbeispiel
+## Mike Müller
 
-Wir wollen uns zu aktuellen Python-Themen austauschen.
+Wissenschaftliche Anwendungen lösen oft numerisch anspruchsvolle Probleme.
+Dies kann zu langen Rechenzeiten führen.
+Der Vortrag stellt ein Beispiel aus dem Bereich Grundwasser vor.
+Er zeigt wie sich Rechnungen mit Prozessen und Threads parallelisieren lassen.
+
 
 
 Wir treffen uns vor Ort im Basislager **und** online:
@@ -26,7 +31,7 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-10.03.2026 | Diskussionsrunde |
+10.03.2026 | Paralleles Rechnen in wissenschaftlichen Anwendungen - Ein Fallbeispiel | Mike Müller
 14.04.2026 | TBD |
 12.05.2026 | TBD |
 09.06.2026 | TBD |
