@@ -4,6 +4,16 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 10.03.2026
+# Paralleles Rechnen in wissenschaftlichen Anwendungen - Ein Fallbeispiel
+## Mike Müller
+
+Wissenschaftliche Anwendungen lösen oft numerisch anspruchsvolle Probleme.
+Dies kann zu langen Rechenzeiten führen.
+Der Vortrag stellte ein Beispiel aus dem Bereich Grundwasser vor.
+Er zeigte wie sich Rechnungen mit Prozessen und Threads parallelisieren lassen.
+
+
 # 10.02.2026
 # Diskussionsrunde
 
