@@ -7,16 +7,19 @@ body:
 
 Unser [BarCamp 2026](https://barcamps.eu/python-barcamp-leipzig-2026/) findet am ersten Augustwochenende statt. Die Anmeldung ist eröffnet
 
-# 10.03.2026
-# Paralleles Rechnen in wissenschaftlichen Anwendungen - Ein Fallbeispiel
-## Mike Müller
-
-Wissenschaftliche Anwendungen lösen oft numerisch anspruchsvolle Probleme.
-Dies kann zu langen Rechenzeiten führen.
-Der Vortrag stellt ein Beispiel aus dem Bereich Grundwasser vor.
-Er zeigt wie sich Rechnungen mit Prozessen und Threads parallelisieren lassen.
+# 14.04.2026
+# pandas Code refaktorisieren
 
 
+Die Bibliothek [pandas](https://pandas.pydata.org/) ist gut für die
+Verarbeitung tabellarischer Daten geeignet.
+Die Datenstrukturen `Series` und `DataFrame` haben sehr viele Methoden und
+bieten daher unterschiedlichste Wege, eine Aufgabe zu lösen.
+In Abhängigkeit von den genutzten Methoden kann das Programm unterschiedlich
+viele Ressourcen benötigen.
+Wir wollen uns an einem Beispiel ansehen, wie sich ein Programm,
+das pandas nutzt, umbauen lässt,
+um Speicherverbrauch und Laufzeit zu verringern.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -31,11 +34,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-10.03.2026 | Paralleles Rechnen in wissenschaftlichen Anwendungen - Ein Fallbeispiel | Mike Müller
-14.04.2026 | TBD |
+14.04.2026 | Pandas Code refaktorisieren |
 12.05.2026 | TBD |
 09.06.2026 | TBD |
 14.07.2026 | TBD |
+11.08.2026 | TBD |
 01./02.08.2026 | PyCamp Leipzig |
 
 Bitte Themenvorschläge über die
