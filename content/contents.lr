@@ -7,20 +7,18 @@ body:
 
 Unser [BarCamp 2026](https://barcamps.eu/python-barcamp-leipzig-2026/) findet am ersten Augustwochenende statt. Die Anmeldung ist eröffnet
 
-# 12.05.2026
-# Vom Spaghetti-Code zur wiederverwendbaren Bibliothek (nicht nur) mit "KI"
-## Sebastian Ernst
+# 09.06.2026
+# Lazy Python
 
-Ein kleines Script wächst und bekommt immer mehr Funktionalität.
-Wenn der Programmaufbau nicht "mitwächst" wird der Code häufig unübersichtlich
-und schwer wartbar.
-Der Vortrag stellt, aufbauend auf einem Beispiel aus der Praxis,
-vor wie sich der Code mit modernen Werkzeugen umbauen lässt,
-so dass ein wartbares, objektorientiertes Programm entsteht.
-Die Herausforderung liegt hier in der Reproduktion der Original-Funktionalität
-ohne die Verfügbarkeit von Tests.
-
-
+Python unterstützt das Konzept der Lazy Evaluation (verzögerte Auswertung).
+Ausdrücke werden erst dann ausgewertet, wenn ihre Werte wirklich gebraucht
+werden.
+So erlauben Iteratoren und Generatoren zum Beispiel die Definition von
+unendlichen Datenstrukturen.
+Das kann für bestimmte Aufgaben durchaus nützlich sein.
+Deren Nutzung bedarf aber eines bestimmten Vorgehens.
+Wir wollen uns ansehen wie Lazy Evaluation helfen kann bestimmte Arten von
+Probleme zu lösen und wo potenzielle Problem liegen.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -35,12 +33,12 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-12.05.2026 | Vom Spaghetti-Code zur wiederverwendbaren Bibliothek (nicht nur) mit "KI"  | Sebastian Ernst
-09.06.2026 | TBD |
+09.06.2026 | Lazy Python |
 14.07.2026 | TBD |
 01./02.08.2026 | PyCamp Leipzig |
 11.08.2026 | TBD |
 08.09.2026 | TBD |
+13.10.2026 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
