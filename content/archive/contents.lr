@@ -4,6 +4,20 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 09.06.2026
+# Lazy Python
+
+Python unterstützt das Konzept der Lazy Evaluation (verzögerte Auswertung).
+Ausdrücke werden erst dann ausgewertet, wenn ihre Werte wirklich gebraucht
+werden.
+So erlauben Iteratoren und Generatoren zum Beispiel die Definition von
+unendlichen Datenstrukturen.
+Das kann für bestimmte Aufgaben durchaus nützlich sein.
+Deren Nutzung bedarf aber eines bestimmten Vorgehens.
+Wir haben uns angesehen wie Lazy Evaluation helfen kann bestimmte Aufgaben zu
+lösen und wo potenzielle Probleme liegen.
+
+
 # 12.05.2026
 # Vom Spaghetti-Code zur wiederverwendbaren Bibliothek (nicht nur) mit "KI"
 ## Sebastian Ernst
