@@ -7,18 +7,16 @@ body:
 
 Unser [BarCamp 2026](https://barcamps.eu/python-barcamp-leipzig-2026/) findet am ersten Augustwochenende statt. Die Anmeldung ist eröffnet
 
-# 09.06.2026
-# Lazy Python
+# 14.07.2026
+# `pip install` ohne Internet – geht das?
 
-Python unterstützt das Konzept der Lazy Evaluation (verzögerte Auswertung).
-Ausdrücke werden erst dann ausgewertet, wenn ihre Werte wirklich gebraucht
-werden.
-So erlauben Iteratoren und Generatoren zum Beispiel die Definition von
-unendlichen Datenstrukturen.
-Das kann für bestimmte Aufgaben durchaus nützlich sein.
-Deren Nutzung bedarf aber eines bestimmten Vorgehens.
-Wir wollen uns ansehen wie Lazy Evaluation helfen kann bestimmte Aufgaben zu
-lösen und wo potenzielle Probleme liegen.
+Fast alle Python-Pakete kommen von PyPI.
+Doch was tun, wenn das Netz streikt –
+im Zug, hinter einer strengen Firewall oder beim Kunden ohne Internetzugang?
+Ein lokaler Cache-Proxy für PyPI (und andere Quellen) schafft Abhilfe:
+Einmal gecachte Pakete lassen sich auch offline mit pip & Co. installieren.
+Wir schauen uns an, wie so ein Proxy funktioniert, wie man ihn aufsetzt und
+was dabei zu beachten ist.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -33,12 +31,12 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-09.06.2026 | Lazy Python |
-14.07.2026 | TBD |
+14.07.2026 | `pip install` ohne Internet – geht das? |
 01./02.08.2026 | PyCamp Leipzig |
 11.08.2026 | TBD |
 08.09.2026 | TBD |
 13.10.2026 | TBD |
+10.11.2026 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
