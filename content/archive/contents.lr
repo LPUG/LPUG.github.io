@@ -4,6 +4,32 @@ body:
 
 Bisherige Präsentationen und Themen.
 
+# 01./02.08.2026
+# PyCamp Leipzig
+
+Unser [BarCamp 2026](https://barcamps.eu/python-barcamp-leipzig-2026/)
+fand am ersten Augustwochenende statt.
+Die breite Palette der Themen am
+[Samstag](https://barcamps.eu/python-barcamp-leipzig-2026/events/b35c9a08-1762-47e0-81ef-3902a076f3fd#sessions)
+und
+[Sonntag](https://barcamps.eu/python-barcamp-leipzig-2026/events/d91280e5-9bad-4cd3-9857-2ca7585ba20f#sessions)
+führte zu produktiven Diskussionen.
+Die unterschiedlichen Anwendungsfelder der Teilnehmenden brachte viele Aspekte
+ein, die neue Sichtweisen und Ansätze eröffneten.
+Alle habe darin übereingestimmt, dass die Veranstaltung äußerst erfolgreich war.
+
+
+# 14.07.2026
+# `pip install` ohne Internet – geht das?
+
+Fast alle Python-Pakete kommen von PyPI.
+Doch was tun, wenn das Netz streikt –
+im Zug, hinter einer strengen Firewall oder beim Kunden ohne Internetzugang?
+Ein lokaler Cache-Proxy für PyPI (und andere Quellen) schafft Abhilfe:
+Einmal gecachte Pakete lassen sich auch offline mit pip & Co. installieren.
+Wir haben uns angeschaut wie so ein Proxy funktioniert, wie man ihn aufsetzt und
+was dabei zu beachten ist.
+
 # 09.06.2026
 # Lazy Python
 
