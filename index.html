@@ -44,28 +44,43 @@
   <div class="page">
     
   <h2>Leipzig Python User Group</h2>
-  <h1>08.09.2026</h1>
-<h1>Ansible - Einsatz und Performance Optimierung</h1>
-<h2>Andreas Fritzsche</h2>
-<p>Kennen Ihr das?
-<a href="https://docs.ansible.com/projects/ansible/latest/index.html">Ansible</a>
-erledigt zwar die Automatisierung, aber die Wartezeiten sind oft zermürbend
-lang.
-In diesem Vortrag erfahren Ihr, wie Ihre Ansible-Läufe beschleunigen und euren
-Kaffeekonsum reduzieren können.</p>
-<p>Es wird Ihnen gezeigt, wie wir Laufzeiten messen und einfache Optimierungen
-anwenden.
-Anhand von Beispielen demonstrieren wir, welche Effekte verschiedene
-Optimierungsoptionen haben.
-Egal, ob Ansible-Einsteiger oder bereits erfahrener Anwender –
-dieser Vortrag bietet Einblicke und praktische Tipps zur Leistungssteigerung.
-Der Vortrag beschäftigt sich mit Grundlagen der Ansible-Funktionsweise und
-zeigt verschiedene Strategien zur Laufzeitoptimierung.
-Dazu gehören unter anderem die Optimierung von
-<a href="https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/gather_facts_module.html">Gatherfacts</a>,
-der Einsatz asynchroner SSH-Verbindungen, Parallelisierungstechniken und
-eventuell der Einsatz von
-<a href="https://mitogen.networkgenomics.com/ansible_detailed.html">Mitogen</a>.</p>
+  <h1>13.10.2026</h1>
+<h1>Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente</h1>
+<h2>Mike Müller</h2>
+<p>Ein KI-Agent steuert ein Large Language Model (LLM) über ein sogenanntes
+„Harness“.
+Vereinfacht betrachtet handelt es sich dabei um eine iterative Schleife:
+Das LLM erhält einen Prompt, nutzt Werkzeuge, um Ergebnisse zu generieren,
+und verarbeitet diese im nächsten Schritt wieder als neuen Input.
+So kann der Agent Code ausführen, APIs aufrufen, Dateien herunterladen oder
+Datenbanken abfragen – kurzum:
+Er agiert weitgehend autonom, um Programmieraufgaben zu lösen.</p>
+<p>Diese Autonomie bietet enorme Möglichkeiten, birgt aber auch Risiken.
+Im schlimmsten Fall werden Dateien gelöscht, Datenbanktabellen ungewollt
+verändert oder Systemkonfigurationen zerschossen.</p>
+<p>Um dies zu verhindern, kommen „Guardrails“ zum Einsatz.
+Diese schränken die Handlungsfreiheit des Agenten ein –
+etwa durch Dateisystem-Berechtigungen,
+die Prüfung von Code auf gefährliche Muster oder manuelle Freigaben durch den
+Nutzer.
+Doch zu strikte Guardrails behindern oft den Workflow und nehmen dem Agenten
+die eigentliche Stärke: die Eigenständigkeit.</p>
+<p>Eine effizientere Alternative ist die Isolation in Containern
+(z. B. via Docker oder Podman).
+Es gibt mittlerweile spezialisierte Tools, die genau diesen Ansatz für
+KI-Agenten optimieren.</p>
+<p>In meinem Vortrag stelle ich meine Erfahrungen mit
+<a href="https://vibepod.dev/">VibePod</a> vor, das die Containerisierung von Agenten
+erheblich vereinfacht. Ich zeige, wie reibungslos die Integration von Claude
+Code (Anthropic API) funktioniert und wo die Herausforderungen bei der
+Host-Kommunikation, der Softwareinstallation und dem Setup von „Skills“ liegen.</p>
+<p>Zusätzlich demonstriere ich, wie man mit <a href="https://unsloth.ai/">Unsloth</a> kleine
+lokale LLMs betreibt und diese via <a href="https://pi.dev/">Pi</a> und VibePod einbindet.
+Da ich auf einem MacBook Pro mit M1-Chip arbeite, zeige ich ehrlich auf,
+was machbar ist, wo die Hardware-Limits liegen und wie ich versuche,
+diese zu lösen.
+Das Ganze ist ein „Work in Progress“,
+an dem ich meine aktuellen Erkenntnisse mit euch teilen möchte.</p>
 <p>Wir treffen uns vor Ort im Basislager <strong>und</strong> online:
 (<a href="https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join">BBB-Raum</a>
 ab 18:55 Uhr geöffnet).
@@ -82,14 +97,9 @@ Themenvorschläge sind immer willkommen.</p>
 </thead>
 <tbody>
 <tr>
-<td>08.09.2026</td>
-<td>Ansible - Einsatz und Performance Optimierung</td>
-<td>Andreas Fritzsche</td>
-</tr>
-<tr>
 <td>13.10.2026</td>
-<td>TBD</td>
-<td></td>
+<td>Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente</td>
+<td>Mike Müller</td>
 </tr>
 <tr>
 <td>10.11.2026</td>
@@ -103,6 +113,11 @@ Themenvorschläge sind immer willkommen.</p>
 </tr>
 <tr>
 <td>12.01.2027</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>09.02.2027</td>
 <td>TBD</td>
 <td></td>
 </tr>
