@@ -2,30 +2,49 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 08.09.2026
-# Ansible - Einsatz und Performance Optimierung
-## Andreas Fritzsche
+# 13.10.2026
+# Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente
+## Mike Müller
 
-Kennen Ihr das?
-[Ansible](https://docs.ansible.com/projects/ansible/latest/index.html)
-erledigt zwar die Automatisierung, aber die Wartezeiten sind oft zermürbend
-lang.
-In diesem Vortrag erfahren Ihr, wie Ihre Ansible-Läufe beschleunigen und euren
-Kaffeekonsum reduzieren können.
+Ein KI-Agent steuert ein Large Language Model (LLM) über ein sogenanntes
+„Harness“.
+Vereinfacht betrachtet handelt es sich dabei um eine iterative Schleife:
+Das LLM erhält einen Prompt, nutzt Werkzeuge, um Ergebnisse zu generieren,
+und verarbeitet diese im nächsten Schritt wieder als neuen Input.
+So kann der Agent Code ausführen, APIs aufrufen, Dateien herunterladen oder
+Datenbanken abfragen – kurzum:
+Er agiert weitgehend autonom, um Programmieraufgaben zu lösen.
 
-Es wird Ihnen gezeigt, wie wir Laufzeiten messen und einfache Optimierungen
-anwenden.
-Anhand von Beispielen demonstrieren wir, welche Effekte verschiedene
-Optimierungsoptionen haben.
-Egal, ob Ansible-Einsteiger oder bereits erfahrener Anwender –
-dieser Vortrag bietet Einblicke und praktische Tipps zur Leistungssteigerung.
-Der Vortrag beschäftigt sich mit Grundlagen der Ansible-Funktionsweise und
-zeigt verschiedene Strategien zur Laufzeitoptimierung.
-Dazu gehören unter anderem die Optimierung von
-[Gatherfacts](https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/gather_facts_module.html),
-der Einsatz asynchroner SSH-Verbindungen, Parallelisierungstechniken und
-eventuell der Einsatz von
-[Mitogen](https://mitogen.networkgenomics.com/ansible_detailed.html).
+Diese Autonomie bietet enorme Möglichkeiten, birgt aber auch Risiken.
+Im schlimmsten Fall werden Dateien gelöscht, Datenbanktabellen ungewollt
+verändert oder Systemkonfigurationen zerschossen.
+
+Um dies zu verhindern, kommen „Guardrails“ zum Einsatz.
+Diese schränken die Handlungsfreiheit des Agenten ein –
+etwa durch Dateisystem-Berechtigungen,
+die Prüfung von Code auf gefährliche Muster oder manuelle Freigaben durch den
+Nutzer.
+Doch zu strikte Guardrails behindern oft den Workflow und nehmen dem Agenten
+die eigentliche Stärke: die Eigenständigkeit.
+
+Eine effizientere Alternative ist die Isolation in Containern
+(z. B. via Docker oder Podman).
+Es gibt mittlerweile spezialisierte Tools, die genau diesen Ansatz für
+KI-Agenten optimieren.
+
+In meinem Vortrag stelle ich meine Erfahrungen mit
+[VibePod](https://vibepod.dev/) vor, das die Containerisierung von Agenten
+erheblich vereinfacht. Ich zeige, wie reibungslos die Integration von Claude
+Code (Anthropic API) funktioniert und wo die Herausforderungen bei der
+Host-Kommunikation, der Softwareinstallation und dem Setup von „Skills“ liegen.
+
+Zusätzlich demonstriere ich, wie man mit [Unsloth](https://unsloth.ai/) kleine
+lokale LLMs betreibt und diese via [Pi](https://pi.dev/) und VibePod einbindet.
+Da ich auf einem MacBook Pro mit M1-Chip arbeite, zeige ich ehrlich auf,
+was machbar ist, wo die Hardware-Limits liegen und wie ich versuche,
+diese zu lösen.
+Das Ganze ist ein „Work in Progress“,
+an dem ich meine aktuellen Erkenntnisse mit euch teilen möchte.
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -40,11 +59,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-08.09.2026 | Ansible - Einsatz und Performance Optimierung | Andreas Fritzsche
-13.10.2026 | TBD |
+13.10.2026 | Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente | Mike Müller
 10.11.2026 | TBD |
 08.12.2026 | TBD |
 12.01.2027 | TBD |
+09.02.2027 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
