@@ -2,49 +2,23 @@ title: Leipzig Python User Group
 ---
 body:
 
-# 13.10.2026
-# Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente
-## Mike Müller
+# 10.11.2026
+# Python 3.15 – was ist neu?
 
-Ein KI-Agent steuert ein Large Language Model (LLM) über ein sogenanntes
-„Harness“.
-Vereinfacht betrachtet handelt es sich dabei um eine iterative Schleife:
-Das LLM erhält einen Prompt, nutzt Werkzeuge, um Ergebnisse zu generieren,
-und verarbeitet diese im nächsten Schritt wieder als neuen Input.
-So kann der Agent Code ausführen, APIs aufrufen, Dateien herunterladen oder
-Datenbanken abfragen – kurzum:
-Er agiert weitgehend autonom, um Programmieraufgaben zu lösen.
+Im Oktober ist Python 3.15 erschienen, und es gibt einiges zu entdecken:
+Lazy Imports können die Startzeit von Programmen deutlich verkürzen. Mit
+`frozendict` und `sentinel` bekommt die Kernsprache zwei neue eingebaute
+Datentypen. Der Sampling-Profiler Tachyon arbeitet praktisch ohne
+Performance-Overhead und macht es damit leichter, Programme gezielt zu
+optimieren. Auch der JIT-Compiler nimmt langsam Gestalt an. Dazu kommen
+zahlreiche weitere Verbesserungen, die 3.15 für viele Anwendungsfälle
+interessant machen.
 
-Diese Autonomie bietet enorme Möglichkeiten, birgt aber auch Risiken.
-Im schlimmsten Fall werden Dateien gelöscht, Datenbanktabellen ungewollt
-verändert oder Systemkonfigurationen zerschossen.
+Wir schauen uns die Neuerungen gemeinsam an und tauschen uns dazu aus. Wer
+Python 3.15 schon ausprobiert hat, erzählt gern von seinen Erfahrungen. Wer
+noch nicht dazu gekommen ist, ist natürlich genauso willkommen.
 
-Um dies zu verhindern, kommen „Guardrails“ zum Einsatz.
-Diese schränken die Handlungsfreiheit des Agenten ein –
-etwa durch Dateisystem-Berechtigungen,
-die Prüfung von Code auf gefährliche Muster oder manuelle Freigaben durch den
-Nutzer.
-Doch zu strikte Guardrails behindern oft den Workflow und nehmen dem Agenten
-die eigentliche Stärke: die Eigenständigkeit.
-
-Eine effizientere Alternative ist die Isolation in Containern
-(z. B. via Docker oder Podman).
-Es gibt mittlerweile spezialisierte Tools, die genau diesen Ansatz für
-KI-Agenten optimieren.
-
-In meinem Vortrag stelle ich meine Erfahrungen mit
-[VibePod](https://vibepod.dev/) vor, das die Containerisierung von Agenten
-erheblich vereinfacht. Ich zeige, wie reibungslos die Integration von Claude
-Code (Anthropic API) funktioniert und wo die Herausforderungen bei der
-Host-Kommunikation, der Softwareinstallation und dem Setup von „Skills“ liegen.
-
-Zusätzlich demonstriere ich, wie man mit [Unsloth](https://unsloth.ai/) kleine
-lokale LLMs betreibt und diese via [Pi](https://pi.dev/) und VibePod einbindet.
-Da ich auf einem MacBook Pro mit M1-Chip arbeite, zeige ich ehrlich auf,
-was machbar ist, wo die Hardware-Limits liegen und wie ich versuche,
-diese zu lösen.
-Das Ganze ist ein „Work in Progress“,
-an dem ich meine aktuellen Erkenntnisse mit euch teilen möchte.
+Neue Gesichter sind wie immer herzlich willkommen!
 
 Wir treffen uns vor Ort im Basislager **und** online:
 ([BBB-Raum](https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join)
@@ -59,11 +33,11 @@ Themenvorschläge sind immer willkommen.
 
 Datum      | Thema                                                          | Vortragende
 ---------- | -------------------------------------------------------------- | -----------
-13.10.2026 | Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente | Mike Müller
-10.11.2026 | TBD |
+10.11.2026 | Python 3.15 - Neue Features, Neue Möglichkeiten |
 08.12.2026 | TBD |
 12.01.2027 | TBD |
 09.02.2027 | TBD |
+09.03.2027 | TBD |
 
 Bitte Themenvorschläge über die
 [Mailingliste](https://mail.python.org/mailman3/lists/lpug.python.org/)
