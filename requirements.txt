@@ -1,3 +1,3 @@
-Lektor
+Lektor==3.3.14
 click
 pytz
