@@ -44,43 +44,20 @@
   <div class="page">
     
   <h2>Leipzig Python User Group</h2>
-  <h1>13.10.2026</h1>
-<h1>Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente</h1>
-<h2>Mike Müller</h2>
-<p>Ein KI-Agent steuert ein Large Language Model (LLM) über ein sogenanntes
-„Harness“.
-Vereinfacht betrachtet handelt es sich dabei um eine iterative Schleife:
-Das LLM erhält einen Prompt, nutzt Werkzeuge, um Ergebnisse zu generieren,
-und verarbeitet diese im nächsten Schritt wieder als neuen Input.
-So kann der Agent Code ausführen, APIs aufrufen, Dateien herunterladen oder
-Datenbanken abfragen – kurzum:
-Er agiert weitgehend autonom, um Programmieraufgaben zu lösen.</p>
-<p>Diese Autonomie bietet enorme Möglichkeiten, birgt aber auch Risiken.
-Im schlimmsten Fall werden Dateien gelöscht, Datenbanktabellen ungewollt
-verändert oder Systemkonfigurationen zerschossen.</p>
-<p>Um dies zu verhindern, kommen „Guardrails“ zum Einsatz.
-Diese schränken die Handlungsfreiheit des Agenten ein –
-etwa durch Dateisystem-Berechtigungen,
-die Prüfung von Code auf gefährliche Muster oder manuelle Freigaben durch den
-Nutzer.
-Doch zu strikte Guardrails behindern oft den Workflow und nehmen dem Agenten
-die eigentliche Stärke: die Eigenständigkeit.</p>
-<p>Eine effizientere Alternative ist die Isolation in Containern
-(z. B. via Docker oder Podman).
-Es gibt mittlerweile spezialisierte Tools, die genau diesen Ansatz für
-KI-Agenten optimieren.</p>
-<p>In meinem Vortrag stelle ich meine Erfahrungen mit
-<a href="https://vibepod.dev/">VibePod</a> vor, das die Containerisierung von Agenten
-erheblich vereinfacht. Ich zeige, wie reibungslos die Integration von Claude
-Code (Anthropic API) funktioniert und wo die Herausforderungen bei der
-Host-Kommunikation, der Softwareinstallation und dem Setup von „Skills“ liegen.</p>
-<p>Zusätzlich demonstriere ich, wie man mit <a href="https://unsloth.ai/">Unsloth</a> kleine
-lokale LLMs betreibt und diese via <a href="https://pi.dev/">Pi</a> und VibePod einbindet.
-Da ich auf einem MacBook Pro mit M1-Chip arbeite, zeige ich ehrlich auf,
-was machbar ist, wo die Hardware-Limits liegen und wie ich versuche,
-diese zu lösen.
-Das Ganze ist ein „Work in Progress“,
-an dem ich meine aktuellen Erkenntnisse mit euch teilen möchte.</p>
+  <h1>10.11.2026</h1>
+<h1>Python 3.15 – was ist neu?</h1>
+<p>Im Oktober ist Python 3.15 erschienen, und es gibt einiges zu entdecken:
+Lazy Imports können die Startzeit von Programmen deutlich verkürzen. Mit
+<code>frozendict</code> und <code>sentinel</code> bekommt die Kernsprache zwei neue eingebaute
+Datentypen. Der Sampling-Profiler Tachyon arbeitet praktisch ohne
+Performance-Overhead und macht es damit leichter, Programme gezielt zu
+optimieren. Auch der JIT-Compiler nimmt langsam Gestalt an. Dazu kommen
+zahlreiche weitere Verbesserungen, die 3.15 für viele Anwendungsfälle
+interessant machen.</p>
+<p>Wir schauen uns die Neuerungen gemeinsam an und tauschen uns dazu aus. Wer
+Python 3.15 schon ausprobiert hat, erzählt gern von seinen Erfahrungen. Wer
+noch nicht dazu gekommen ist, ist natürlich genauso willkommen.</p>
+<p>Neue Gesichter sind wie immer herzlich willkommen!</p>
 <p>Wir treffen uns vor Ort im Basislager <strong>und</strong> online:
 (<a href="https://bbb.python-academy.de/rooms/gsc-vxn-g2o-xzm/join">BBB-Raum</a>
 ab 18:55 Uhr geöffnet).
@@ -97,13 +74,8 @@ Themenvorschläge sind immer willkommen.</p>
 </thead>
 <tbody>
 <tr>
-<td>13.10.2026</td>
-<td>Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente</td>
-<td>Mike Müller</td>
-</tr>
-<tr>
 <td>10.11.2026</td>
-<td>TBD</td>
+<td>Python 3.15 - Neue Features, Neue Möglichkeiten</td>
 <td></td>
 </tr>
 <tr>
@@ -118,6 +90,11 @@ Themenvorschläge sind immer willkommen.</p>
 </tr>
 <tr>
 <td>09.02.2027</td>
+<td>TBD</td>
+<td></td>
+</tr>
+<tr>
+<td>09.03.2027</td>
 <td>TBD</td>
 <td></td>
 </tr>

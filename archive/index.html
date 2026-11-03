@@ -45,6 +45,47 @@
     
   <h2>Archive</h2>
   <p>Bisherige Präsentationen und Themen.</p>
+<h1>13.10.2026</h1>
+<h1>Sicher Programmieren lassen – Agenten einsperren, lokale Modelle und Experimente</h1>
+<h2>Mike Müller</h2>
+<p>Ein KI-Agent steuert ein Large Language Model (LLM) über ein sogenanntes
+„Harness“.
+Vereinfacht betrachtet handelt es sich dabei um eine iterative Schleife:
+Das LLM erhält einen Prompt, nutzt Werkzeuge, um Ergebnisse zu generieren,
+und verarbeitet diese im nächsten Schritt wieder als neuen Input.
+So kann der Agent Code ausführen, APIs aufrufen, Dateien herunterladen oder
+Datenbanken abfragen – kurzum:
+Er agiert weitgehend autonom, um Programmieraufgaben zu lösen.</p>
+<p>Diese Autonomie bietet enorme Möglichkeiten, birgt aber auch Risiken.
+Im schlimmsten Fall werden Dateien gelöscht, Datenbanktabellen ungewollt
+verändert oder Systemkonfigurationen zerschossen.</p>
+<p>Um dies zu verhindern, kommen „Guardrails“ zum Einsatz.
+Diese schränken die Handlungsfreiheit des Agenten ein –
+etwa durch Dateisystem-Berechtigungen,
+die Prüfung von Code auf gefährliche Muster oder manuelle Freigaben durch den
+Nutzer.
+Doch zu strikte Guardrails behindern oft den Workflow und nehmen dem Agenten
+die eigentliche Stärke: die Eigenständigkeit.</p>
+<p>Eine effizientere Alternative ist die Isolation in Containern
+(z. B. via Docker oder Podman).
+Es gibt mittlerweile spezialisierte Tools, die genau diesen Ansatz für
+KI-Agenten optimieren.</p>
+<p>In meinem Vortrag habe ich meine Erfahrungen mit
+<a href="https://vibepod.dev/">VibePod</a> vorgestellt, das die Containerisierung von
+Agenten erheblich vereinfacht. Ich habe gezeigt, wie reibungslos die
+Integration von Claude Code (Anthropic API) funktioniert und wo die
+Herausforderungen bei der Host-Kommunikation, der Softwareinstallation und dem
+Setup von „Skills“ liegen.</p>
+<p>Zusätzlich habe demonstriert, wie man mit <a href="https://unsloth.ai/">Unsloth</a> kleine
+lokale LLMs betreibt und diese via <a href="https://pi.dev/">Pi</a> und VibePod einbindet.
+Da ich auf einem MacBook Pro mit M1-Chip arbeite, habe ich aufgezeigt
+was machbar ist, wo die Hardware-Limits liegen und wie ich versuche,
+diese zu lösen.
+Das Ganze ist ein „Work in Progress“,
+an dem ich meine aktuellen Erkenntnisse erläutert habe.
+Die
+<a href="https://data.python-academy.de/download/lpug/2026-10/sicher_programmieren_lassen.pdf">Vortragsfolien</a>
+fassen den Vortrag zusammen.</p>
 <h1>08.09.2026</h1>
 <h1>Ansible - Einsatz und Performance Optimierung</h1>
 <h2>Andreas Fritzsche</h2>
