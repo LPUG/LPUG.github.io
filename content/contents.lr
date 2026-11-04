@@ -10,9 +10,8 @@ Lazy Imports können die Startzeit von Programmen deutlich verkürzen. Mit
 `frozendict` und `sentinel` bekommt die Kernsprache zwei neue eingebaute
 Datentypen. Der Sampling-Profiler Tachyon arbeitet praktisch ohne
 Performance-Overhead und macht es damit leichter, Programme gezielt zu
-optimieren. Auch der JIT-Compiler nimmt langsam Gestalt an. Dazu kommen
-zahlreiche weitere Verbesserungen, die 3.15 für viele Anwendungsfälle
-interessant machen.
+optimieren. Dazu kommen zahlreiche weitere Verbesserungen,
+die 3.15 für viele Anwendungsfälle interessant machen.
 
 Wir schauen uns die Neuerungen gemeinsam an und tauschen uns dazu aus. Wer
 Python 3.15 schon ausprobiert hat, erzählt gern von seinen Erfahrungen. Wer
